@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>LaTeX4Web 1.4 OUTPUT</title>
