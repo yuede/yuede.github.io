@@ -2,13 +2,13 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="author" content="Grace Liu">
+    <meta name="author" content="Yuede (YD) Ji">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <base href="{{site.baseurl}}/">
 
     <title>{{page.title}}</title>
 
-    <link rel="alternate" type="application/rss+xml" title="RSS Feed for Grace's Blog" href="rss.xml" />
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for Yuede's Blog" href="rss.xml" />
     <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet">
 
     <!-- Google Analytics -->
@@ -59,7 +59,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <span class="navbar-brand">Grace Liu</span>
+          <span class="navbar-brand">Yuede (YD) Ji</span>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
