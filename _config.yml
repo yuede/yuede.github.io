@@ -1,8 +1,6 @@
 exclude: [README.md, deploy.sh]
 highlighter: rouge
-title: Yuede (YD) Ji Homepage
-author:
-  name: Yuede (YD) Ji
-  linkedin: Yuede(YD) Ji
-  email: yuedeji@gwu.edu
-  github: yuede 
+name: Yuede (YD) Ji
+linkedin: Yuede(YD) Ji
+email: yuedeji@gwu.edu
+github: yuede 
