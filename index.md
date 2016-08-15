@@ -25,7 +25,7 @@ My research interests are mainly in High Performance Computing, Computer and Net
   * **[OpenNetVM: A Platform for High Performance Network Service Chains](static/papers/16-HotMiddlebox-onvm.pdf)**. *Wei Zhang, **Guyue Liu**, Wenhui Zhang, Neel Shah, Phillip Lopreiato, Gregoire Todeschi, K.K. Ramakrishnan, Timothy Wood.* Workshop on Hot Topics in Middleboxes and Network Function Virtualization (HotMiddlebox co-located with SIGCOMM'16), August 2016.
   * **[Protocols to Support Autonomy and Control for NFV in Software Defined Networks](static/papers/15-IEEE-NFVSDN-protocol.pdf)**. *Ali Mohammadkhan, **Guyue Liu**, Wei Zhang, K.K. Ramakrishnan, Timothy Wood.* IEEE Conference on Network Function Virtualization & Software Defined Networks (IEEE NFV-SDN), Nov 2015.
 
-**Yuede Ji**, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li, Combating the evasion mechanisms of social bots, Computers \& Security, Volume 58, May 2016, Pages 230-249[pdf](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf)
+* **Yuede Ji**, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li, Combating the evasion mechanisms of social bots, Computers & Security, Volume 58, May 2016, Pages 230-249 [[pdf]](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf)
 
 \item  \textbf{Yuede Ji}, Qiang Li, Yukun He, and Dong Guo. BotCatch: leveraging signature and behavior for bot detection. Security and Communication Networks (SCN), 8(6): 952-969 (2015)
 \item \textbf{Yuede Ji}, Qiang Li, Yukun He, and Dong Guo. Overhead Analysis and Evaluation of Approaches to Host-based Bot Detection. International Journal of Distributed Sensor Networks (IJDSN), 2015
