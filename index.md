@@ -80,6 +80,7 @@ My research interests are mainly in High Performance Computing, Computer and Net
     * **Third Prize**, ACM/ICPC Guangdong Province Contest 2010, Sun Yat-sen University (05/2010)
     
     * Honorable Mention*, ACM/ICPC Asia Regional Contest Wuhan Site 2009, Wuhan University (11/2009)
+  
   * **Mathematical Contest in Modeling (MCM)**
     * **Meritorious Winner** (Top 2%-11%), MCM Competition Organizing Committee (04/2011)
 
