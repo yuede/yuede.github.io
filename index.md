@@ -42,32 +42,32 @@ My research interests are mainly in High Performance Computing, Computer and Net
     * The International Conference for High Performance Computing, Networking, Storage and Analysis (SC): 2016
 
 ## Work Exeprience
-*2015.9 - 2016.8, Graduate Research Assistant, George Washington University
+* 2015.9 - 2016.8, Graduate Research Assistant, George Washington University
 
-*2012.9 - 2015.6, Graduate Research Assistant, Jilin University
+* 2012.9 - 2015.6, Graduate Research Assistant, Jilin University
 
-*2011.7 - 2011.9, Software Engineer (Intern), Baidu, Inc. (Beijing, China)
+* 2011.7 - 2011.9, Software Engineer (Intern), Baidu, Inc. (Beijing, China)
 
 ## Awards
 * **Best Paper**, NPC 2014, 11th IFIP International Conference on Network and Parallel Computing 
 
 * **Outstanding Master's Thesis**, Jilin University (2015)
 
-*Outstanding Graduates, Jilin University (2015)
+* Outstanding Graduates, Jilin University (2015)
 
 * **National Scholarship for Graduate Students**, Ministry of Education of the People's Republic of China (2014)
 
-*Scholarship for Outstanding Graduate Students, Meritorious Winner, Jilin University (2014)
+* Scholarship for Outstanding Graduate Students, Meritorious Winner, Jilin University (2014)
 
-*Honorary Title of Outstanding Graduate Students, Jilin University (2014)
+* Honorary Title of Outstanding Graduate Students, Jilin University (2014)
 
-*Full Tuition Fee Waiver Scholarship, Jilin University (2012-2015)
+* Full Tuition Fee Waiver Scholarship, Jilin University (2012-2015)
 
-*Third Prize of Scholarship for Outstanding Students, Jilin Universitry (2009-2012)
+* Third Prize of Scholarship for Outstanding Students, Jilin Universitry (2009-2012)
 
-*Dongrong Prize of Scholarship for Outstanding Students, Jilin University (2011)
+* Dongrong Prize of Scholarship for Outstanding Students, Jilin University (2011)
 
-*First Prize of Technology Innovation, Jilin University (2010, 2011)
+* First Prize of Technology Innovation, Jilin University (2010, 2011)
 
 ## Contest Awards
   * **ACM-ICPC International Collegiate Programming Contest**
@@ -75,7 +75,7 @@ My research interests are mainly in High Performance Computing, Computer and Net
     * **Bronze Medal**, ACM/ICPC Asia Regional Contest Harbin Site 2010, Harbin Engineering University (09/2010)
     * **First Prize**, ACM/ICPC Jilin Province Contest 2010, Jilin University (05/2010)
     * **Third Prize**, ACM/ICPC Guangdong Province Contest 2010, Sun Yat-sen University (05/2010)
-    *Honorable Mention*, ACM/ICPC Asia Regional Contest Wuhan Site 2009, Wuhan University (11/2009)
+    * Honorable Mention*, ACM/ICPC Asia Regional Contest Wuhan Site 2009, Wuhan University (11/2009)
   * **Mathematical Contest in Modeling (MCM)**
     * **Meritorious Winner** (Top 2%-11%), MCM Competition Organizing Committee (04/2011)
 
