@@ -47,7 +47,7 @@ My research interests are mainly in High Performance Computing, Computer and Net
 *2011.7 - 2011.9, Software Engineer (Intern), Baidu, Inc. (Beijing, China)
 
 ## Awards
-*NPC 2014, 11th IFIP International Conference on Network and Parallel Computing, **Best Paper**
+* **Best Paper**, NPC 2014, 11th IFIP International Conference on Network and Parallel Computing 
 * **Outstanding Master's Thesis**, Jilin University (2015)
 *Outstanding Graduates, Jilin University (2015)
 * **National Scholarship for Graduate Students**, Ministry of Education of the People's Republic of China (2014)}
