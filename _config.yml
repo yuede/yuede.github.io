@@ -1,5 +1,8 @@
 exclude: [README.md, deploy.sh]
 highlighter: rouge
-linkedin: graceliugw
-email: guyue.liu@gmail.com
-github: Grace-Liu
+title: Yuede (YD) Ji Homepage
+author:
+  name: Yuede (YD) Ji
+  linkedin: Yuede(YD) Ji
+  email: yuedeji@gwu.edu
+  github: yuede 

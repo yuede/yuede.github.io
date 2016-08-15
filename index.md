@@ -1,25 +1,23 @@
 ---
 layout: default
 section: home
-title: "Grace Liu: Homepage"
+title: "Yuede (YD) Ji: Homepage"
 ---
 <img src="static/info/profile.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
-# Guyue (Grace) Liu
+# Yuede (YD) Ji
 {% include social.html %}
 
 &nbsp;
 
-Welcome! I'm Guyue Liu, a PhD student in the Department of Computer Science, [George Washington University](http://www.gwu.edu/). I am part of the [Cloud Systems Lab](https://cloudlab.seas.gwu.edu/) and my advisor is [Prof. Timothy Wood](http://faculty.cs.gwu.edu/~timwood/wiki/doku.php). Prior to joining GWU, I received my B.S. from [Beijing University of Posts and Telecommunications](http://english.bupt.edu.cn/) in 2012.
+Welcome! I’m Yuede (YD) Ji, a PhD student in the Department of Electrical and Computer Engineering at the George Washington University. It's my great honor to be advised by [Prof. H. Howie Huang](https://csl.seas.gwu.edu). Prior to joining GWU, I received my B.S., M.S. from College of Computer Science and Technology, Jilin University, advised by Prof. Qiang Li.
 
-My research interests include Network Function Virtualization (NFV), Software-Defined Networking (SDN) and Cloud Platform.
+My research interests are mainly in High Performance Computing, Computer and Network Security. Currently, I am researching on graph computation and GPU.
 
 &nbsp;
 
 ## News
-  * May-2016:  [OpenNetVM](http://sdnfv.github.io/onvm/) is accepted to HotMiddlebox 2016!
-  * Apr-2016:  I will be doing a 2016 Summer Internship at Hewlett Packard Labs.
-  * Mar-2016:  I will be presenting our work NetAlytics at AT&T Research Academic Summit.
+  * Feb-2016:  Our paper "Combating the evasion mechanisms of social bots" is accepted by Computers & Security. 
 
 &nbsp;
 
