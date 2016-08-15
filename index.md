@@ -32,38 +32,40 @@ My research interests are mainly in High Performance Computing, Computer and Net
 * **Yuede Ji**, Yukun He, Qiang Li, and Dong Guo. [BotCatch: A Behavior and Signature Correlated Bot Detection Approach](static/papers/4 BotCatch A Behavior and Signature Correlated Bot Detection Approach_HPCC2013.pdf). High Performance Computing and Communications & 2013 IEEE International Conference on Embedded and Ubiquitous Computing, 2013 IEEE 10th International Conference on. IEEE, 2013: 1634-1639, (HPCC_EUC 2013)
 * Yukun He, Qiang Li, **Yuede Ji**, and Dong Guo. [BotInfer: A Bot Inference Approach by Correlating Host and Network Information Network and Parallel Computing](static/papers/2 BotInfer A Bot Inference Approach by Correlating Host and Network Information_NPC2013.pdf), Springer Berlin Heidelberg, 2013: 356-367, (NPC 2013)
 
-## Research Experience
-  * **Network Systems Research Intern, BBN Technologies**, Summer 2015
-    * Project: Real Time Network and Application Performance Monitoring Framework
-    * Mentor: Niky Riga
+## Professional Activities
+  * **Reviewer** 
+    * Security and Communication Networks (SCN): 2016, 2015, 2014
 
-  * **Research Intern, Chinese Academy of Sciences**, Sept 2011 - May 2012
-    * Project: Optimizing Network Performance of Virtual Machine Live Migration
-    * Mentors: Yuzhong Sun and Ying Song
+  * **External Reviewer**
+    * IEEE Trancation on Parallel and Distributed System (IEEE TPDS), 2016
+    * The International Conference for High Performance Computing, Networking, Storage and Analysis (SC): 2016
 
-  * **Summer Intern, Queen Mary, University of London**, Summer 2011
-    * Project: Elastic Message-oriented Middleware System on Top of Cloud Platform
-    * Mentors: Yasir Alfadhl and John Bigham
+## Work Exeprience
+    *2015.9 - 2016.8, Graduate Research Assistant, George Washington University
 
-## Teaching Experience
-  * **Guest Lecturer, George Washington University**, Fall 2015
-    * Global Environment for Network Innovations (GENI) Tutorial
-  * **Teaching Assistant, George Washington University**, Fall 2013 - Spring 2015
-    * CSCI 2113 Software Engineering
-  * **Teaching Assistant, Stony Brook University**, Fall 2012 - Spring 2013
-    * ESE 123 Introduction to Electrical and Computer Engineering
-    * ESE 124 Computer Techniques for Electronic Design I
+    *2012.9 - 2015.6, Graduate Research Assistant, Jilin University
 
-## Awards and Honors
-  * [HP Helion OpenStack Scholarship](http://community.hpe.com/t5/Grounded-in-the-Cloud/HP-Announces-Winners-of-Women-of-OpenStack-Scholarship-Program/ba-p/6680603#.VoW1hxqANBd), Dec 2014
-  * [First Place in 22nd GENI Engineering Conference Competition](http://it.gwu.edu/winners-gec22-student-competition-announced), Mar 2015
-  * [GWU 2015 SEAS R&D Showcase Finalists](http://gwtoday.gwu.edu/2015-seas-research-and-development-showcase-spurs-innovation), Feb 2015
-  * CRA-W Grad Cohort Travel Grant, Apr 2015, Apr 2016
-  * ACM Travel Grant for attending Diversity’15 and SOSP’15, Oct 2015
-  * USENIX NSDI Travel Grant for attending NSDI'15, May 2015
-  * GWU Women Scholarship for attending Grace Hopper'14, Oct 2014
-  * ACM SIGCOMM Travel Grant for attending SIGCOMM’14, Aug 2014
-  * NSF Student Scholarship for GENI Summer Camp'14, July 2014
-  * First Class Academic Scholarship of BUPT, Sept 2009, Sept 2011
-  * Outstanding Student Cadre of BUPT, Sept 2011
-  * Winner of Summer Research Project in London, July 2011
+    *2011.7 - 2011.9, Software Engineer (Intern), Baidu, Inc. (Beijing, China)
+## Awards
+    *NPC 2014, 11th IFIP International Conference on Network and Parallel Computing, **Best Paper**
+    * **Outstanding Master's Thesis**, Jilin University (2015)
+    *Outstanding Graduates, Jilin University (2015)
+    * **National Scholarship for Graduate Students**, Ministry of Education of the People's Republic of China (2014)}
+    *Scholarship for Outstanding Graduate Students, Meritorious Winner, Jilin University (2014)
+    *Honorary Title of Outstanding Graduate Students, Jilin University (2014)
+    *Full Tuition Fee Waiver Scholarship, Jilin University (2012-2015)
+    *Third Prize of Scholarship for Outstanding Students, Jilin Universitry (2009-2012)
+    *Dongrong Prize of Scholarship for Outstanding Students, Jilin University (2011)
+    *First Prize of Technology Innovation, Jilin University (2010, 2011)
+
+## Contest Awards
+  * **ACM-ICPC International Collegiate Programming Contest**
+    * **Bronze Medal**, ACM/ICPC Asia Regional Contest Fuzhou Site 2010, Fuzhou University (10/2010)
+    * **Bronze Medal**, ACM/ICPC Asia Regional Contest Harbin Site 2010, Harbin Engineering University (09/2010)
+    * **First Prize**, ACM/ICPC Jilin Province Contest 2010, Jilin University (05/2010)
+    * **Third Prize**, ACM/ICPC Guangdong Province Contest 2010, Sun Yat-sen University (05/2010)
+    *Honorable Mention*, ACM/ICPC Asia Regional Contest Wuhan Site 2009, Wuhan University (11/2009)
+  * **Mathematical Contest in Modeling (MCM)**
+    Meritorious Winner (Top 2%-11%), MCM Competition Organizing Committee (04/2011)
+
+
