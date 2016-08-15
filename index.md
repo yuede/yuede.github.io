@@ -24,15 +24,19 @@ My research interests are mainly in High Performance Computing, Computer and Net
 ## Publications
   * **[OpenNetVM: A Platform for High Performance Network Service Chains](static/papers/16-HotMiddlebox-onvm.pdf)**. *Wei Zhang, **Guyue Liu**, Wenhui Zhang, Neel Shah, Phillip Lopreiato, Gregoire Todeschi, K.K. Ramakrishnan, Timothy Wood.* Workshop on Hot Topics in Middleboxes and Network Function Virtualization (HotMiddlebox co-located with SIGCOMM'16), August 2016.
   * **[Protocols to Support Autonomy and Control for NFV in Software Defined Networks](static/papers/15-IEEE-NFVSDN-protocol.pdf)**. *Ali Mohammadkhan, **Guyue Liu**, Wei Zhang, K.K. Ramakrishnan, Timothy Wood.* IEEE Conference on Network Function Virtualization & Software Defined Networks (IEEE NFV-SDN), Nov 2015.
-  * **[NetDefense: Scalable, Flexible and Efficient DDoS Prevention with SDN and NFV](static/papers/15-Diversity-netdefense.pdf)**. *__Guyue Liu__, Timothy Wood.* Workshop on Supporting Diversity in Systems Researches (Diversity co-located with SOSP’15), October 2015.
-  * **[CloudNet: Dynamic Pooling of Cloud Resources by Live WAN Migration of Virtual Machines](static/papers/15-TRANS-cloudnet.pdf)**. *Timothy Wood, K.K. Ramakrishnan, Prashant Shenoy, Jacobus Van der Merwe, Jinho Hwang, **Guyue Liu**, Lucas Chaufournier.* IEEE/ACM Transactions on Networking, October 2015.
-  * **[Towards a Software-Based Network: Integrating Software Defined Networking and Network Function Virtualization](static/papers/15-Network-sdnfv.pdf)**. *Timothy Wood, K. K. Ramakrishnan, Jinho Hwang, **Grace Liu**, and Wei Zhang.* IEEE Networks Magazine, June 2015.
-  * **[NetAlytics: Flexible and Dynamic Network Analysis Framework](static/papers/15-NSDI-poster-netalytics.pptx)**. *__Guyue Liu__, Timothy Wood.* Poster in Symposium on Networked System Design and Implementation (NSDI’15 Poster), May 2015.
-  * **[SDNFV: Towards a Flexible and Dynamic Smart Data Plane](static/papers/15-NSDI-poster-sdnfv.pptx)**. *Wei Zhang, **Guyue Liu**, Ali Mohammadkhan, Jinho Hwang, K.K. Ramakrishnan, Timothy Wood.* Poster in Symposium on Networked System Design and Implementation (NSDI’15 Poster), May 2015.
-  * **[Virtual Function Placement and Traffic Steering in Flexible and Dynamic Software Defined Networks](static/papers/15-LANMAN-placement.pdf)**. *Ali Mohammadkhan, Sheida Ghapani, **Guyue Liu**, Wei Zhang, K. K. Ramakrishnan and Timothy Wood.* IEEE International Workshop on Local and Metropolitan Area Networks (LANMAN15), April 2015.
-  * **[Cloud-Scale Application Performance Monitoring with SDN and NFV](static/papers/15-IWCA-netalytics.pdf)**. *__Guyue Liu__, Timothy Wood.* IEEE International Workshop on Cloud Analytics (IWCA co-located with IC2E'15), March 2015.
-  * **[Topology Discovery & Service Classification for Distributed-Aware Clouds](static/papers/14-IWCA-topclass.pdf)**. *Jinho Hwang, **Guyue Liu**, Sai Zeng, Frederick y Wu, Timothy Wood.* IEEE International Workshop on Cloud Analytics (IWCA co-located with IC2E'14), March 2014.
-  * **[An Adaptive Bandwidth Allocation Algorithm for Live Migration Based on Service Features]()**. *Liu Shihai, Sun Yuqing, **Liu Guyue**.* Chinese Journal of Computers, Sept 2013.
+
+**Yuede Ji**, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li, Combating the evasion mechanisms of social bots, Computers \& Security, Volume 58, May 2016, Pages 230-249[pdf](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf)
+
+\item  \textbf{Yuede Ji}, Qiang Li, Yukun He, and Dong Guo. BotCatch: leveraging signature and behavior for bot detection. Security and Communication Networks (SCN), 8(6): 952-969 (2015)
+\item \textbf{Yuede Ji}, Qiang Li, Yukun He, and Dong Guo. Overhead Analysis and Evaluation of Approaches to Host-based Bot Detection. International Journal of Distributed Sensor Networks (IJDSN), 2015
+
+\item \textbf{Yuede Ji}, Yukun He, Xinyang Jiang, and Qiang Li. Towards Social Botnet Behavior Detecting in the End Host. 20th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2014)
+\item  \textbf{Yuede Ji}, Yukun He, Dewei Zhu, Qiang Li, and Dong Guo. A Multiprocess Mechanism of Evading Behavior-Based Bot Detection Approaches. Information Security Practice and Experience. Springer International Publishing, 2014: 75-89, (ISPEC 2014)
+%\item  Jian Cao, Qiang Li, Yukun He, \textbf{Yuede Ji}, and Dong Guo. Detection of Forwarding-based Malicious URLs in Online Social Networks. International Journal of Parallel Programming (IJPP) (published online)
+%\item Yukun He, Qiang Li, \textbf{Yuede Ji}, and Dong Guo. Detecting Response-Delayed Bot by Correlating Host Behavior and Network Activity (in Chinese). Chinese Journal of Computers, 2014, 37(1): 50-61.
+\item \textbf{Yuede Ji}, Yukun He, Qiang Li, and Dong Guo. BotCatch: A Behavior and Signature Correlated Bot Detection Approach. High Performance Computing and Communications \& 2013 IEEE International Conference on Embedded and Ubiquitous Computing, 2013 IEEE 10th International Conference on. IEEE, 2013: 1634-1639, (HPCC\_EUC 2013)
+%\item Yukun He, Qiang Li, \textbf{Yuede Ji}, and Dong Guo. Analysis of Botnet Detection Technique Based on Traffic Graph (in Chinese). Journal of Jilin University (Science Edition) 2013, 51(4): 681-688.
+%\item Yukun He, Qiang Li, \textbf{Yuede Ji}, and Dong Guo. BotInfer: A Bot Inference Approach by Correlating Host and Network Information Network and Parallel Computing, Springer Berlin Heidelberg, 2013: 356-367, (NPC 2013)
 
 ## Research Experience
   * **Network Systems Research Intern, BBN Technologies**, Summer 2015
