@@ -37,7 +37,7 @@ My research interests are mainly in High Performance Computing, Computer and Net
 * **Reviewer** 
     * Security and Communication Networks (SCN): 2016, 2015, 2014
 
-  * **External Reviewer**
+* **External Reviewer**
     * IEEE Trancation on Parallel and Distributed System (IEEE TPDS), 2016
     * The International Conference for High Performance Computing, Networking, Storage and Analysis (SC): 2016
 
@@ -51,11 +51,11 @@ My research interests are mainly in High Performance Computing, Computer and Net
 ## Awards
 * **Best Paper**, NPC 2014, 11th IFIP International Conference on Network and Parallel Computing 
 
-* **Outstanding Master's Thesis**, Jilin University (2015)
+* **Outstanding Master's Thesis**, Jilin University (2015) (The highest honor for master thesis at Jilin University)
 
 * Outstanding Graduates, Jilin University (2015)
 
-* **National Scholarship for Graduate Students**, Ministry of Education of the People's Republic of China (2014)
+* **National Scholarship for Graduate Students**, Ministry of Education of the People's Republic of China (2014) (The highest honor for graduate students in China)
 
 * Scholarship for Outstanding Graduate Students, Meritorious Winner, Jilin University (2014)
 
@@ -72,9 +72,13 @@ My research interests are mainly in High Performance Computing, Computer and Net
 ## Contest Awards
   * **ACM-ICPC International Collegiate Programming Contest**
     * **Bronze Medal**, ACM/ICPC Asia Regional Contest Fuzhou Site 2010, Fuzhou University (10/2010)
+
     * **Bronze Medal**, ACM/ICPC Asia Regional Contest Harbin Site 2010, Harbin Engineering University (09/2010)
+    
     * **First Prize**, ACM/ICPC Jilin Province Contest 2010, Jilin University (05/2010)
+    
     * **Third Prize**, ACM/ICPC Guangdong Province Contest 2010, Sun Yat-sen University (05/2010)
+    
     * Honorable Mention*, ACM/ICPC Asia Regional Contest Wuhan Site 2009, Wuhan University (11/2009)
   * **Mathematical Contest in Modeling (MCM)**
     * **Meritorious Winner** (Top 2%-11%), MCM Competition Organizing Committee (04/2011)
