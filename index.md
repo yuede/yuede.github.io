@@ -33,7 +33,8 @@ My research interests are mainly in High Performance Computing, Computer and Net
 * Yukun He, Qiang Li, **Yuede Ji**, and Dong Guo. [BotInfer: A Bot Inference Approach by Correlating Host and Network Information Network and Parallel Computing](static/papers/2 BotInfer A Bot Inference Approach by Correlating Host and Network Information_NPC2013.pdf), Springer Berlin Heidelberg, 2013: 356-367, (NPC 2013)
 
 ## Professional Activities
-  * **Reviewer** 
+
+* **Reviewer** 
     * Security and Communication Networks (SCN): 2016, 2015, 2014
 
   * **External Reviewer**
@@ -41,22 +42,21 @@ My research interests are mainly in High Performance Computing, Computer and Net
     * The International Conference for High Performance Computing, Networking, Storage and Analysis (SC): 2016
 
 ## Work Exeprience
-    *2015.9 - 2016.8, Graduate Research Assistant, George Washington University
+  *2015.9 - 2016.8, Graduate Research Assistant, George Washington University
+  *2012.9 - 2015.6, Graduate Research Assistant, Jilin University
+  *2011.7 - 2011.9, Software Engineer (Intern), Baidu, Inc. (Beijing, China)
 
-    *2012.9 - 2015.6, Graduate Research Assistant, Jilin University
-
-    *2011.7 - 2011.9, Software Engineer (Intern), Baidu, Inc. (Beijing, China)
 ## Awards
-    *NPC 2014, 11th IFIP International Conference on Network and Parallel Computing, **Best Paper**
-    * **Outstanding Master's Thesis**, Jilin University (2015)
-    *Outstanding Graduates, Jilin University (2015)
-    * **National Scholarship for Graduate Students**, Ministry of Education of the People's Republic of China (2014)}
-    *Scholarship for Outstanding Graduate Students, Meritorious Winner, Jilin University (2014)
-    *Honorary Title of Outstanding Graduate Students, Jilin University (2014)
-    *Full Tuition Fee Waiver Scholarship, Jilin University (2012-2015)
-    *Third Prize of Scholarship for Outstanding Students, Jilin Universitry (2009-2012)
-    *Dongrong Prize of Scholarship for Outstanding Students, Jilin University (2011)
-    *First Prize of Technology Innovation, Jilin University (2010, 2011)
+  *NPC 2014, 11th IFIP International Conference on Network and Parallel Computing, **Best Paper**
+  * **Outstanding Master's Thesis**, Jilin University (2015)
+  *Outstanding Graduates, Jilin University (2015)
+  * **National Scholarship for Graduate Students**, Ministry of Education of the People's Republic of China (2014)}
+  *Scholarship for Outstanding Graduate Students, Meritorious Winner, Jilin University (2014)
+  *Honorary Title of Outstanding Graduate Students, Jilin University (2014)
+  *Full Tuition Fee Waiver Scholarship, Jilin University (2012-2015)
+  *Third Prize of Scholarship for Outstanding Students, Jilin Universitry (2009-2012)
+  *Dongrong Prize of Scholarship for Outstanding Students, Jilin University (2011)
+  *First Prize of Technology Innovation, Jilin University (2010, 2011)
 
 ## Contest Awards
   * **ACM-ICPC International Collegiate Programming Contest**
@@ -66,6 +66,6 @@ My research interests are mainly in High Performance Computing, Computer and Net
     * **Third Prize**, ACM/ICPC Guangdong Province Contest 2010, Sun Yat-sen University (05/2010)
     *Honorable Mention*, ACM/ICPC Asia Regional Contest Wuhan Site 2009, Wuhan University (11/2009)
   * **Mathematical Contest in Modeling (MCM)**
-    Meritorious Winner (Top 2%-11%), MCM Competition Organizing Committee (04/2011)
+    * **Meritorious Winner** (Top 2%-11%), MCM Competition Organizing Committee (04/2011)
 
 
