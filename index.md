@@ -37,9 +37,9 @@ My research interests are mainly in High Performance Computing, Computer and Net
 * **Reviewer** 
     * Security and Communication Networks (SCN): 2016, 2015, 2014
 
-* **External Reviewer**
-    * IEEE Trancation on Parallel and Distributed System (IEEE TPDS), 2016
-    * The International Conference for High Performance Computing, Networking, Storage and Analysis (SC): 2016
+%* **External Reviewer**
+%    * IEEE Trancation on Parallel and Distributed System (IEEE TPDS), 2016
+%    * The International Conference for High Performance Computing, Networking, Storage and Analysis (SC): 2016
 
 ## Work Exeprience
 * 2015.9 - 2016.8, Graduate Research Assistant, George Washington University
