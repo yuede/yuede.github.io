@@ -21,7 +21,7 @@ My research interests are mainly in High Performance Computing, Computer and Net
 
 &nbsp;
 
-## Publications [Google Scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao)
+## Publications ##[Google Scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao)
 
 * **Yuede Ji**, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li, [Combating the evasion mechanisms of social bots](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf), Computers & Security, Volume 58, May 2016, Pages 230-249 
 * Jian Cao, Qiang Li, Yukun He, **Yuede Ji**, and Dong Guo. [Detection of Forwarding-based Malicious URLs in Online Social Networks](static/papers/7 Detection of Forwarding-Based Malicious URLs in Online Social Networks_IJPP2014.pdf). International Journal of Parallel Programming (IJPP), 44(1), 163-180, 2016.
