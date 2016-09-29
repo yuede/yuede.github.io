@@ -66,7 +66,7 @@
             <li {% if page.section == 'home'%} class="active" {% endif %} >
               <a href="index.html">Home</a>
             </li>
-            <li {% if page.section == 'open resource'%} class="active" {% endif %} >
+            <li {% if page.section == 'open_source'%} class="active" {% endif %} >
                <a href="open_source.html">Open Resource</a>
             </li>
           </ul>
