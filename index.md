@@ -81,4 +81,5 @@ My research interests are mainly in High Performance Computing, Computer and Net
   * **Mathematical Contest in Modeling (MCM)**
     * **Meritorious Winner** (Top 2%-11%), MCM Competition Organizing Committee (04/2011)
 
+{% include statistics.html %}
 

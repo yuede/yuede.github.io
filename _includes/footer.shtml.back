@@ -1,0 +1,29 @@
+<hr>
+  <font color=#767676>
+  <small>
+      <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=MDKR&d=4xBVn9-bm0jfIln5l3nGnxnkj4K0wvLqNWAuMCjoRk4"></script>  
+
+      <!-- GoStats JavaScript Based Code -->
+      <script type="text/javascript" src="http://gostats.com/js/counter.js"></script>
+      <script type="text/javascript">_gos='monster.gostats.com';_goa=483213;
+          _got=4;_goi=1;_goz=0;_god='hits';_gol='analyze web stats';_GoStatsRun();</script>
+      <noscript><a target="_blank" title="analyze web stats" 
+              href="http://gostats.com"><img alt="analyze web stats" 
+              src="http://monster.gostats.com/bin/count/a_483213/t_4/i_1/z_0/show_hits/counter.png" 
+              style="border-width:0" /></a></noscript>
+      <!-- End GoStats JavaScript Based Code -->
+
+      <div style="text-align:center">
+        Yuede (YD) Ji@GWU &nbsp;&nbsp;&nbsp;&nbsp; Last updated: {{'now' | date: "%h %d, %Y"}}
+  </div>
+  <div style="text-align:center">
+        This webpage was built with
+          <a href="https://github.com/twbs/bootstrap">Bootstrap</a> and
+          <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
+  </div>
+  </small>
+  </font>
+  <script src="//code.jquery.com/jquery.js"></script>
+  <script src="static/bootstrap/js/bootstrap.js"></script>
+  </body>
+</html>
