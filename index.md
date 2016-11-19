@@ -1,16 +1,16 @@
 ---
 layout: default
 section: home
-title: "Yuede (YD) Ji: Homepage"
+title: "Yuede Ji - George Washington University"
 ---
 <img src="static/info/profile.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
-# Yuede (YD) Ji
+# Yuede Ji
 {% include social.html %}
 
 &nbsp;
 
-Welcome! I’m Yuede (YD) Ji, a PhD student in the Department of Electrical and Computer Engineering at the George Washington University. It's my great honor to be advised by [Prof. H. Howie Huang](https://csl.seas.gwu.edu). Prior to joining GWU, I received my B.S., M.S. from College of Computer Science and Technology, Jilin University, advised by Prof. Qiang Li.
+Welcome! I’m Yuede Ji, a PhD student in the Department of Electrical and Computer Engineering at the George Washington University. It's my great honor to be advised by [Prof. H. Howie Huang](https://csl.seas.gwu.edu). Prior to joining GWU, I received my B.S., M.S. from College of Computer Science and Technology, Jilin University, advised by [Prof. Qiang Li](http://cs.jlu.edu.cn/?mod=teacher&act=view&id=69).
 
 My research interests are mainly in High Performance Computing, Computer and Network Security. Currently, I am researching on graph computation and GPU.
 
@@ -22,9 +22,9 @@ My research interests are mainly in High Performance Computing, Computer and Net
 &nbsp;
 
 ## Publications 
-([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [DBLP](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
+([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 
-* **Yuede Ji**, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li, [Combating the evasion mechanisms of social bots](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf), Computers & Security, Volume 58, May 2016, Pages 230-249 
+* **Yuede Ji**, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li, [Combating the evasion mechanisms of social bots](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf), Computers & Security, Volume 58, May 2016, Pages 230-249 [PDF] \[PPT\]
 * Jian Cao, Qiang Li, **Yuede Ji**, Yukun He, and Dong Guo. [Detection of Forwarding-based Malicious URLs in Online Social Networks](static/papers/7 Detection of Forwarding-Based Malicious URLs in Online Social Networks_IJPP2014.pdf). International Journal of Parallel Programming (IJPP), 44(1), 163-180, 2016.
 *  **Yuede Ji**, Qiang Li, Yukun He, and Dong Guo. [BotCatch: leveraging signature and behavior for bot detection](static/papers/6 BotCatch leveraging signature and behavior for bot detection_SCN_1052.pdf). Security and Communication Networks (SCN), 8(6): 952-969 (2015)
 * **Yuede Ji**, Qiang Li, Yukun He, and Dong Guo. [Overhead Analysis and Evaluation of Approaches to Host-based Bot Detection](static/papers/9_Overhead Analysis and Evaluation of Approaches to Host-Based Bot Detection.pdf). International Journal of Distributed Sensor Networks (IJDSN), 2015 
