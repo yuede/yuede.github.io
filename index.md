@@ -24,7 +24,8 @@ My research interests are mainly in High Performance Computing, Computer and Net
 ## Publications 
 ([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 
-* **Combating the evasion mechanisms of social bots**. [[PDF]](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf) [[DATA]](https://yuede.github.io/open_source.html)<br/><u>Yuede Ji</u>, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li<br/> <strong>Computers & Security</strong>, Volume 58, May 2016, Pages 230-249<br/><br/>
+<p>* **Combating the evasion mechanisms of social bots**. [[PDF]](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf) [[DATA]](https://yuede.github.io/open_source.html)<br/><u>Yuede Ji</u>, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li<br/> <strong>Computers & Security</strong>, Volume 58, May 2016, Pages 230-249<br/>
+</p>
 * **Detection of Forwarding-based Malicious URLs in Online Social Networks**. [[PDF]](static/papers/7 Detection of Forwarding-Based Malicious URLs in Online Social Networks_IJPP2014.pdf)<br/>Jian Cao, Qiang Li, <u>Yuede Ji</u>, Yukun He, and Dong Guo.<br/><strong>International Journal of Parallel Programming (IJPP)</strong>, 44(1), 163-180, 2016.
 * **BotCatch: leveraging signature and behavior for bot detection**. [[PDF]](static/papers/6 BotCatch leveraging signature and behavior for bot detection_SCN_1052.pdf) [[DATA]](https://yuede.github.io/open_source.html)<br/>**Yuede Ji**, Qiang Li, Yukun He, and Dong Guo. Security and Communication Networks (SCN), 8(6): 952-969 (2015) 
 * **Overhead Analysis and Evaluation of Approaches to Host-based Bot Detection**. [[PDF]](static/papers/9_Overhead Analysis and Evaluation of Approaches to Host-Based Bot Detection.pdf)<br/>**Yuede Ji**, Qiang Li, Yukun He, and Dong Guo. International Journal of Distributed Sensor Networks (IJDSN), 2015. 
