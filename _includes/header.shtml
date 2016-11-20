@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="author" content="Yuede (YD) Ji">
+    <meta name="author" content="Yuede Ji">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <base href="{{site.baseurl}}/">
 

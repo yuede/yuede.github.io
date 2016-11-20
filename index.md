@@ -3,7 +3,7 @@ layout: default
 section: home
 title: "Yuede Ji - George Washington University"
 ---
-<img src="static/info/profile.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
+<img src="static/info/profile.jpg" class="img-thumbnail" width="200px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
 # Yuede Ji
 {% include social.html %}
@@ -24,7 +24,7 @@ My research interests are mainly in High Performance Computing, Computer and Net
 ## Publications 
 ([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 
-* **Yuede Ji**, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li, [Combating the evasion mechanisms of social bots](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf), Computers & Security, Volume 58, May 2016, Pages 230-249 [PDF] \[PPT\]
+* **Yuede Ji**, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li, Combating the evasion mechanisms of social bots, Computers & Security, Volume 58, May 2016, Pages 230-249 [[PDF]](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf)       [PPT]
 * Jian Cao, Qiang Li, **Yuede Ji**, Yukun He, and Dong Guo. [Detection of Forwarding-based Malicious URLs in Online Social Networks](static/papers/7 Detection of Forwarding-Based Malicious URLs in Online Social Networks_IJPP2014.pdf). International Journal of Parallel Programming (IJPP), 44(1), 163-180, 2016.
 *  **Yuede Ji**, Qiang Li, Yukun He, and Dong Guo. [BotCatch: leveraging signature and behavior for bot detection](static/papers/6 BotCatch leveraging signature and behavior for bot detection_SCN_1052.pdf). Security and Communication Networks (SCN), 8(6): 952-969 (2015)
 * **Yuede Ji**, Qiang Li, Yukun He, and Dong Guo. [Overhead Analysis and Evaluation of Approaches to Host-based Bot Detection](static/papers/9_Overhead Analysis and Evaluation of Approaches to Host-Based Bot Detection.pdf). International Journal of Distributed Sensor Networks (IJDSN), 2015 
@@ -39,14 +39,16 @@ My research interests are mainly in High Performance Computing, Computer and Net
     * Security and Communication Networks (SCN): 2016, 2015, 2014
 
 ## Work Exeprience
+* 2016.9 - 2016.12, Graduate Teaching Assistant, George Washington University
+
 * 2015.9 - 2016.8, Graduate Research Assistant, George Washington University
 
 * 2012.9 - 2015.6, Graduate Research Assistant, Jilin University
 
 * 2011.7 - 2011.9, Software Engineer (Intern), Baidu, Inc. (Beijing, China)
 
-## Awards
-* **Best Paper**, NPC 2014, 11th IFIP International Conference on Network and Parallel Computing 
+## Selected Awards
+* **Best Paper Award**, NPC 2014, 11th IFIP International Conference on Network and Parallel Computing 
 
 * **Outstanding Master's Thesis**, Jilin University (2015) (The highest honor for master thesis at Jilin University)
 
@@ -54,31 +56,14 @@ My research interests are mainly in High Performance Computing, Computer and Net
 
 * **National Scholarship for Graduate Students**, Ministry of Education of the People's Republic of China (2014) (The highest honor for graduate students in China)
 
-* Scholarship for Outstanding Graduate Students, Meritorious Winner, Jilin University (2014)
-
-* Honorary Title of Outstanding Graduate Students, Jilin University (2014)
-
-* Full Tuition Fee Waiver Scholarship, Jilin University (2012-2015)
-
-* Third Prize of Scholarship for Outstanding Students, Jilin Universitry (2009-2012)
-
-* Dongrong Prize of Scholarship for Outstanding Students, Jilin University (2011)
-
-* First Prize of Technology Innovation, Jilin University (2010, 2011)
-
-## Contest Awards
-  * **ACM-ICPC International Collegiate Programming Contest**
+* **ACM-ICPC International Collegiate Programming Contest**
     * **Bronze Medal**, ACM/ICPC Asia Regional Contest Fuzhou Site 2010, Fuzhou University (10/2010)
 
     * **Bronze Medal**, ACM/ICPC Asia Regional Contest Harbin Site 2010, Harbin Engineering University (09/2010)
     
     * **First Prize**, ACM/ICPC Jilin Province Contest 2010, Jilin University (05/2010)
-    
-    * **Third Prize**, ACM/ICPC Guangdong Province Contest 2010, Sun Yat-sen University (05/2010)
-    
-    * Honorable Mention, ACM/ICPC Asia Regional Contest Wuhan Site 2009, Wuhan University (11/2009)
   
-  * **Mathematical Contest in Modeling (MCM)**
+* **Mathematical Contest in Modeling (MCM)**
     * **Meritorious Winner** (Top 2%-11%), MCM Competition Organizing Committee (04/2011)
 
 {% include statistics.html %}
