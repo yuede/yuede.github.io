@@ -28,19 +28,22 @@ My research interests are mainly in High Performance Computing, Computer and Net
 * **Detection of Forwarding-based Malicious URLs in Online Social Networks**. Jian Cao, Qiang Li, **Yuede Ji**, Yukun He, and Dong Guo. International Journal of Parallel Programming (IJPP), 44(1), 163-180, 2016.[[PDF]](static/papers/7 Detection of Forwarding-Based Malicious URLs in Online Social Networks_IJPP2014.pdf)
 * **BotCatch: leveraging signature and behavior for bot detection**. **Yuede Ji**, Qiang Li, Yukun He, and Dong Guo. Security and Communication Networks (SCN), 8(6): 952-969 (2015) [[PDF]](static/papers/6 BotCatch leveraging signature and behavior for bot detection_SCN_1052.pdf)
 * **Overhead Analysis and Evaluation of Approaches to Host-based Bot Detection**. **Yuede Ji**, Qiang Li, Yukun He, and Dong Guo. International Journal of Distributed Sensor Networks (IJDSN), 2015. [[PDF]](static/papers/9_Overhead Analysis and Evaluation of Approaches to Host-Based Bot Detection.pdf)      
-* **Towards Social Botnet Behavior Detecting in the End Host**. **Yuede Ji**, Yukun He, Xinyang Jiang, and Qiang Li. 20th IEEE International Conference on Parallel and Distributed System (ICPADS 2014). [PDF](static/papers/8 Towards Social Botnet Behavior Detecting in the End Host_ICPADS2014.pdf)
+* **Towards Social Botnet Behavior Detecting in the End Host**. **Yuede Ji**, Yukun He, Xinyang Jiang, and Qiang Li. 20th IEEE International Conference on Parallel and Distributed System (ICPADS 2014). [[PDF]](static/papers/8 Towards Social Botnet Behavior Detecting in the End Host_ICPADS2014.pdf)
 * **A Multiprocess Mechanism of Evading Behavior-Based Bot Detection Approaches**. **Yuede Ji**, Yukun He, Dewei Zhu, Qiang Li, and Dong Guo. Information Security Practice and Experience. Springer International Publishing, 2014: 75-89, (ISPEC 2014) [[PDF]](static/papers/5 A Mulitiprocess Mechanism of Evading Behavior-Based Bot Detection Approaches_ISPEC_2014.pdf)
 * **BotCatch: A Behavior and Signature Correlated Bot Detection Approach**. **Yuede Ji**, Yukun He, Qiang Li, and Dong Guo. High Performance Computing and Communications & 2013 IEEE International Conference on Embedded and Ubiquitous Computing, 2013 IEEE 10th International Conference on. IEEE, 2013: 1634-1639, (HPCC_EUC 2013) [[PDF]](static/papers/4 BotCatch A Behavior and Signature Correlated Bot Detection Approach_HPCC2013.pdf)
 * **BotInfer: A Bot Inference Approach by Correlating Host and Network Information**. Yukun He, Qiang Li, **Yuede Ji**, and Dong Guo. Network and Parallel Computing, Springer Berlin Heidelberg, 2013: 356-367, (NPC 2013) [[PDF]](static/papers/2 BotInfer A Bot Inference Approach by Correlating Host and Network Information_NPC2013.pdf) 
+
 ## Professional Activities
 
 * **Reviewer** 
     * Security and Communication Networks (SCN): 2016, 2015, 2014
 
 ## Teaching Experience
-*
+*SEAS 1001 - Engineering Orientation 
+[[Course Website]](https://www.seas.gwu.edu/~seas001/fall16/)
 
-*
+*ECE 1010 - Introduction to Electrical and Computer Engineering
+[[Course Website]](https://www.seas.gwu.edu/~ece001/)
 
 ## Work Exeprience
 * 2016.9 - 2016.12, Graduate Teaching Assistant, George Washington University
