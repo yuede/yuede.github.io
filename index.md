@@ -57,9 +57,9 @@ My research interests are mainly in High Performance Computing, Computer and Net
 
 * **Outstanding Master's Thesis**, Jilin University (2015) (The highest honor for master thesis at Jilin University)
 
-* Outstanding Graduates, Jilin University (2015)
-
 * **National Scholarship for Graduate Students**, Ministry of Education of the People's Republic of China (2014) (The highest honor for graduate students in China)
+
+* **Meritorious Winner** (Top 2%-11%) of Mathematical Contest in Modeling (MCM), MCM Competition Organizing Committee (04/2011)
 
 * **ACM-ICPC International Collegiate Programming Contest**
     * **Bronze Medal**, ACM/ICPC Asia Regional Contest Fuzhou Site 2010, Fuzhou University (10/2010)
@@ -68,8 +68,6 @@ My research interests are mainly in High Performance Computing, Computer and Net
     
     * **First Prize**, ACM/ICPC Jilin Province Contest 2010, Jilin University (05/2010)
   
-* **Mathematical Contest in Modeling (MCM)**
-    * **Meritorious Winner** (Top 2%-11%), MCM Competition Organizing Committee (04/2011)
 
 {% include statistics.html %}
 
