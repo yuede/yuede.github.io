@@ -5,7 +5,7 @@ title: "Yuede (YD) Ji: Open Resource"
 ---
 &nbsp;
 
-#### Upon any questions, please feel free to send me emails. 
+#### If you have any questions, feel free to contact me. 
 
 ## 1. Social Botnet 
 
