@@ -24,7 +24,8 @@ My research interests are mainly in High Performance Computing, Computer and Net
 ## Publications 
 ([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 
-* **Yuede Ji**, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li, Combating the evasion mechanisms of social bots, Computers & Security, Volume 58, May 2016, Pages 230-249 [[PDF]](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf)       [PPT]
+* Combating the evasion mechanisms of social bots 
+**Yuede Ji**, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li, Computers & Security, Volume 58, May 2016, Pages 230-249 [[PDF]](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf) [Code]
 * Jian Cao, Qiang Li, **Yuede Ji**, Yukun He, and Dong Guo. [Detection of Forwarding-based Malicious URLs in Online Social Networks](static/papers/7 Detection of Forwarding-Based Malicious URLs in Online Social Networks_IJPP2014.pdf). International Journal of Parallel Programming (IJPP), 44(1), 163-180, 2016.
 *  **Yuede Ji**, Qiang Li, Yukun He, and Dong Guo. [BotCatch: leveraging signature and behavior for bot detection](static/papers/6 BotCatch leveraging signature and behavior for bot detection_SCN_1052.pdf). Security and Communication Networks (SCN), 8(6): 952-969 (2015)
 * **Yuede Ji**, Qiang Li, Yukun He, and Dong Guo. [Overhead Analysis and Evaluation of Approaches to Host-based Bot Detection](static/papers/9_Overhead Analysis and Evaluation of Approaches to Host-Based Bot Detection.pdf). International Journal of Distributed Sensor Networks (IJDSN), 2015 
