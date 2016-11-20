@@ -8,13 +8,11 @@ title: "Yuede Ji - George Washington University"
 # Yuede Ji
 {% include social.html %}
 
-&nbsp;
 
-Welcome! I’m Yuede Ji, a PhD student in the Department of Electrical and Computer Engineering at the George Washington University. It's my great honor to be advised by [Prof. H. Howie Huang](https://csl.seas.gwu.edu). Prior to joining GWU, I received my B.S., M.S. from College of Computer Science and Technology, Jilin University, advised by [Prof. Qiang Li](http://cs.jlu.edu.cn/?mod=teacher&act=view&id=69).
+Welcome! I’m Yuede Ji, a PhD student in the [Department of Electrical and Computer Engineering](https://www.ece.gwu.edu) at [The George Washington University](https://www.gwu.edu). It's my great honor to be advised by [Prof. H. Howie Huang](https://csl.seas.gwu.edu). Prior to joining GWU, I received my B.E., M.S. from College of Computer Science and Technology, Jilin University, advised by [Prof. Qiang Li](http://cs.jlu.edu.cn/?mod=teacher&act=view&id=69).
 
 My research interests are mainly in High Performance Computing, Computer and Network Security. Currently, I am researching on graph computation and GPU.
 
-&nbsp;
 
 ## News
   * Feb-2016:  Our paper "Combating the evasion mechanisms of social bots" is accepted by Computers & Security. 
