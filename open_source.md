@@ -1,7 +1,7 @@
 ---
 layout: default
 section: open_source 
-title: "Yuede (YD) Ji: Open Resource"
+title: "Yuede Ji: Open Resource"
 ---
 &nbsp;
 
