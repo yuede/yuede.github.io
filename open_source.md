@@ -35,10 +35,12 @@ If you used them, please cite the related papers.
 
 ## 3. Botnet Samples
 
-We collect some botnet samples online and would like to share them for research purpose. It is shared through Baidu cloud and you can find them [here](https://pan.baidu.com/s/1miI0EXq)
+We collect some botnet samples online and would like to share them for research purpose. It is shared through Baidu cloud and you can find them [here](https://pan.baidu.com/s/1miI0EXq).
 
 If you used them, please cite the related papers.
 
 * **BotCatch: leveraging signature and behavior for bot detection**. [[PDF]](static/papers/6 BotCatch leveraging signature and behavior for bot detection_SCN_1052.pdf)<br/><u>Yuede Ji</u>, Qiang Li, Yukun He, and Dong Guo.<br/><strong>Security and Communication Networks (SCN)</strong>, 8(6): 952-969 (2015) 
 
 * **BotCatch: A Behavior and Signature Correlated Bot Detection Approach**. [[PDF]](static/papers/4 BotCatch A Behavior and Signature Correlated Bot Detection Approach_HPCC2013.pdf) [[PPT]](static/papers/4_botcatch_report-final.pptx)<br/><u>Yuede Ji</u>, Yukun He, Qiang Li, and Dong Guo.<br/><strong>HPCC_EUC 2013</strong>, High Performance Computing and Communications & 2013 IEEE International Conference on Embedded and Ubiquitous Computing, 2013 IEEE 10th International Conference on. IEEE, 2013: 1634-1639
+
+{% include statistics.html %}

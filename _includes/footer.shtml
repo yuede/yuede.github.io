@@ -2,7 +2,7 @@
   <font color=#767676>
   <small>
       <div style="text-align:center">
-        Yuede (YD) Ji@GWU &nbsp;&nbsp;&nbsp;&nbsp; Last updated: {{'now' | date: "%h %d, %Y"}}
+        Yuede Ji@GWU &nbsp;&nbsp;&nbsp;&nbsp; Last updated: {{'now' | date: "%h %d, %Y"}}
   </div>
   <div style="text-align:center">
         This webpage was built with
