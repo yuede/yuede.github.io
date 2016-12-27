@@ -23,7 +23,7 @@ If you used them, please cite the follwing papers.
 
 ## 2. Conventional Botnet
 
-Conventional botnet refers to the IRC, HTTP, and P2P based botnet. In the experiments of the following papers, we evaluate three botnets, HTTP-based bot Zeus, IRC-based SdBotand Agobot. We have the source code. Due to the sensitivity, we can share for research purpose **upon email requests**.
+Conventional botnet refers to the IRC, HTTP, and P2P based botnet. In the experiments of the following papers, we successfully ran and evaluate three botnets, HTTP-based bot Zeus, IRC-based SdBot and Agobot. Due to the sensitivity, we can share the source codes for research purpose **upon email requests**.
 
 If you used them, please cite the related papers.
 
