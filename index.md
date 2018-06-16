@@ -62,7 +62,7 @@ My research interests are mainly in High Performance Computing, Computer and Net
 
 * 2017.9 - 2018.5, Intern at the Division of Information Technology, Graduate Research Assistant, George Washington University
 
-* 2017.1 - 2017.8, Graduate Research Assistant, george washington university
+* 2017.1 - 2017.8, Graduate Research Assistant, George Washington University
 
 * 2016.9 - 2016.12, Graduate Teaching Assistant, George Washington University
 
@@ -73,7 +73,7 @@ My research interests are mainly in High Performance Computing, Computer and Net
 * 2011.7 - 2011.9, Software Engineer (Intern), Baidu, Inc. (Beijing, China)
 
 ## Professional Service
-* **Program Committee
+* **Program Committee**
     * IEEE Security and Privacy, 2018 (Student PC)
     * EuroSys, 2018 (Shadow PC)
 * **Journal Reviewer** 
