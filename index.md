@@ -17,7 +17,7 @@ My research interests are mainly in High Performance Computing, Computer and Net
 ## Publications 
 ([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 
-* **iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees**,<br/><u>Yuede Ji</u>, Hang Liu, Howie Huang,<br/><strong>SC 2018</strong>(to be appeared) 
+* **iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees**,<br/><u>Yuede Ji</u>, Hang Liu, Howie Huang,<br/><strong>SC 2018</strong> (to be appeared) 
 
 * **Combating the evasion mechanisms of social bots**. [[PDF]](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf) [[DATA]](https://yuede.github.io/open_source.html)<br/><u>Yuede Ji</u>, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li<br/> <strong>Computers & Security</strong>, Volume 58, May 2016, Pages 230-249<br/>
 
