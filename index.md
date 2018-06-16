@@ -17,7 +17,7 @@ My research interests are mainly in High Performance Computing, Computer and Net
 ## Publications 
 ([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 
-* **iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees**, <u>Yuede Ji</u>, Hang Liu, Howie Huang, SC 2018 (to be appeared) 
+* **iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees**,<br/><u>Yuede Ji</u>, Hang Liu, Howie Huang,<br/><strong>SC 2018</strong>(to be appeared) 
 
 * **Combating the evasion mechanisms of social bots**. [[PDF]](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf) [[DATA]](https://yuede.github.io/open_source.html)<br/><u>Yuede Ji</u>, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li<br/> <strong>Computers & Security</strong>, Volume 58, May 2016, Pages 230-249<br/>
 
@@ -38,7 +38,7 @@ My research interests are mainly in High Performance Computing, Computer and Net
 ## Selected Awards
 * **Best Paper Award**, NPC 2014, 11th IFIP International Conference on Network and Parallel Computing 
 
-* Student Travel Grant, USENIX ATC 2017
+* **Student Travel Grant**, USENIX ATC 2017
 
 * **Outstanding Master's Thesis**, Jilin University (2015) (The highest honor for master thesis at Jilin University)
 
@@ -47,11 +47,11 @@ My research interests are mainly in High Performance Computing, Computer and Net
 * **Meritorious Winner** (Top 2%-11%) of Mathematical Contest in Modeling (MCM), MCM Competition Organizing Committee (04/2011)
 
 * **ACM-ICPC International Collegiate Programming Contest**
-    * **Bronze Medal**, ACM/ICPC Asia Regional Contest Fuzhou Site 2010, Fuzhou University (10/2010)
+    * Bronze Medal, ACM/ICPC Asia Regional Contest Fuzhou Site 2010, Fuzhou University (10/2010)
 
-    * **Bronze Medal**, ACM/ICPC Asia Regional Contest Harbin Site 2010, Harbin Engineering University (09/2010)
+    * Bronze Medal, ACM/ICPC Asia Regional Contest Harbin Site 2010, Harbin Engineering University (09/2010)
     
-    * **First Prize**, ACM/ICPC Jilin Province Contest 2010, Jilin University (05/2010)
+    * First Prize, ACM/ICPC Jilin Province Contest 2010, Jilin University (05/2010)
 
 ## Teaching Courses
 * [SEAS 1001 - Engineering Orientation](https://www.seas.gwu.edu/~seas001/fall16/)
