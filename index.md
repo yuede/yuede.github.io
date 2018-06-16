@@ -60,7 +60,7 @@ My research interests are mainly in High Performance Computing, Computer and Net
 
 ## Work Exeprience
 
-* 2017.9 - 2018.5, Intern at the Division of Information Technology, Graduate Research Assistant, George Washington University
+* 2017.9 - 2018.5, Intern at the Planning and Strategic Initiatives of DIT, George Washington University
 
 * 2017.1 - 2017.8, Graduate Research Assistant, George Washington University
 
