@@ -17,7 +17,7 @@ My research interests are mainly in High Performance Computing, Computer and Net
 ## Publications 
 ([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 
-* **iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees**,<br/><u>Yuede Ji</u>, Hang Liu, Howie Huang,<br/><strong>SC 2018</strong> (to be appeared) 
+* **iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees**,<br/><u>Yuede Ji</u>, Hang Liu, Howie Huang,<br/><strong>SC 2018</strong> (to appear) 
 
 * **Combating the evasion mechanisms of social bots**. [[PDF]](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf) [[DATA]](https://yuede.github.io/open_source.html)<br/><u>Yuede Ji</u>, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li<br/> <strong>Computers & Security</strong>, Volume 58, May 2016, Pages 230-249<br/>
 
@@ -38,7 +38,7 @@ My research interests are mainly in High Performance Computing, Computer and Net
 ## Selected Awards
 * **Best Paper Award**, NPC 2014, 11th IFIP International Conference on Network and Parallel Computing 
 
-* **Student Travel Grant**, USENIX ATC 2017
+* **Student Travel Grant**, SC 2018, USENIX ATC 2017
 
 * **Outstanding Master's Thesis**, Jilin University (2015) (The highest honor for master thesis at Jilin University)
 
@@ -58,24 +58,24 @@ My research interests are mainly in High Performance Computing, Computer and Net
 
 * [ECE 1010 - Introduction to Electrical and Computer Engineering](https://www.seas.gwu.edu/~ece001/)
 
-## Work Exeprience
+## Working Exeprience
+
+* 2015.9 - now, Graduate Research Assistant, George Washington University
 
 * 2017.9 - 2018.5, Intern at the Planning and Strategic Initiatives of DIT, George Washington University
 
-* 2017.1 - 2017.8, Graduate Research Assistant, George Washington University
-
 * 2016.9 - 2016.12, Graduate Teaching Assistant, George Washington University
-
-* 2015.9 - 2016.8, Graduate Research Assistant, George Washington University
 
 * 2012.9 - 2015.6, Graduate Research Assistant, Jilin University
 
 * 2011.7 - 2011.9, Software Engineer (Intern), Baidu, Inc. (Beijing, China)
 
 ## Professional Service
+
 * **Program Committee**
     * IEEE Security and Privacy, 2018 (Student PC)
     * EuroSys, 2018 (Shadow PC)
+
 * **Journal Reviewer** 
     * Journal of Parallel and Distributed Computing
     * IEEE Transactions on Cloud Computing
