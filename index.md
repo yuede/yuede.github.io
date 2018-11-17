@@ -17,15 +17,19 @@ My research interests are mainly in High Performance Computing, Computer and Net
 ## Publications 
 ([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 
-* iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](static/papers/iSpan_SC18.pdf)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang,<br/>Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis<br/><strong>SC 2018</strong><br/>
+* iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](static/papers/iSpan_SC18.pdf)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang,<br/><strong>SC 2018</strong>, Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis<br/>
+
+* Understanding socialbot behavior on end hosts.<br/>
+Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
+<strong>IJDSN</strong>, International Journal of Distributed Sensor Networks<br/>
 
 * Combating the evasion mechanisms of social bots. [[PDF]](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf) [[DATA]](https://yuede.github.io/open_source.html)<br/><u>Yuede Ji</u>, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li<br/> <strong>Computers & Security</strong>, Volume 58, May 2016, Pages 230-249<br/>
 
-* Detection of Forwarding-based Malicious URLs in Online Social Networks. [[PDF]](static/papers/7 Detection of Forwarding-Based Malicious URLs in Online Social Networks_IJPP2014.pdf)<br/>Jian Cao, Qiang Li, <u>Yuede Ji</u>, Yukun He, and Dong Guo.<br/><strong>International Journal of Parallel Programming (IJPP)</strong>, 44(1), 163-180, 2016.
+* Detection of Forwarding-based Malicious URLs in Online Social Networks. [[PDF]](static/papers/7 Detection of Forwarding-Based Malicious URLs in Online Social Networks_IJPP2014.pdf)<br/>Jian Cao, Qiang Li, <u>Yuede Ji</u>, Yukun He, and Dong Guo.<br/><strong>IJPP</strong>, International Journal of Parallel Programming, 44(1), 163-180, 2016.
 
-* BotCatch: leveraging signature and behavior for bot detection. [[PDF]](static/papers/6 BotCatch leveraging signature and behavior for bot detection_SCN_1052.pdf)<br/><u>Yuede Ji</u>, Qiang Li, Yukun He, and Dong Guo.<br/><strong>Security and Communication Networks (SCN)</strong>, 8(6): 952-969 (2015) 
+* BotCatch: leveraging signature and behavior for bot detection. [[PDF]](static/papers/6 BotCatch leveraging signature and behavior for bot detection_SCN_1052.pdf)<br/><u>Yuede Ji</u>, Qiang Li, Yukun He, and Dong Guo.<br/><strong>SCN</strong>, Security and Communication Networks, 8(6): 952-969 (2015) 
 
-* Overhead Analysis and Evaluation of Approaches to Host-based Bot Detection. [[PDF]](static/papers/9_Overhead Analysis and Evaluation of Approaches to Host-Based Bot Detection.pdf)<br/><u>Yuede Ji</u>, Qiang Li, Yukun He, and Dong Guo.<br/><strong>International Journal of Distributed Sensor Networks (IJDSN)</strong>, 2015. 
+* Overhead Analysis and Evaluation of Approaches to Host-based Bot Detection. [[PDF]](static/papers/9_Overhead Analysis and Evaluation of Approaches to Host-Based Bot Detection.pdf)<br/><u>Yuede Ji</u>, Qiang Li, Yukun He, and Dong Guo.<br/><strong>IJDSN</strong>, International Journal of Distributed Sensor Networks, 2015. 
 
 * Towards Social Botnet Behavior Detecting in the End Host. [[PDF]](static/papers/8 Towards Social Botnet Behavior Detecting in the End Host_ICPADS2014.pdf) [[PPT]](static/papers/8_Social_Botnet_ICPADS_2014_slides.pdf) [[DATA]](https://yuede.github.io/open_source.html)<br/><u>Yuede Ji</u>, Yukun He, Xinyang Jiang, and Qiang Li.<br/><strong>ICPADS 2014</strong>, 20th IEEE International Conference on Parallel and Distributed System 
 
