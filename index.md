@@ -17,7 +17,10 @@ My research interests are mainly in High Performance Computing, Computer and Net
 ## Publications 
 ([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 
+* DeepArmour: Robust Malware Classification against Adversarial Evasion Attacks. <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/><strong>AICS 2019</strong>, The AAAI-19 Workshop on Artificial Intelligence for Cyber Security<br/> (to appear)
+
 * iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](static/papers/iSpan_SC18.pdf)[[Code]](https://github.com/iHeartGraph/iSpan)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang,<br/><strong>SC 2018</strong>, Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis<br/>
+
 
 * Understanding socialbot behavior on end hosts.<br/>
 Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
