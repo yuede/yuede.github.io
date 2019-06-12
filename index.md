@@ -17,7 +17,14 @@ My research interests are mainly in High Performance Computing, Computer and Net
 ## Publications 
 ([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 
-* DeepArmour: Robust Malware Classification against Adversarial Evasion Attacks. <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/><strong>AICS 2019</strong>, The AAAI-19 Workshop on Artificial Intelligence for Cyber Security (to appear)<br/> 
+
+* Securing Malware Cognitive Systems against Adversarial Attacks. [[PDF]](static/papers/DeepArmour_ICCC19) <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/><strong>ICCC 2019</strong>, 2019 IEEE International Conference on Cognitive Computing<br/>
+Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligence for Cyber Security<br/>
+
+* Unstanding and Detecting Social Botnet.<br/><u>Yuede Ji</u>, and Qiang Li<br/>Invited book chapter, Botnets: Architectures, Countermeasures, and Challenges
+
+* Stopping the Cyber Attack in the Early Stage Assessing the Security Risks of Social Network Users.<br/>Bo Feng, Qiang Li, <u>Yuede Ji</u>, Dong Guo, and Xiangyu Meng.<br/>Security and Communication Networks (to appear)<br/>
+
 
 * iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](static/papers/iSpan_SC18.pdf)[[Slides]](static/papers/iSpan_SC_18.pdf)[[Code]](https://github.com/iHeartGraph/iSpan)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang,<br/><strong>SC 2018</strong>, Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis<br/>
 
