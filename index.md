@@ -18,7 +18,7 @@ My research interests are mainly in High Performance Computing, Computer and Net
 ([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 
 
-* Securing Malware Cognitive Systems against Adversarial Attacks. [[PDF]](static/papers/DeepArmour_ICCC19) <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/><strong>ICCC 2019</strong>, 2019 IEEE International Conference on Cognitive Computing<br/>, <strong>Best Student Paper Nomination</strong>,
+* Securing Malware Cognitive Systems against Adversarial Attacks. [[PDF]](static/papers/DeepArmour_ICCC19) <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/><strong>ICCC 2019</strong>, 2019 IEEE International Conference on Cognitive Computing, <strong>Best Student Paper Nomination</strong><br/>
 Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligence for Cyber Security<br/>
 
 * Unstanding and Detecting Social Botnet.<br/><u>Yuede Ji</u>, and Qiang Li<br/><strong>Invited book chapter</strong>, Botnets: Architectures, Countermeasures, and Challenges<br/>
