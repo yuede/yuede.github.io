@@ -97,6 +97,7 @@ Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
     * Journal of Parallel and Distributed Computing
     * Security and Communication Networks
     * Frontiers of Computer Science
+    * Wireless Communications and Mobile Computing
     * IEEE Access
 * **Volunteer**
     * HPDC 2017
