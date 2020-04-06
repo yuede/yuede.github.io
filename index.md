@@ -10,13 +10,15 @@ title: "Yuede Ji - George Washington University"
 
 
 ## About me
-I am a Ph.D. student from the [Department of Electrical and Computer Engineering](https://www.ece.gwu.edu) at [The George Washington University](https://www.gwu.edu). It's my great honor to be advised by [Prof. Howie Huang](https://www.seas.gwu.edu/howie-huang). Prior to joining GWU, I received my B.E., M.S. from College of Computer Science and Technology, Jilin University, advised by [Prof. Qiang Li](http://ccst.jlu.edu.cn/info/1026/6668.htm).
+I am a Ph.D. student from the [Department of Electrical and Computer Engineering](https://www.ece.gwu.edu) at [The George Washington University](https://www.gwu.edu). It's my great honor to be advised by [Prof. Howie Huang](https://www.seas.gwu.edu/howie-huang). Prior to joining GWU, I received my B.E., M.S. from Jilin University, advised by [Prof. Qiang Li](http://ccst.jlu.edu.cn/info/1026/6668.htm).
 
-My research interests are mainly in High Performance Computing, Computer and Network Security. Currently, I am researching on graph-centric security and computation.
+My research interests are mainly in graph analytics for high performance computing, cybersecurity, and machine learning. 
+#Currently, I am researching on graph-centric security and computation.
 
 ## Publications 
 ([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 
+* Aquila: Adaptive Parallel Computation of Graph Connectivity Queries. <br/><u>Yuede Ji</u> and Howie Huang,<br/><strong>HPDC 2020</strong>, The 29th International Symposium on High-Performance Parallel and Distributed Computing<br/>
 
 * Securing Malware Cognitive Systems against Adversarial Attacks. [[PDF]](static/papers/DeepArmour_ICCC19.pdf) <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/><strong>ICCC 2019</strong>, 2019 IEEE International Conference on Cognitive Computing, <strong>Best Student Paper Nomination</strong><br/>
 Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligence for Cyber Security<br/>
