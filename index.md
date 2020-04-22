@@ -14,8 +14,7 @@ I am a Ph.D. student from the [Department of Electrical and Computer Engineering
 
 My research interests are mainly in graph analytics for high performance computing, cybersecurity, and machine learning. 
 
-## Publications 
-([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
+## Publications ([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 ### Conference
 * Aquila: Adaptive Parallel Computation of Graph Connectivity Queries. [[PDF]](static/papers/Aquila_HPDC20_final.pdf) <br/><u>Yuede Ji</u> and H. Howie Huang,<br/><strong>[HPDC'20]</strong>, The 29th International Symposium on High-Performance Parallel and Distributed Computing<br/>
 
@@ -23,6 +22,8 @@ My research interests are mainly in graph analytics for high performance computi
 Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligence for Cyber Security<br/>
 
 * iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](static/papers/iSpan_SC18.pdf)[[Slides]](static/papers/iSpan_SC_18.pdf)[[Code]](https://github.com/iHeartGraph/iSpan)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang,<br/><strong>[SC'18]</strong>, Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis<br/>
+
+* Detection of Forwarding-based Malicious URLs in Online Social Networks. [[PDF]](static/papers/7 Detection of Forwarding-Based Malicious URLs in Online Social Networks_IJPP2014.pdf)<br/>Jian Cao, Qiang Li, <u>Yuede Ji</u>, Yukun He, and Dong Guo.<br/><strong>[NPC'14]</strong>, Network and Parallel Computing, <strong> Best Paper Award</strong><br/>Invited to journal publication, International Journal of Parallel Programming, 44(1), 163-180, 2016.
 
 * Towards Social Botnet Behavior Detecting in the End Host. [[PDF]](static/papers/8 Towards Social Botnet Behavior Detecting in the End Host_ICPADS2014.pdf) [[PPT]](static/papers/8_Social_Botnet_ICPADS_2014_slides.pdf) [[DATA]](https://yuede.github.io/open_source.html)<br/><u>Yuede Ji</u>, Yukun He, Xinyang Jiang, and Qiang Li.<br/><strong>[ICPADS'14]</strong>, 20th IEEE International Conference on Parallel and Distributed System 
 
@@ -45,7 +46,6 @@ Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
 
 * Combating the evasion mechanisms of social bots. [[PDF]](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf) [[DATA]](https://yuede.github.io/open_source.html)<br/><u>Yuede Ji</u>, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li<br/> <strong>[Computers & Security]</strong>, Volume 58, May 2016, Pages 230-249<br/>
 
-* Detection of Forwarding-based Malicious URLs in Online Social Networks. [[PDF]](static/papers/7 Detection of Forwarding-Based Malicious URLs in Online Social Networks_IJPP2014.pdf)<br/>Jian Cao, Qiang Li, <u>Yuede Ji</u>, Yukun He, and Dong Guo.<br/><strong>[IJPP]</strong>, International Journal of Parallel Programming, 44(1), 163-180, 2016.
 
 * BotCatch: leveraging signature and behavior for bot detection. [[PDF]](static/papers/6 BotCatch leveraging signature and behavior for bot detection_SCN_1052.pdf)<br/><u>Yuede Ji</u>, Qiang Li, Yukun He, and Dong Guo.<br/><strong>[SCN]</strong>, Security and Communication Networks, 8(6): 952-969 (2015).
 
@@ -61,14 +61,12 @@ Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
 
 * National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China (2014) (The highest honor for graduate students in China)
 
-<!-- * Meritorious Winner (Top 2%-11%) of Mathematical Contest in Modeling (MCM) (04/2011)
+<!-- * Meritorious Winner (Top 2%-11%) of Mathematical Contest in Modeling (MCM) (04/2011) --!>
 
-* ACM-ICPC International Collegiate Programming Contest
-    * Bronze Medal, ACM/ICPC Asia Regional Contest Fuzhou Site 2010, Fuzhou University (10/2010)
-
-    * Bronze Medal, ACM/ICPC Asia Regional Contest Harbin Site 2010, Harbin Engineering University (09/2010)
-    
-    * First Prize, ACM/ICPC Jilin Province Contest 2010, Jilin University (05/2010)--!>
+<!-- * ACM-ICPC International Collegiate Programming Contest --!>
+<!--    * Bronze Medal, ACM/ICPC Asia Regional Contest Fuzhou Site 2010, Fuzhou University (10/2010)--!>
+<!--    * Bronze Medal, ACM/ICPC Asia Regional Contest Harbin Site 2010, Harbin Engineering University (09/2010)--!>
+<!--    * First Prize, ACM/ICPC Jilin Province Contest 2010, Jilin University (05/2010)--!>
 
 ## Teaching Courses
 * [SEAS 1001 - Engineering Orientation](https://www.seas.gwu.edu/~seas001/fall16/)
