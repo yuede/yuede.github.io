@@ -14,7 +14,7 @@ I am a Ph.D. student from the [Department of Electrical and Computer Engineering
 
 My research interests are mainly in graph analytics for high performance computing, cybersecurity, and machine learning. 
 
-## Publications ([Google scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
+## Publications ([Google Scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 ### Conference
 * Aquila: Adaptive Parallel Computation of Graph Connectivity Queries. [[PDF]](static/papers/Aquila_HPDC20_final.pdf) <br/><u>Yuede Ji</u> and H. Howie Huang,<br/><strong>[HPDC'20]</strong>, The 29th International Symposium on High-Performance Parallel and Distributed Computing<br/>
 
@@ -61,12 +61,6 @@ Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
 
 * National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China (2014) (The highest honor for graduate students in China)
 
-<!-- * Meritorious Winner (Top 2%-11%) of Mathematical Contest in Modeling (MCM) (04/2011) --!>
-
-<!-- * ACM-ICPC International Collegiate Programming Contest --!>
-<!--    * Bronze Medal, ACM/ICPC Asia Regional Contest Fuzhou Site 2010, Fuzhou University (10/2010)--!>
-<!--    * Bronze Medal, ACM/ICPC Asia Regional Contest Harbin Site 2010, Harbin Engineering University (09/2010)--!>
-<!--    * First Prize, ACM/ICPC Jilin Province Contest 2010, Jilin University (05/2010)--!>
 
 ## Teaching Courses
 * [SEAS 1001 - Engineering Orientation](https://www.seas.gwu.edu/~seas001/fall16/)
