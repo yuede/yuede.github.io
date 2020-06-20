@@ -10,7 +10,7 @@ title: "Yuede Ji - George Washington University"
 
 
 ## About me
-I am a Ph.D. student from the [Department of Electrical and Computer Engineering](https://www.ece.gwu.edu) at [The George Washington University](https://www.gwu.edu). It's my great honor to be advised by [Prof. H. Howie Huang](https://www.seas.gwu.edu/howie-huang). Prior to joining GWU, I received my B.E., M.S. from Jilin University, advised by [Prof. Qiang Li](http://ccst.jlu.edu.cn/info/1026/6668.htm).
+I am a Ph.D. student from the Department of Electrical and Computer Engineering at The George Washington University. It's my great honor to be advised by [Prof. H. Howie Huang](https://www.seas.gwu.edu/howie-huang). Prior to joining GWU, I received my B.E., M.S. from Jilin University, advised by [Prof. Qiang Li](http://ccst.jlu.edu.cn/info/1026/6668.htm).
 
 My research interests are mainly in graph analytics for high performance computing, cybersecurity, and machine learning. 
 
