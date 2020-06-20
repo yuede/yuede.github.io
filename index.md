@@ -16,11 +16,11 @@ My research interests are mainly in graph analytics for high performance computi
 
 ## News
 
-*[June 2020]*: Start working as a senior intern at Kryptowire Lead by Prof. Angelos Stavrou from Virginia Tech.
+*June 2020*: Start working as a senior intern at Kryptowire Lead by Prof. Angelos Stavrou from Virginia Tech.
 
-*[May 2020]*: Our lateral movement detection paper, CyberGraph, is accepted by RAID'20
+*May 2020*: Our paper on lateral movement detection, CyberGraph, is accepted by RAID'20.
 
-*[March 2020]*: Our paper on graph connectivity computation framework, Aquila, is accepted by HPDC'20
+*March 2020*: Our paper on graph connectivity computation framework, Aquila, is accepted by HPDC'20.
 
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
