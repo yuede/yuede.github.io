@@ -3,7 +3,7 @@ layout: default
 section: home
 title: "Yuede Ji - George Washington University"
 ---
-<img src="static/info/profile.jpg" class="img-thumbnail" width="200px" style="float:right; margin-left:30px; margin-top:50px; margin-bottom:10px;">
+<img src="static/info/profile_formal.png" class="img-thumbnail" width="200px" style="float:right; margin-left:30px; margin-top:50px; margin-bottom:10px;">
 
 # Yuede Ji
 {% include social.html %}
@@ -13,6 +13,14 @@ title: "Yuede Ji - George Washington University"
 I am a Ph.D. student from the [Department of Electrical and Computer Engineering](https://www.ece.gwu.edu) at [The George Washington University](https://www.gwu.edu). It's my great honor to be advised by [Prof. H. Howie Huang](https://www.seas.gwu.edu/howie-huang). Prior to joining GWU, I received my B.E., M.S. from Jilin University, advised by [Prof. Qiang Li](http://ccst.jlu.edu.cn/info/1026/6668.htm).
 
 My research interests are mainly in graph analytics for high performance computing, cybersecurity, and machine learning. 
+
+## News
+
+June, 2020: Started to work as a senior intern at Kryptowire Lead by Prof. Angelos Stavrou from Virginia Tech.
+
+
+
+
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 ### Conference
