@@ -16,9 +16,11 @@ My research interests are mainly in graph analytics for high performance computi
 
 ## News
 
-June, 2020: Started to work as a senior intern at Kryptowire Lead by Prof. Angelos Stavrou from Virginia Tech.
+*June, 2020*: Start working as a senior intern at Kryptowire Lead by Prof. Angelos Stavrou from Virginia Tech.
 
+*May, 2020*: RAID 2020
 
+*March, 2020*: HPDC 2020
 
 
 
