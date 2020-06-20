@@ -34,7 +34,7 @@ Benjamin Bowman, Craig Laprade, <u>Yuede Ji</u>, and H. Howie Huang<br/><strong>
 * Securing Malware Cognitive Systems against Adversarial Attacks. [[PDF]](static/papers/DeepArmour_ICCC19.pdf) <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/><strong>[ICCC'19]</strong>, 2019 IEEE International Conference on Cognitive Computing, <strong>Best Student Paper Nomination</strong><br/>
 Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligence for Cyber Security<br/>
 
-* iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](static/papers/iSpan_SC18.pdf)[[Slides]](static/papers/iSpan_SC_18.pdf)[[Code]](https://github.com/iHeartGraph/iSpan)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang,<br/><strong>[SC'18]</strong>, Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis<br/>
+* iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](static/papers/iSpan_SC18.pdf)[[PPT]](static/papers/iSpan_SC_18.pdf)[[Code]](https://github.com/iHeartGraph/iSpan)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang,<br/><strong>[SC'18]</strong>, Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis<br/>
 
 * Detection of Forwarding-based Malicious URLs in Online Social Networks. [[PDF]](static/papers/7 Detection of Forwarding-Based Malicious URLs in Online Social Networks_IJPP2014.pdf)<br/>Jian Cao, Qiang Li, <u>Yuede Ji</u>, Yukun He, and Dong Guo.<br/><strong>[NPC'14]</strong>, IFIP International Conference on Network and Parallel Computing, <strong> Best Paper Award</strong><br/>Invited to journal publication, International Journal of Parallel Programming, 44(1), 163-180, 2016.
 
@@ -70,9 +70,9 @@ Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
 
 * Student Travel Grant, SC 2018, USENIX ATC 2017
 
-* Outstanding Master's Thesis, Jilin University (2015) (Highest honor for master thesis at the University)
+* Outstanding Master's Thesis, Jilin University, 2015 
 
-* National Scholarship for Graduate Students, Ministry of Education of the People's Republic of China (2014) (Highest honor for graduate students in China)
+* National Scholarship for Graduate Students, China, 2015
 
 
 ## Teaching Courses
@@ -90,7 +90,7 @@ Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
 
 * 2012.9 - 2015.6, Graduate Research Assistant, Jilin University
 
-* 2011.7 - 2011.9, Software Engineer (Intern), Baidu, Inc. (Beijing, China)
+* 2011.7 - 2011.9, Software Engineer Intern, Baidu
 
 ## Professional Service
 
