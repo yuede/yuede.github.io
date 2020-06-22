@@ -6,6 +6,7 @@ title: "Yuede Ji - George Washington University"
 <img src="static/info/profile_formal.png" class="img-thumbnail" width="200px" style="float:right; margin-left:30px; margin-top:50px; margin-bottom:10px;">
 
 # Yuede Ji
+Pronounciation: yüeh te chi 
 {% include social.html %}
 
 
