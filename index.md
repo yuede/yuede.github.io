@@ -27,7 +27,7 @@ My research interests are mainly in graph analytics for high performance computi
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 ### Conference
 
-* Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI. <br/>
+* Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI. [[PDF]](static/papers/20_lateral_movement_RAID.pdf)<br/>
 Benjamin Bowman, Craig Laprade, <u>Yuede Ji</u>, and H. Howie Huang<br/><strong>[RAID'20]</strong>, The 23rd International Symposium on Research in Attacks, Intrusions and Defenses<br/>
 
 * Aquila: Adaptive Parallel Computation of Graph Connectivity Queries. [[PDF]](static/papers/Aquila_HPDC20_final.pdf) <br/><u>Yuede Ji</u> and H. Howie Huang<br/><strong>[HPDC'20]</strong>, The 29th International Symposium on High-Performance Parallel and Distributed Computing<br/>
