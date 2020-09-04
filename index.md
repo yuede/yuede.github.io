@@ -17,7 +17,7 @@ My research interests are mainly in graph analytics for high performance computi
 
 ## News
 
-*June 2020*: Start working as a senior intern at Kryptowire Lead by Prof. Angelos Stavrou from Virginia Tech.
+*June 2020*: Start working as a senior intern at Kryptowire Led by Prof. Angelos Stavrou from Virginia Tech.
 
 *May 2020*: Our paper on lateral movement detection, CyberGraph, is accepted by RAID'20.
 
@@ -25,14 +25,14 @@ My research interests are mainly in graph analytics for high performance computi
 
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
-### Conference
+### Conference Paper
+
+* Aquila: Adaptive Parallel Computation of Graph Connectivity Queries. [[PDF]](static/papers/Aquila_HPDC20_final.pdf)[[PPT]](static/papers/Aquila_HPDC_20_slides.pdf)[[Video]](https://youtu.be/CtkJtICiHRc)[[Code]](https://github.com/iHeartGraph/Aquila)<br/><u>Yuede Ji</u> and H. Howie Huang<br/><strong>[HPDC'20]</strong>, The 29th International Symposium on High-Performance Parallel and Distributed Computing<br/>
 
 * Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI. [[PDF]](static/papers/20_lateral_movement_RAID.pdf)<br/>
 Benjamin Bowman, Craig Laprade, <u>Yuede Ji</u>, and H. Howie Huang<br/><strong>[RAID'20]</strong>, The 23rd International Symposium on Research in Attacks, Intrusions and Defenses<br/>
 
-* Aquila: Adaptive Parallel Computation of Graph Connectivity Queries. [[PDF]](static/papers/Aquila_HPDC20_final.pdf) <br/><u>Yuede Ji</u> and H. Howie Huang<br/><strong>[HPDC'20]</strong>, The 29th International Symposium on High-Performance Parallel and Distributed Computing<br/>
-
-* Securing Malware Cognitive Systems against Adversarial Attacks. [[PDF]](static/papers/DeepArmour_ICCC19.pdf) <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/><strong>[ICCC'19]</strong>, 2019 IEEE International Conference on Cognitive Computing, <strong>Best Student Paper Nomination</strong><br/>
+* Securing Malware Cognitive Systems against Adversarial Attacks. [[PDF]](static/papers/DeepArmour_ICCC19.pdf)[[PPT]](static/papers/DeepArmour_ICCC_19_slides.pdf) <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/><strong>[ICCC'19]</strong>, 2019 IEEE International Conference on Cognitive Computing,<br/>
 Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligence for Cyber Security<br/>
 
 * iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](static/papers/iSpan_SC18.pdf)[[PPT]](static/papers/iSpan_SC_18.pdf)[[Code]](https://github.com/iHeartGraph/iSpan)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang,<br/><strong>[SC'18]</strong>, Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis<br/>
@@ -43,14 +43,15 @@ Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligen
 
 * A Multiprocess Mechanism of Evading Behavior-Based Bot Detection Approaches. [[PDF]](static/papers/5 A Mulitiprocess Mechanism of Evading Behavior-Based Bot Detection Approaches_ISPEC_2014.pdf) [[PPT]](static/papers/5_multiproces_ispec14.pptx) <br/><u>Yuede Ji</u>, Yukun He, Dewei Zhu, Qiang Li, and Dong Guo.<br/><strong>[ISPEC'14]</strong>, Information Security Practice and Experience, 2014
 
-* BotCatch: A Behavior and Signature Correlated Bot Detection Approach. [[PDF]](static/papers/4 BotCatch A Behavior and Signature Correlated Bot Detection Approach_HPCC2013.pdf) [[PPT]](static/papers/4_botcatch_report-final.pptx)<br/><u>Yuede Ji</u>, Yukun He, Qiang Li, and Dong Guo.<br/><strong>[HPCC_EUC'13]</strong>, IEEE International Conference on High Performance Computing and Communications & IEEE International Conference on Embedded and Ubiquitous Computing, 2013.
+* BotCatch: A Behavior and Signature Correlated Bot Detection Approach. [[PDF]](static/papers/4 BotCatch A Behavior and Signature Correlated Bot Detection Approach_HPCC2013.pdf) [[PPT]](static/papers/4_botcatch_report-final.pptx)<br/><u>Yuede Ji</u>, Yukun He, Qiang Li, and Dong Guo.<br/><strong>[HPCC'13]</strong>, IEEE International Conference on High Performance Computing and Communications & IEEE International Conference on Embedded and Ubiquitous Computing, 2013.
 
 * BotInfer: A Bot Inference Approach by Correlating Host and Network Information.  [[PDF]](static/papers/2 BotInfer A Bot Inference Approach by Correlating Host and Network Information_NPC2013.pdf)<br/>Yukun He, Qiang Li, <u>Yuede Ji</u>, and Dong Guo.<br/><strong>[NPC'13]</strong>, FIP International Conference on Network and Parallel Computing, 2013
 
 
-### Journal and Book
+### Journal Paper
 
-* Unstanding and Detecting Social Botnet.<br/><u>Yuede Ji</u>, and Qiang Li<br/><strong>[Invited book chapter]</strong>, Botnets: Architectures, Countermeasures, and Challenges, 2019.<br/>
+* GRL: Knowledge Graph Completion with GAN-based Reinforcement Learning. Qi Wang, <br/><u>Yuede Ji</u>, Yongsheng Hao, and Jie Cao. Knowledge-Based Systems, 2020.<br/>
+
 
 * Stopping the Cyber Attack in the Early Stage: Assessing the Security Risks of Social Network Users.<br/>Bo Feng, Qiang Li, <u>Yuede Ji</u>, Dong Guo, and Xiangyu Meng.<br/><strong>[SCN]</strong>, Security and Communication Networks, 2019.<br/>
 
@@ -64,6 +65,10 @@ Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
 * BotCatch: leveraging signature and behavior for bot detection. [[PDF]](static/papers/6 BotCatch leveraging signature and behavior for bot detection_SCN_1052.pdf)<br/><u>Yuede Ji</u>, Qiang Li, Yukun He, and Dong Guo.<br/><strong>[SCN]</strong>, Security and Communication Networks, 8(6): 952-969, 2015.
 
 * Overhead Analysis and Evaluation of Approaches to Host-based Bot Detection. [[PDF]](static/papers/9_Overhead Analysis and Evaluation of Approaches to Host-Based Bot Detection.pdf)<br/><u>Yuede Ji</u>, Qiang Li, Yukun He, and Dong Guo.<br/><strong>[IJDSN]</strong>, International Journal of Distributed Sensor Networks, 2015. 
+
+### Invited Book Chapter
+
+* Unstanding and Detecting Social Botnet.<br/><u>Yuede Ji</u>, and Qiang Li<br/><strong>[Invited book chapter]</strong>, Botnets: Architectures, Countermeasures, and Challenges, 2019.<br/>
 
 
 ## Selected Awards
