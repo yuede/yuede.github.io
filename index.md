@@ -50,8 +50,7 @@ Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligen
 
 ### Journal Paper
 
-* GRL: Knowledge Graph Completion with GAN-based Reinforcement Learning. Qi Wang, <br/><u>Yuede Ji</u>, Yongsheng Hao, and Jie Cao. <br/> <strong>[KBS]</strong> Knowledge-Based Systems, 2020.<br/>
-
+* GRL: Knowledge Graph Completion with GAN-based Reinforcement Learning.<br/> Qi Wang, <u>Yuede Ji</u>, Yongsheng Hao, and Jie Cao. <br/> <strong>[KBS]</strong>, Knowledge-Based Systems, 2020.<br/>
 
 * Stopping the Cyber Attack in the Early Stage: Assessing the Security Risks of Social Network Users. [[PDF]](static/papers/Stopping_the_Cyberattack_in_the_Early_Stage_Assess.pdf)<br/>Bo Feng, Qiang Li, <u>Yuede Ji</u>, Dong Guo, and Xiangyu Meng.<br/><strong>[SCN]</strong>, Security and Communication Networks, 2019.<br/>
 
