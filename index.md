@@ -29,7 +29,7 @@ My research interests are mainly in graph analytics for high performance computi
 
 * Aquila: Adaptive Parallel Computation of Graph Connectivity Queries. [[PDF]](static/papers/Aquila_HPDC20_final.pdf)[[PPT]](static/papers/Aquila_HPDC_20_slides.pdf)[[Video]](https://youtu.be/CtkJtICiHRc)[[Code]](https://github.com/iHeartGraph/Aquila)<br/><u>Yuede Ji</u> and H. Howie Huang<br/><strong>[HPDC'20]</strong>, The 29th International Symposium on High-Performance Parallel and Distributed Computing<br/>
 
-* Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI. [[PDF]](static/papers/20_lateral_movement_RAID.pdf)<br/>
+* Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI. [[PDF]](.)<br/>
 Benjamin Bowman, Craig Laprade, <u>Yuede Ji</u>, and H. Howie Huang<br/><strong>[RAID'20]</strong>, The 23rd International Symposium on Research in Attacks, Intrusions and Defenses<br/>
 
 * Securing Malware Cognitive Systems against Adversarial Attacks. [[PDF]](static/papers/DeepArmour_ICCC19.pdf)[[PPT]](static/papers/DeepArmour_ICCC_19_slides.pdf) <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/><strong>[ICCC'19]</strong>, 2019 IEEE International Conference on Cognitive Computing,<br/>
