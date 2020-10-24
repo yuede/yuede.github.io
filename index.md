@@ -13,7 +13,8 @@ Pronounciation: yüehte chi
 ## About me
 I am a Ph.D. student from the Department of Electrical and Computer Engineering at The George Washington University. It's my great honor to be advised by [Prof. H. Howie Huang](https://www.seas.gwu.edu/howie-huang). Prior to joining GWU, I received my B.E., M.S. from Jilin University, advised by [Prof. Qiang Li](http://ccst.jlu.edu.cn/info/1026/6668.htm).
 
-My research interests are mainly in graph analytics for high performance computing, cybersecurity, and machine learning. 
+My research interests are in the areas of security and big data analytics with multi-disciplinary ties to machine learning and high-performance computing.
+The goal of my research is to enable the design and implementation of scalable and effective system solutions to protect emerging data and computing devices. My Ph.D. work focuses on (1) detecting vulnerabilities of the software and systems inside IoT devices and mobile devices; (2) combating evolving cyber threats in terms of the botnet and advanced persistent threat with graph-based machine learning techniques; (3) building high-performance data analytics systems with a special focus on graph data using shared-memory systems, distributed systems, and GPUs. My work intersects cybersecurity, data analytics, machine learning, and high-performance computing.
 
 ## News
 
@@ -29,7 +30,7 @@ My research interests are mainly in graph analytics for high performance computi
 
 * Aquila: Adaptive Parallel Computation of Graph Connectivity Queries. [[PDF]](static/papers/Aquila_HPDC20_final.pdf)[[PPT]](static/papers/Aquila_HPDC_20_slides.pdf)[[Video]](https://youtu.be/CtkJtICiHRc)[[Code]](https://github.com/iHeartGraph/Aquila)<br/><u>Yuede Ji</u> and H. Howie Huang<br/><strong>[HPDC'20]</strong>, The 29th International Symposium on High-Performance Parallel and Distributed Computing<br/>
 
-* Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI. [[PDF]](.)<br/>
+* Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI. [[PDF]](static/papers/20_lateral_movement_RAID.pdf)<br/>
 Benjamin Bowman, Craig Laprade, <u>Yuede Ji</u>, and H. Howie Huang<br/><strong>[RAID'20]</strong>, The 23rd International Symposium on Research in Attacks, Intrusions and Defenses<br/>
 
 * Securing Malware Cognitive Systems against Adversarial Attacks. [[PDF]](static/papers/DeepArmour_ICCC19.pdf)[[PPT]](static/papers/DeepArmour_ICCC_19_slides.pdf) <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/><strong>[ICCC'19]</strong>, 2019 IEEE International Conference on Cognitive Computing,<br/>
