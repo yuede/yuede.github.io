@@ -14,7 +14,6 @@ Pronounciation: yüehte chi
 I am a Ph.D. student from the Department of Electrical and Computer Engineering at The George Washington University. It's my great honor to be advised by [Prof. H. Howie Huang](https://www.seas.gwu.edu/howie-huang). Prior to joining GWU, I received my B.E., M.S. from Jilin University, advised by [Prof. Qiang Li](http://ccst.jlu.edu.cn/info/1026/6668.htm).
 
 My research interests are in the areas of security and big data analytics with multi-disciplinary ties to machine learning and high-performance computing.
-The goal of my research is to enable the design and implementation of scalable and effective system solutions to protect emerging data and computing devices. My Ph.D. work focuses on (1) detecting vulnerabilities of the software and systems inside IoT devices and mobile devices; (2) combating evolving cyber threats in terms of the botnet and advanced persistent threat with graph-based machine learning techniques; (3) building high-performance data analytics systems with a special focus on graph data using shared-memory systems, distributed systems, and GPUs. My work intersects cybersecurity, data analytics, machine learning, and high-performance computing.
 
 ## News
 
