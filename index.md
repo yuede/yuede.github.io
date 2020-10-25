@@ -31,7 +31,7 @@ The goal of my research is to enable the design and implementation of scalable a
 ### Conference Paper
 
 * BugGraph: Differentiating Source-Binary Code Similarity with Graph Triplet-Loss Network. [[PDF]](./)<br/>
-<u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/><strong>[ASIACCS'21]</strong>, The ACM Asia Conference on Computer and Communications Security</br>
+<u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/><strong>[ASIACCS'21]</strong>, The ACM Asia Conference on Computer and Communications Security<br/>
 
 * Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI. [[PDF]](static/papers/20_lateral_movement_RAID.pdf)<br/>
 Benjamin Bowman, Craig Laprade, <u>Yuede Ji</u>, and H. Howie Huang<br/><strong>[RAID'20]</strong>, The 23rd International Symposium on Research in Attacks, Intrusions and Defenses<br/>
