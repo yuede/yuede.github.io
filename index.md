@@ -18,7 +18,7 @@ The goal of my research is to enable the design and implementation of scalable a
 
 ## News
 
-*Oct. 2020*: Our paper on binary code vulnerability detection with differentiating source-binary code similarity, BugGraph, is accepted by ASIACCS'21.
+*Oct. 2020*: Our paper on binary code similarity detection for vulnerability identification, BugGraph, is accepted by ASIACCS'21.
 
 *June 2020*: Start working as a senior intern at Kryptowire Led by Prof. Angelos Stavrou from Virginia Tech.
 
