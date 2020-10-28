@@ -17,13 +17,15 @@ My research interests are in the areas of security and big data analytics with m
 
 ## News
 
-*Oct. 2020*: Our paper on binary code similarity detection for vulnerability identification, BugGraph, is accepted by ASIACCS'21.
+*Oct. 2020*: Our paper on binary code similarity detection for vulnerability identification, BugGraph, is accepted to ASIACCS'21.
+
+*Oct. 2020*: Our paper on large scale small graphs computation with GPUs, SwarmGraph, is accepted to HPCC'20.
 
 *June 2020*: Start working as a senior intern at Kryptowire Led by Prof. Angelos Stavrou from Virginia Tech.
 
-*May 2020*: Our paper on lateral movement detection, CyberGraph, is accepted by RAID'20.
+*May 2020*: Our paper on lateral movement detection, CyberGraph, is accepted to RAID'20.
 
-*March 2020*: Our paper on graph connectivity computation framework, Aquila, is accepted by HPDC'20.
+*March 2020*: Our paper on graph connectivity computation framework, Aquila, is accepted to HPDC'20.
 
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
@@ -36,6 +38,8 @@ My research interests are in the areas of security and big data analytics with m
 Benjamin Bowman, Craig Laprade, <u>Yuede Ji</u>, and H. Howie Huang<br/><strong>[RAID'20]</strong>, The 23rd International Symposium on Research in Attacks, Intrusions and Defenses<br/>
 
 * Aquila: Adaptive Parallel Computation of Graph Connectivity Queries. [[PDF]](static/papers/Aquila_HPDC20_final.pdf)[[PPT]](static/papers/Aquila_HPDC_20_slides.pdf)[[Video]](https://youtu.be/CtkJtICiHRc)[[Code]](https://github.com/iHeartGraph/Aquila)<br/><u>Yuede Ji</u> and H. Howie Huang<br/><strong>[HPDC'20]</strong>, The 29th International Symposium on High-Performance Parallel and Distributed Computing<br/>
+
+* Swarmgraph: Analyzing Large-Scale In-Memory Graphs on GPUs. [[PDF]](./)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang.<br/><strong>[HPCC'20]</strong>, IEEE International Conference on High Performance Computing and Communications (HPCC), 2020.
 
 * Securing Malware Cognitive Systems against Adversarial Attacks. [[PDF]](static/papers/DeepArmour_ICCC19.pdf)[[PPT]](static/papers/DeepArmour_ICCC_19_slides.pdf) <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/><strong>[ICCC'19]</strong>, 2019 IEEE International Conference on Cognitive Computing,<br/>
 Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligence for Cyber Security<br/>
