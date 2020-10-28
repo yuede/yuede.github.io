@@ -17,13 +17,13 @@ My research interests are in the areas of security and big data analytics with m
 
 ## News
 
-*Oct. 2020*: Our paper on binary code similarity detection for vulnerability identification, BugGraph, is accepted to ASIACCS'21.
+*Oct. 2020*: Our paper on binary code vulnerability analysis with graph neural network, BugGraph, is accepted to ASIACCS'21.
 
 *Oct. 2020*: Our paper on large scale small graphs computation with GPUs, SwarmGraph, is accepted to HPCC'20.
 
 *June 2020*: Start working as a senior intern at Kryptowire Led by Prof. Angelos Stavrou from Virginia Tech.
 
-*May 2020*: Our paper on lateral movement detection, CyberGraph, is accepted to RAID'20.
+*May 2020*: Our paper on lateral movement detection with unsupervised graph learning, CyberGraph, is accepted to RAID'20.
 
 *March 2020*: Our paper on graph connectivity computation framework, Aquila, is accepted to HPDC'20.
 
@@ -74,7 +74,7 @@ Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
 
 * Overhead Analysis and Evaluation of Approaches to Host-based Bot Detection. [[PDF]](static/papers/9_Overhead Analysis and Evaluation of Approaches to Host-Based Bot Detection.pdf)<br/><u>Yuede Ji</u>, Qiang Li, Yukun He, and Dong Guo.<br/><strong>[IJDSN]</strong>, International Journal of Distributed Sensor Networks, 2015. 
 
-### Invited Book Chapter
+### Book Chapter
 
 * Unstanding and Detecting Social Botnet.<br/><u>Yuede Ji</u>, and Qiang Li<br/><strong>[Invited book chapter]</strong>, Botnets: Architectures, Countermeasures, and Challenges, 2019.<br/>
 
