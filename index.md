@@ -52,7 +52,7 @@ Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligen
 
 * A Multiprocess Mechanism of Evading Behavior-Based Bot Detection Approaches. [[PDF]](static/papers/5 A Mulitiprocess Mechanism of Evading Behavior-Based Bot Detection Approaches_ISPEC_2014.pdf) [[PPT]](static/papers/5_multiproces_ispec14.pptx) <br/><u>Yuede Ji</u>, Yukun He, Dewei Zhu, Qiang Li, and Dong Guo.<br/>[ISPEC'14], Information Security Practice and Experience, 2014
 
-* BotCatch: A Behavior and Signature Correlated Bot Detection Approach. [[PDF]](static/papers/4 BotCatch A Behavior and Signature Correlated Bot Detection Approach_HPCC2013.pdf) [[PPT]](static/papers/4_botcatch_report-final.pptx)<br/><u>Yuede Ji</u>, Yukun He, Qiang Li, and Dong Guo.<br/>[HPCC'13], IEEE International Conference on High Performance Computing and Communications & IEEE International Conference on Embedded and Ubiquitous Computing, 2013.
+* BotCatch: A Behavior and Signature Correlated Bot Detection Approach. [[PDF]](static/papers/4 BotCatch A Behavior and Signature Correlated Bot Detection Approach_HPCC2013.pdf) [[PPT]](static/papers/4_botcatch_report-final.pptx)<br/><u>Yuede Ji</u>, Yukun He, Qiang Li, and Dong Guo.<br/>[HPCC'13], IEEE International Conference on High Performance Computing and Communications, 2013.
 
 * BotInfer: A Bot Inference Approach by Correlating Host and Network Information.  [[PDF]](static/papers/2 BotInfer A Bot Inference Approach by Correlating Host and Network Information_NPC2013.pdf)<br/>Yukun He, Qiang Li, <u>Yuede Ji</u>, and Dong Guo.<br/>[NPC'13], FIP International Conference on Network and Parallel Computing, 2013
 
