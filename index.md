@@ -5,15 +5,15 @@ title: "Yuede Ji - George Washington University"
 ---
 <img src="static/info/profile_formal.png" class="img-thumbnail" width="200px" style="float:right; margin-left:30px; margin-top:50px; margin-bottom:10px;">
 
-# Yuede Ji
+# Yuede Ji 
 Pronounciation: yüehte chi 
 {% include social.html %}
 
 
 ## About me
-I am a Ph.D. student from the Department of Electrical and Computer Engineering at The George Washington University. It's my great honor to be advised by [Prof. H. Howie Huang](https://www.seas.gwu.edu/howie-huang). Prior to joining GWU, I received my B.E., M.S. from Jilin University, advised by [Prof. Qiang Li](http://ccst.jlu.edu.cn/info/1026/6668.htm).
+Yuede (YJ) Ji is a Ph.D. student from the Department of Electrical and Computer Engineering at The George Washington University. He is advised by [Prof. H. Howie Huang](https://www.seas.gwu.edu/howie-huang). Prior to joining GWU, he received B.E., M.S. from Jilin University, advised by [Prof. Qiang Li](http://ccst.jlu.edu.cn/info/1026/6668.htm).
 
-My research interests are in the areas of security and high-performance computing with multi-disciplinary ties to big data analytics and machine learning.
+Yuede (YJ) Ji's research interests are in the areas of <u>Security</u> and <u>High-Performance Computing</u> with multi-disciplinary ties to <u>Big Data Analytics</u> and <u>Machine Learning</u>.
 
 ## News
 
