@@ -13,7 +13,7 @@ Pronounciation: yüehte chi
 ## About me
 Yuede (YJ) Ji is a Ph.D. student from the Department of Electrical and Computer Engineering at The George Washington University. He is advised by [Prof. H. Howie Huang](https://www.seas.gwu.edu/howie-huang). Prior to joining GWU, he received B.E., M.S. from Jilin University, advised by [Prof. Qiang Li](http://ccst.jlu.edu.cn/info/1026/6668.htm).
 
-Yuede (YJ) Ji's research interests are in the areas of <strong>Security</strong> and <strong>High-Performance Computing</strong> with multi-disciplinary ties to <strong>Big Data Analytics</strong> and <strong>Machine Learning</strong>.
+Yuede (YJ) Ji's research interests are in the areas of <strong>Cybersecurity</strong> and <strong>High-Performance Computing</strong> with close ties to graph-based <strong>Machine Learning</strong> and <strong>Big Data Analytics</strong>.
 
 ## News
 
