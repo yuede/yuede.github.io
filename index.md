@@ -17,7 +17,7 @@ Yuede (YJ) Ji's research interests are in the areas of <strong>Cybersecurity</st
 
 ## News
 
-*Oct. 2020*: Our paper on binary code vulnerability analysis with graph neural network, BugGraph, is accepted to ASIACCS'21.
+*Oct. 2020*: Our paper on binary code vulnerability analysis with graph neural network, BugGraph, is accepted to ASIA CCS'21.
 
 *Oct. 2020*: Our paper on large scale small graphs computation with GPUs, SwarmGraph, is accepted to HPCC'20.
 
@@ -32,7 +32,7 @@ Yuede (YJ) Ji's research interests are in the areas of <strong>Cybersecurity</st
 ### Conference Paper
 
 * BugGraph: Differentiating Source-Binary Code Similarity with Graph Triplet-Loss Network. [[PDF]](./)<br/>
-<u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/><strong>[ASIACCS'21]</strong>, The ACM Asia Conference on Computer and Communications Security<br/>
+<u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/><strong>[ASIA CCS'21]</strong>, The ACM Asia Conference on Computer and Communications Security<br/>
 
 * Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI. [[PDF]](static/papers/20_lateral_movement_RAID.pdf)<br/>
 Benjamin Bowman, Craig Laprade, <u>Yuede Ji</u>, and H. Howie Huang<br/><strong>[RAID'20]</strong>, The 23rd International Symposium on Research in Attacks, Intrusions and Defenses<br/>
