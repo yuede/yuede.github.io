@@ -23,7 +23,7 @@ Yuede Ji (YJ)'s research interests are in the areas of <strong>Cybersecurity</st
 
 *Oct. 2020*: Our paper on large scale small graphs computation with GPUs, SwarmGraph, is accepted to HPCC'20.
 
-*June 2020*: Start working as a senior intern at [Kryptowire](https://www.kryptowire.com/) (a company that specializes in Mobile Security and Code Analysis) mentored by Dr. Mohamed Elsabagh.
+*June 2020*: Start working as a senior intern at [Kryptowire](https://www.kryptowire.com/) (a company that specializes in Mobile Security and Code Analysis) mentored by [Dr. Mohamed Elsabagh](https://scholar.google.com/citations?user=HKp90HUAAAAJ&hl=en).
 
 *May 2020*: Our paper on lateral movement detection with unsupervised graph learning, CyberGraph, is accepted to RAID'20.
 
