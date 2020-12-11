@@ -96,6 +96,14 @@ Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
 
 * [ECE 1010 - Introduction to Electrical and Computer Engineering](https://www.seas.gwu.edu/~ece001/)
 
+## Education
+
+* 2015.9 - now, Ph.D. in Computer Engineering, The George Washington University, Washington, DC
+
+* 2012.9 - 2015.6, M.S. in Computer Science, Jilin University, Jilin, China
+
+* 2008.9 - 2012.6, B.E. in Software Engineering, Jilin University, Jilin, China
+
 ## Working Exeprience
 
 * 2020.6 - now, Senior Intern, [Kryptowire LLC](https://www.kryptowire.com/) (a company that specializes in Mobile Security and Code Analysis)
@@ -130,7 +138,7 @@ Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
 
 ## Interest
 
-* Sports: I'm specially interested in basketball, volleyball, tennis, badminton, and squash.
+* Sports. I'm specially interested in basketball, volleyball, tennis, badminton, and squash.
 * Watching movies.
 * Reading. 
 
