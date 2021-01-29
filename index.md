@@ -25,7 +25,7 @@ Yuede Ji (YJ)'s research interests are at the intersection of <strong>Cybersecur
 
 *June 2020*: Start working as a senior intern at [Kryptowire](https://www.kryptowire.com/) (a company that specializes in Mobile Security and Code Analysis) mentored by [Dr. Mohamed Elsabagh](https://scholar.google.com/citations?user=HKp90HUAAAAJ&hl=en).
 
-*May 2020*: Our paper on lateral movement detection with unsupervised graph learning, CyberGraph, is accepted to RAID'20.
+*May 2020*: Our paper on lateral movement detection with unsupervised graph learning is accepted to RAID'20.
 
 *March 2020*: Our paper on graph connectivity computation framework, Aquila, is accepted to HPDC'20.
 
