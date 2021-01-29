@@ -15,11 +15,11 @@ Pronounciation: yüehte chi
 
 Yuede Ji (YJ) is a Ph.D. student from the Department of Electrical and Computer Engineering at The George Washington University. He is advised by [Prof. H. Howie Huang](https://www.seas.gwu.edu/howie-huang). Prior to joining GWU, he received B.E., M.S. from Jilin University, advised by [Prof. Qiang Li](http://ccst.jlu.edu.cn/info/1026/6668.htm).
 
-Yuede Ji (YJ)'s research interests are in the areas of <strong>Cybersecurity</strong> and <strong>High-Performance Computing</strong> with close ties to graph-based <strong>Machine Learning</strong> and <strong>Big Data Analytics</strong>.
+Yuede Ji (YJ)'s research interests are at the intersection of <strong>Cybersecurity</strong>, <strong>High-Performance Computing</strong>, <strong>Graph-based Machine Learning</strong>, and <strong>Graph Algorithms</strong>.
 
 ## News
 
-*Oct. 2020*: Our paper on binary code vulnerability analysis with graph neural network, BugGraph, is accepted to ASIA CCS'21.
+*Oct. 2020*: Our paper on binary code vulnerability analysis with graph neural network, BugGraph, is accepted to AsiaCCS'21.
 
 *Oct. 2020*: Our paper on large scale small graphs computation with GPUs, SwarmGraph, is accepted to HPCC'20.
 
@@ -33,8 +33,8 @@ Yuede Ji (YJ)'s research interests are in the areas of <strong>Cybersecurity</st
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 ### Conference Paper
 
-* BugGraph: Differentiating Source-Binary Code Similarity with Graph Triplet-Loss Network. [[PDF]](./)<br/>
-<u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/><strong>[ASIA CCS'21]</strong>, The ACM Asia Conference on Computer and Communications Security<br/>
+* BugGraph: Differentiating Source-Binary Code Similarity with Graph Triplet-Loss Network. [[PDF]](static/papers/21_asiaccs_buggraph.pdf)<br/>
+<u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/><strong>[AsiaCCS'21]</strong>, The ACM Asia Conference on Computer and Communications Security<br/>
 
 * Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI. [[PDF]](static/papers/20_lateral_movement_RAID.pdf)<br/>
 Benjamin Bowman, Craig Laprade, <u>Yuede Ji</u>, and H. Howie Huang<br/><strong>[RAID'20]</strong>, The 23rd International Symposium on Research in Attacks, Intrusions and Defenses<br/>
