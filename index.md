@@ -19,6 +19,8 @@ Yuede Ji (YJ)'s research interests are at the intersection of <strong>Cybersecur
 
 ## News
 
+*Feb. 2021*: Our paper on detecting unknown advanced persistent threat (APT) is accepted to Computer Networks.
+
 *Oct. 2020*: Our paper on binary code vulnerability analysis with graph neural network, BugGraph, is accepted to AsiaCCS'21.
 
 *Oct. 2020*: Our paper on large scale small graphs computation with GPUs, SwarmGraph, is accepted to HPCC'20.
@@ -60,6 +62,8 @@ Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligen
 
 
 ### Journal Paper
+
+* Discovering Unknown Advanced Persistent Threat Using Shared Features Mined by Neural Networks.<br/> Longkang Shang, Dong Guo, <u>Yuede Ji</u>, and Qiang Li.<br/> <strong>[Computer Networks]</strong>, 2021.<br/>
 
 * GRL: Knowledge Graph Completion with GAN-based Reinforcement Learning.<br/> Qi Wang, <u>Yuede Ji</u>, Yongsheng Hao, and Jie Cao. <br/>[KBS], Knowledge-Based Systems, 2020.<br/>
 
