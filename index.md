@@ -19,6 +19,8 @@ Yuede Ji's research interest is at the intersection of <strong>Cybersecurity</st
 
 ## News
 
+*Mar. 2021*: Our paper on identifying the compilation provenance of binary code, Vestige, is accepted to ACNS'21.
+
 *Feb. 2021*: Our paper on detecting unknown advanced persistent threat (APT) is accepted to Computer Networks.
 
 *Oct. 2020*: Our paper on binary code vulnerability analysis with graph neural network, BugGraph, is accepted to AsiaCCS'21.
@@ -29,11 +31,15 @@ Yuede Ji's research interest is at the intersection of <strong>Cybersecurity</st
 
 *May 2020*: Our paper on lateral movement detection with unsupervised graph learning is accepted to RAID'20.
 
-*March 2020*: Our paper on graph connectivity computation framework, Aquila, is accepted to HPDC'20.
+*Mar. 2020*: Our paper on graph connectivity computation framework, Aquila, is accepted to HPDC'20.
 
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao), [dblp](http://dblp.uni-trier.de/pers/hd/j/Ji:Yuede))
 ### Conference Paper
+
+* Vestige: Identifying Binary Code Provenance for Vulnerability Detection. [[PDF]](./)<br/>
+<u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/><strong>[ACNS'21]</strong>, The 19th International Conference on Applied Cryptography and Network Security<br/>
+
 
 * BugGraph: Differentiating Source-Binary Code Similarity with Graph Triplet-Loss Network. [[PDF]](static/papers/21_asiaccs_buggraph.pdf)<br/>
 <u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/><strong>[AsiaCCS'21]</strong>, The ACM Asia Conference on Computer and Communications Security<br/>
