@@ -3,19 +3,22 @@ layout: default
 section: home
 title: "Yuede Ji - George Washington University"
 ---
-<img src="static/info/profile_formal.png" class="img-thumbnail" width="200px" style="float:right; margin-left:30px; margin-top:50px; margin-bottom:10px;">
+<img src="static/info/profile_formal.png" class="img-thumbnail" width="200px" style="float:left; margin-left:30px; margin-top:50px; margin-bottom:10px;">
 
 # Yuede Ji 
-Pronounciation: yüehte chi 
 {% include social.html %}
 
+<strong>Openings:</strong> I am looking for multiple self-motivated students (including Ph.D., master, undergraduate, and intern) and visitors to work with me on various cool projects in cybersecurity, high-performance computing, graph learning, and graph analytics. If you are interested, please drop me an email with your CV.
 
-## About me
-<strong>I'm on the academia job market.</strong>
+## Bio
 
-Yuede Ji is a Ph.D. student from the Department of Electrical and Computer Engineering at The George Washington University. He is advised by [Prof. H. Howie Huang](https://www.seas.gwu.edu/howie-huang). Prior to joining GWU, he received B.E., M.S. from Jilin University, advised by [Prof. Qiang Li](http://ccst.jlu.edu.cn/info/1026/6668.htm).
+Yuede Ji will be joining the [Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu/) at the [University of North Texas](https://www.unt.edu/) as an Assistant Professor in Fall 2021.
+Right now, Yuede Ji is a Ph.D. candidate from the Department of Electrical and Computer Engineering at The George Washington University. He is advised by [Prof. H. Howie Huang](https://www.seas.gwu.edu/howie-huang). Prior to joining GWU, he received B.E., M.S. from Jilin University, advised by [Prof. Qiang Li](http://ccst.jlu.edu.cn/info/1026/6668.htm).
 
-Yuede Ji's research interest is at the intersection of <strong>Cybersecurity</strong>, <strong>High-Performance Computing</strong>, <strong>Graph Learning</strong>, and <strong>Graph Algorithms</strong>.
+Yuede Ji's research interest is at the intersection of <strong>Cybersecurity</strong>, <strong>High-Performance Computing</strong>, <strong>Graph Learning</strong>, and <strong>Graph Analytics</strong>.
+On one hand, he aims to build efficient systems to protect the emerging data and computing devices from various layers, such as vulnerability detection, malware detection, and network threat detection.
+On the other hand, he aims to build high-performance computing systems with emerging hardware (e.g., GPU) for cybersecurity related techniques, such as graph learning and graph analytics.
+
 
 ## News
 
@@ -115,7 +118,9 @@ Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
 
 ## Working Exeprience
 
-* 2020.6 - now, Senior Intern, [Kryptowire LLC](https://www.kryptowire.com/) (a company that specializes in Mobile Security and Code Analysis)
+* 2021.1 - now, Graduate Research Assistant, George Washington University
+
+* 2020.6 - 2020.12, Senior Intern, [Kryptowire LLC](https://www.kryptowire.com/) (a company that specializes in Mobile Security and Code Analysis)
 
 * 2015.9 - 2020.5, Graduate Research Assistant, George Washington University
 
