@@ -3,7 +3,7 @@ layout: default
 section: home
 title: "Yuede Ji - George Washington University"
 ---
-<img src="static/info/profile_formal.png" class="img-thumbnail" width="200px" style="float:left; margin-left:30px; margin-top:50px; margin-bottom:10px;">
+<img src="static/info/profile_formal.png" class="img-thumbnail" width="200px" style="float:left; margin-left:10px; margin-top:30px; margin-bottom:10px;">
 
 # Yuede Ji 
 {% include social.html %}
