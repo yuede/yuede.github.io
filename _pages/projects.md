@@ -14,8 +14,7 @@ This project aims to greatly improve the security of the computing devices by
 (2) enhancing the fundamental techniques used in existing vulnerability detection methods.
 So far, we have identified over 200 vulnerabilities from both mobile and IoT firmware. Several vendors have confirmed our findings.
 
----------------------------------
-Publications: DEFInit [under submission], BugGraph [AsiaCCS'21], Vestige [ACNS'21]
+<span style="color:blue">Publications<span style="color:blue">: DEFInit [under submission], BugGraph [AsiaCCS'21], Vestige [ACNS'21]
 
 
 Cyber Threat Detection
@@ -24,8 +23,7 @@ What makes cyber attack a relentless challenging problem is its continuing and e
 
 This project aims to detect various types of cyber threats, including APT, botnet, malicious URL, and malware in general.
 
----------------------------------
-Publications: APT detection [RAID'20]; Malware Detection [ICCC'19]; Botnet Detection [ICPADS'14], [ISPEC'14]; Malicious URL Detection [NPC'14]
+<span style="color:blue">Publications<span style="color:blue">: APT detection [RAID'20]; Malware Detection [ICCC'19]; Botnet Detection [ICPADS'14], [ISPEC'14]; Malicious URL Detection [NPC'14]
 
 
 High-Performance Computing for Graph analytics
@@ -36,4 +34,4 @@ Graph is an important data representation used in many applications, such as con
 This project aims to design scalable graph analytics techniques and systems to both speed up the computation and scale up the accommodated graph size and count. A recent focus is on <strong> graph neural network (GNN)</strong> as it is being widely applied and requires more computation resources.
 
 ---------------------------------
-Publications: Aquila [HPDC'20], SwarmGraph [HPCC'20], iSpan [SC'18]
+<span style="color:blue">Publications<span style="color:blue">: Aquila [HPDC'20], SwarmGraph [HPCC'20], iSpan [SC'18]
