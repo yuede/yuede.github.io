@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yuede Ji"
   avatar           : "profile_formal.png"
-  bio              : "Assistant Professor, Department of Computer Science and Engineering, University of North Texas"
+  bio              : "Assistant Professor,\n Department of Computer Science and Engineering,\n University of North Texas"
   location         : "Denton, Texas 76203"
   employer         :
   pubmed           :
-  googlescholar    : "http://https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao"
   email            : "yuede.ji@unt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yuedeji"
+  github           : "yuedeji"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
