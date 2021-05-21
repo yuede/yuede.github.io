@@ -8,14 +8,11 @@ venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 
 
-### Conference Paper
+## Conference Paper
 
 * Vestige: Identifying Binary Code Provenance for Vulnerability Detection. [[PDF]](./)<br/>
 <u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/>[<strong>ACNS'21</strong>], The 19th International Conference on Applied Cryptography and Network Security<br/>
@@ -46,7 +43,7 @@ Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligen
 * BotInfer: A Bot Inference Approach by Correlating Host and Network Information.  [[PDF]](static/papers/2 BotInfer A Bot Inference Approach by Correlating Host and Network Information_NPC2013.pdf)<br/>Yukun He, Qiang Li, <u>Yuede Ji</u>, and Dong Guo.<br/>[<strong>NPC'13</strong>], IFIP International Conference on Network and Parallel Computing, 2013
 
 
-### Journal Paper
+## Journal Paper
 
 * Discovering Unknown Advanced Persistent Threat Using Shared Features Mined by Neural Networks.<br/> Longkang Shang, Dong Guo, <u>Yuede Ji</u>, and Qiang Li.<br/>[Computer Networks], 2021.<br/>
 
@@ -65,6 +62,6 @@ Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
 
 * Overhead Analysis and Evaluation of Approaches to Host-based Bot Detection. [[PDF]](static/papers/9_Overhead Analysis and Evaluation of Approaches to Host-Based Bot Detection.pdf)<br/><u>Yuede Ji</u>, Qiang Li, Yukun He, and Dong Guo.<br/>[IJDSN], International Journal of Distributed Sensor Networks, 2015.
 
-### Book Chapter
+## Book Chapter
 
 * Unstanding and Detecting Social Botnet.<br/><u>Yuede Ji</u>, and Qiang Li<br/>[Invited book chapter], Botnets: Architectures, Countermeasures, and Challenges, 2019.<br/>
