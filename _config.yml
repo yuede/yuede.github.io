@@ -197,10 +197,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _projects
   - scope:
       path: ""
-      type: posts
+      type: projects
     values:
       layout: single
       author_profile: true
@@ -233,24 +233,31 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _service
   - scope:
       path: ""
-      type: portfolio
+      type: service
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _lab
   - scope:
       path: ""
-      type: talks
+      type: lab
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
-
+  # _why_unt
+  - scope:
+      path: ""
+      type: why_unt
+    values:
+      layout: single
+      author_profile: true
+      share: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
