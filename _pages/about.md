@@ -12,6 +12,9 @@ Yuede Ji will be joining the [Department of Computer Science and Engineering](ht
 
 Yuede Ji's research interest is at the intersection of <strong>Cybersecurity</strong>, <strong>High-Performance Computing</strong>, <strong>Graph Learning</strong>, and <strong>Graph Analytics</strong>. He aims to build efficient systems to protect the emerging data and computing devices from various layers, such as vulnerability detection, malware detection, and network threat detection. Furthermore, he aims to build high-performance computing systems with emerging hardware (e.g., GPU) to improve the scalability of cybersecurity techniques. His research works have frequently appeared at prestigious high-performance computing and cybersecurity conferences, such as SC, HPDC, RAID, and AsiaCCS. His research has won the best paper award at NPC 2014.
 
+Opening
+======
+Openings: I am looking for multiple self-motivated students (including Ph.D., master, undergraduate, and intern) and visitors to work with me on various cool projects in cybersecurity, high-performance computing, graph learning, and graph analytics. If you are interested, please drop me an email with your CV.
 
 News
 ======
