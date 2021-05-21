@@ -14,8 +14,7 @@ This project aims to greatly improve the security of the computing devices by
 (2) enhancing the fundamental techniques used in existing vulnerability detection methods.
 So far, we have identified over 200 vulnerabilities from both mobile and IoT firmware. Several vendors have confirmed our findings.
 
-<span style="color:blue">Publications<span style="color:blue">: DEFInit [under submission], BugGraph [AsiaCCS'21], Vestige [ACNS'21]
-
+<span style="color:blue">Publications</span>: DEFInit [under submission], [[BugGraph [AsiaCCS'21]]](../files/21_AsiaCCS_BugGraph.pdf), [[Vestige [ACNS'21]]](../files/21_ACNS_Vestige.pdf)
 
 Cyber Threat Detection
 ========================
@@ -23,7 +22,7 @@ What makes cyber attack a relentless challenging problem is its continuing and e
 
 This project aims to detect various types of cyber threats, including APT, botnet, malicious URL, and malware in general.
 
-<span style="color:blue">Publications<span style="color:blue">: APT detection [RAID'20]; Malware Detection [ICCC'19]; Botnet Detection [ICPADS'14], [ISPEC'14]; Malicious URL Detection [NPC'14]
+<span style="color:blue">Publications</span>: [[APT detection [RAID'20]]](../files/20_RAID_lateral_movement.pdf); [[Malware Detection [ICCC'19]]](../files/19_ICCC_malware_adversary.pdf); Botnet Detection [[[ICPADS'14]]](../files/14_ICPADS_social_botnet.pdf), [[[ISPEC'14]]](../files/14_ISPEC_multiprocess_botnet.pdf); [[Malicious URL Detection [NPC'14]]](../files/14_NPC_malicious_url.pdf)
 
 
 High-Performance Computing for Graph analytics
@@ -34,4 +33,4 @@ Graph is an important data representation used in many applications, such as con
 This project aims to design scalable graph analytics techniques and systems to both speed up the computation and scale up the accommodated graph size and count. A recent focus is on <strong> graph neural network (GNN)</strong> as it is being widely applied and requires more computation resources.
 
 ---------------------------------
-<span style="color:blue">Publications<span style="color:blue">: Aquila [HPDC'20], SwarmGraph [HPCC'20], iSpan [SC'18]
+<span style="color:blue">Publications</span>: [[Aquila [HPDC'20]]](../files/20_HPDC_Aquila.pdf), [[SwarmGraph [HPCC'20]]](../files/20_HPCC_SwarmGraph.pdf), [[iSpan [SC'18]]](../files/18_SC_iSpan.pdf)

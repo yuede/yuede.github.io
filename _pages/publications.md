@@ -28,7 +28,7 @@ Acceptance rate: 16/71 = 22%
 
 * SwarmGraph: Analyzing Large-Scale In-Memory Graphs on GPUs. [[PDF]](../files/20_HPCC_SwarmGraph.pdf)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang.<br/>[HPCC'20], IEEE International Conference on High Performance Computing and Communications (HPCC), 2020.
 
-* Securing Malware Cognitive Systems against Adversarial Attacks. [[PDF]](../files/19_ICCC_malware_adversary_slides.pdf)[[PPT]](../files/19_ICCC_malware_adversary.pdf) <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/>[ICCC'19], 2019 IEEE International Conference on Cognitive Computing,<br/>
+* Securing Malware Cognitive Systems against Adversarial Attacks. [[PDF]](../files/19_ICCC_malware_adversary.pdf)[[PPT]](../files/19_ICCC_malware_adversary_slides.pdf) <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/>[ICCC'19], 2019 IEEE International Conference on Cognitive Computing,<br/>
 Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligence for Cyber Security<br/>
 
 * iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](../files/18_SC_iSpan.pdf)[[PPT]](../files/18_SC_iSpan_slides.pdf)[[Code]](https://github.com/iHeartGraph/iSpan)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang,<br/><strong>[<strong>SC'18</strong>]</strong>, Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis<br/>
