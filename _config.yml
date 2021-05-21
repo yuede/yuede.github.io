@@ -181,10 +181,16 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
-  talks:
+  service:
+    output: true
+    permalink: /:collection/:path/
+  lab:
+    output: true
+    permalink: /:collection/:path/
+  why_unt:
     output: true
     permalink: /:collection/:path/
 
