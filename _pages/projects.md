@@ -31,4 +31,9 @@ Publications: APT detection [RAID'20]; Malware Detection [ICCC'19]; Botnet Detec
 High-Performance Computing for Graph analytics
 ==============================================
 
-iSpan [SC'18], Aquila [HPDC'20], SwarmGraph [HPCC'20]
+Graph is an important data representation used in many applications, such as control and data flow graph in program analysis, friendship graph in the social network, and authentication graph in APT campaigns. There are two major challenges for computing on graphs. First, Graph, in reality, is big data in terms of both graph size and count. The graph size in many real applications, e.g., social network, has reached billion scale. Second, many interesting graph algorithms have high time complexity, e.g., subgraph isomorphism is NP-complete. As real applications usually require real-time computation, it is critical to improve the scalability of graph analytics.
+
+This project aims to design scalable graph analytics techniques and systems to both speed up the computation and scale up the accommodated graph size and count. A recent focus is on <strong> graph neural network (GNN)</strong> as it is being widely applied and requires more computation resources.
+
+---------------------------------
+Publications: Aquila [HPDC'20], SwarmGraph [HPCC'20], iSpan [SC'18]
