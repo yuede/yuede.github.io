@@ -18,7 +18,7 @@ I am looking for multiple self-motivated students (including Ph.D., master, unde
 
 News
 ======
-*Mar. 2021*: Our paper on identifying the compilation provenance of binary code, Vestige, is accepted to ACNS'21.
+*Mar. 2021*: Our paper on identifying the compilation provenance of binary code, Vestige, is accepted to <span style="color:blue">ACNS'21<span style="color:blue">.
 
 *Feb. 2021*: Our paper on detecting unknown advanced persistent threat (APT) is accepted to Computer Networks.
 
