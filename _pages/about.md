@@ -22,7 +22,7 @@ News
 
 *Feb. 2021*: Our paper on detecting unknown advanced persistent threat (APT) is accepted to Computer Networks.
 
-*Oct. 2020*: Our paper on binary code vulnerability analysis with graph neural network, BugGraph, is accepted to <span style="color:blue"><strong>AsiaCCS'21</strong><</span>.
+*Oct. 2020*: Our paper on binary code vulnerability analysis with graph neural network, BugGraph, is accepted to <span style="color:blue"><strong>AsiaCCS'21</strong></span>.
 
 *Oct. 2020*: Our paper on large scale small graphs computation with GPUs, SwarmGraph, is accepted to HPCC'20.
 
