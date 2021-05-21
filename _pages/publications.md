@@ -34,7 +34,8 @@ Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligen
 * iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](static/papers/iSpan_SC18.pdf)[[PPT]](static/papers/iSpan_SC_18.pdf)[[Code]](https://github.com/iHeartGraph/iSpan)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang,<br/><strong>[<strong>SC'18</strong>]</strong>, Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis<br/>
 Acceptance rate (first round): 55/288 = 19%
 
-* Detection of Forwarding-based Malicious URLs in Online Social Networks. [[PDF]](static/papers/7 Detection of Forwarding-Based Malicious URLs in Online Social Networks_IJPP2014.pdf)<br/>Jian Cao, Qiang Li, <u>Yuede Ji</u>, Yukun He, and Dong Guo.<br/>[<strong>NPC'14</strong>], IFIP International Conference on Network and Parallel Computing, <strong> Best Paper Award</strong><br/>Invited to journal publication, International Journal of Parallel Programming, 44(1), 163-180, 2016.
+* Detection of Forwarding-based Malicious URLs in Online Social Networks. [[PDF]](static/papers/7 Detection of Forwarding-Based Malicious URLs in Online Social Networks_IJPP2014.pdf)<br/>Jian Cao, Qiang Li, <u>Yuede Ji</u>, Yukun He, and Dong Guo.<br/>[<strong>NPC'14</strong>], IFIP International Conference on Network and Parallel Computing,<br/>Invited to journal publication, International Journal of Parallel Programming, 44(1), 163-180, 2016.<br/>
+<strong> Best Paper Award</strong>
 
 * Towards Social Botnet Behavior Detecting in the End Host. [[PDF]](static/papers/8 Towards Social Botnet Behavior Detecting in the End Host_ICPADS2014.pdf) [[PPT]](static/papers/8_Social_Botnet_ICPADS_2014_slides.pdf) [[DATA]](https://yuede.github.io/open_source.html)<br/><u>Yuede Ji</u>, Yukun He, Xinyang Jiang, and Qiang Li.<br/>[<strong>ICPADS'14</strong>], 20th IEEE International Conference on Parallel and Distributed System, 2014
 
