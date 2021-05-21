@@ -11,39 +11,39 @@ author_profile: true
 
 ## Conference Paper
 
-* Vestige: Identifying Binary Code Provenance for Vulnerability Detection. [[PDF]](./)<br/>
+* Vestige: Identifying Binary Code Provenance for Vulnerability Detection. [[PDF]](../files/21_ACNS_Vestige.pdf)<br/>
 <u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/>[<strong>ACNS'21</strong>], The 19th International Conference on Applied Cryptography and Network Security<br/>
 Acceptance rate (second round): 24/115 = 21%
 
-* BugGraph: Differentiating Source-Binary Code Similarity with Graph Triplet-Loss Network. [[PDF]](static/papers/21_asiaccs_buggraph.pdf)<br/>
+* BugGraph: Differentiating Source-Binary Code Similarity with Graph Triplet-Loss Network. [[PDF]](../files/21_AsiaCCS_BugGraph.pdf)<br/>
 <u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/>[<strong>AsiaCCS'21</strong>], The ACM Asia Conference on Computer and Communications Security<br/>
 Acceptance rate (second round): 29/157 = 18%
 
-* Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI. [[PDF]](static/papers/20_lateral_movement_RAID.pdf)<br/>
+* Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI. [[PDF]](../files/20_RAID_lateral_movement.pdf)<br/>
 Benjamin Bowman, Craig Laprade, <u>Yuede Ji</u>, and H. Howie Huang<br/>[<strong>RAID'20</strong>], The 23rd International Symposium on Research in Attacks, Intrusions and Defenses<br/>
 Acceptance rate: 31/121 = 25.6%
 
-* Aquila: Adaptive Parallel Computation of Graph Connectivity Queries. [[PDF]](static/papers/Aquila_HPDC20_final.pdf)[[PPT]](static/papers/Aquila_HPDC_20_slides.pdf)[[Video]](https://youtu.be/CtkJtICiHRc)[[Code]](https://github.com/iHeartGraph/Aquila)<br/><u>Yuede Ji</u> and H. Howie Huang<br/>[<strong>HPDC'20</strong>], The 29th International Symposium on High-Performance Parallel and Distributed Computing<br/>
+* Aquila: Adaptive Parallel Computation of Graph Connectivity Queries. [[PDF]](../files/20_HPDC_Aquila.pdf)[[PPT]](../files/20_HPDC_Aquila_slides.pdf)[[Video]](https://youtu.be/CtkJtICiHRc)[[Code]](https://github.com/iHeartGraph/Aquila)<br/><u>Yuede Ji</u> and H. Howie Huang<br/>[<strong>HPDC'20</strong>], The 29th International Symposium on High-Performance Parallel and Distributed Computing<br/>
 Acceptance rate: 16/71 = 22%
 
-* Swarmgraph: Analyzing Large-Scale In-Memory Graphs on GPUs. [[PDF]](./)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang.<br/>[HPCC'20], IEEE International Conference on High Performance Computing and Communications (HPCC), 2020.
+* SwarmGraph: Analyzing Large-Scale In-Memory Graphs on GPUs. [[PDF]](../files/20_HPCC_SwarmGraph.pdf)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang.<br/>[HPCC'20], IEEE International Conference on High Performance Computing and Communications (HPCC), 2020.
 
-* Securing Malware Cognitive Systems against Adversarial Attacks. [[PDF]](static/papers/DeepArmour_ICCC19.pdf)[[PPT]](static/papers/DeepArmour_ICCC_19_slides.pdf) <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/>[ICCC'19], 2019 IEEE International Conference on Cognitive Computing,<br/>
+* Securing Malware Cognitive Systems against Adversarial Attacks. [[PDF]](../files/19_ICCC_malware_adversary_slides.pdf)[[PPT]](../files/19_ICCC_malware_adversary.pdf) <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/>[ICCC'19], 2019 IEEE International Conference on Cognitive Computing,<br/>
 Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligence for Cyber Security<br/>
 
-* iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](static/papers/iSpan_SC18.pdf)[[PPT]](static/papers/iSpan_SC_18.pdf)[[Code]](https://github.com/iHeartGraph/iSpan)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang,<br/><strong>[<strong>SC'18</strong>]</strong>, Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis<br/>
+* iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](../files/18_SC_iSpan.pdf)[[PPT]](../files/18_SC_iSpan_slides.pdf)[[Code]](https://github.com/iHeartGraph/iSpan)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang,<br/><strong>[<strong>SC'18</strong>]</strong>, Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis<br/>
 Acceptance rate (first round): 55/288 = 19%
 
-* Detection of Forwarding-based Malicious URLs in Online Social Networks. [[PDF]](static/papers/7 Detection of Forwarding-Based Malicious URLs in Online Social Networks_IJPP2014.pdf)<br/>Jian Cao, Qiang Li, <u>Yuede Ji</u>, Yukun He, and Dong Guo.<br/>[NPC'14], IFIP International Conference on Network and Parallel Computing,<br/>Invited to journal publication, International Journal of Parallel Programming, 44(1), 163-180, 2016.<br/>
+* Detection of Forwarding-based Malicious URLs in Online Social Networks. [[PDF]](../files/14_NPC_malicious_url.pdf)<br/>Jian Cao, Qiang Li, <u>Yuede Ji</u>, Yukun He, and Dong Guo.<br/>[NPC'14], IFIP International Conference on Network and Parallel Computing,<br/>Invited to journal publication, International Journal of Parallel Programming, 44(1), 163-180, 2016.<br/>
 <span style="color:red"><strong>Best Paper Award</strong><span style="color:red">
 
-* Towards Social Botnet Behavior Detecting in the End Host. [[PDF]](static/papers/8 Towards Social Botnet Behavior Detecting in the End Host_ICPADS2014.pdf) [[PPT]](static/papers/8_Social_Botnet_ICPADS_2014_slides.pdf) [[DATA]](https://yuede.github.io/open_source.html)<br/><u>Yuede Ji</u>, Yukun He, Xinyang Jiang, and Qiang Li.<br/>[ICPADS'14], 20th IEEE International Conference on Parallel and Distributed System, 2014
+* Towards Social Botnet Behavior Detecting in the End Host. [[PDF]](../files/14_ICPADS_social_botnet.pdf) [[PPT]](../files/14_ICPADS_social_botnet_slides.pdf)<br/><u>Yuede Ji</u>, Yukun He, Xinyang Jiang, and Qiang Li.<br/>[ICPADS'14], 20th IEEE International Conference on Parallel and Distributed System, 2014
 
-* A Multiprocess Mechanism of Evading Behavior-Based Bot Detection Approaches. [[PDF]](static/papers/5 A Mulitiprocess Mechanism of Evading Behavior-Based Bot Detection Approaches_ISPEC_2014.pdf) [[PPT]](static/papers/5_multiproces_ispec14.pptx) <br/><u>Yuede Ji</u>, Yukun He, Dewei Zhu, Qiang Li, and Dong Guo.<br/>[ISPEC'14], Information Security Practice and Experience, 2014
+* A Multiprocess Mechanism of Evading Behavior-Based Bot Detection Approaches. [[PDF]](../files/14_ISPEC_multiprocess_botnet.pdf) [[PPT]](../files/14_ISPEC_multiprocess_botnet_slides.pptx) <br/><u>Yuede Ji</u>, Yukun He, Dewei Zhu, Qiang Li, and Dong Guo.<br/>[ISPEC'14], Information Security Practice and Experience, 2014
 
-* BotCatch: A Behavior and Signature Correlated Bot Detection Approach. [[PDF]](static/papers/4 BotCatch A Behavior and Signature Correlated Bot Detection Approach_HPCC2013.pdf) [[PPT]](static/papers/4_botcatch_report-final.pptx)<br/><u>Yuede Ji</u>, Yukun He, Qiang Li, and Dong Guo.<br/>[HPCC'13], IEEE International Conference on High Performance Computing and Communications, 2013.
+* BotCatch: A Behavior and Signature Correlated Bot Detection Approach. [[PDF]](../files/13_HPCC_BotCatch.pdf) [[PPT]](../files/13_HPCC_BotCatch_slides.pptx)<br/><u>Yuede Ji</u>, Yukun He, Qiang Li, and Dong Guo.<br/>[HPCC'13], IEEE International Conference on High Performance Computing and Communications, 2013.
 
-* BotInfer: A Bot Inference Approach by Correlating Host and Network Information.  [[PDF]](static/papers/2 BotInfer A Bot Inference Approach by Correlating Host and Network Information_NPC2013.pdf)<br/>Yukun He, Qiang Li, <u>Yuede Ji</u>, and Dong Guo.<br/>[NPC'13], IFIP International Conference on Network and Parallel Computing, 2013
+* BotInfer: A Bot Inference Approach by Correlating Host and Network Information. [[PDF]](../files/13_NPC_BotInfer.pdf)<br/>Yukun He, Qiang Li, <u>Yuede Ji</u>, and Dong Guo.<br/>[NPC'13], IFIP International Conference on Network and Parallel Computing, 2013
 
 
 ## Journal Paper
@@ -52,18 +52,18 @@ Acceptance rate (first round): 55/288 = 19%
 
 * GRL: Knowledge Graph Completion with GAN-based Reinforcement Learning.<br/> Qi Wang, <u>Yuede Ji</u>, Yongsheng Hao, and Jie Cao. <br/>[KBS], Knowledge-Based Systems, 2020.<br/>
 
-* Stopping the Cyber Attack in the Early Stage: Assessing the Security Risks of Social Network Users. [[PDF]](static/papers/Stopping_the_Cyberattack_in_the_Early_Stage_Assess.pdf)<br/>Bo Feng, Qiang Li, <u>Yuede Ji</u>, Dong Guo, and Xiangyu Meng.<br/>[SCN], Security and Communication Networks, 2019.<br/>
+* Stopping the Cyber Attack in the Early Stage: Assessing the Security Risks of Social Network Users. [[PDF]](../files/19_SCN_APT_assess.pdf)<br/>Bo Feng, Qiang Li, <u>Yuede Ji</u>, Dong Guo, and Xiangyu Meng.<br/>[SCN], Security and Communication Networks, 2019.<br/>
 
-* Understanding socialbot behavior on end hosts. [[PDF]](static/papers/Understanding_socialbot_behavior_on_end_hosts.pdf)<br/>
+* Understanding socialbot behavior on end hosts. [[PDF]](../files/17_IJDSN_social_botnet.pdf)<br/>
 Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
 [IJDSN], International Journal of Distributed Sensor Networks, 2017.<br/>
 
-* Combating the evasion mechanisms of social bots. [[PDF]](static/papers/Combating the evasion mechanisms of social bots_CS_2016.pdf) [[DATA]](https://yuede.github.io/open_source.html)<br/><u>Yuede Ji</u>, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li<br/>[Computers & Security], Volume 58, Pages 230-249, 2016.<br/>
+* Combating the evasion mechanisms of social bots. [[PDF]](../files/16_CS_social_botnet.pdf)<br/><u>Yuede Ji</u>, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li<br/>[Computers & Security], Volume 58, Pages 230-249, 2016.<br/>
 
 
-* BotCatch: leveraging signature and behavior for bot detection. [[PDF]](static/papers/6 BotCatch leveraging signature and behavior for bot detection_SCN_1052.pdf)<br/><u>Yuede Ji</u>, Qiang Li, Yukun He, and Dong Guo.<br/>[SCN], Security and Communication Networks, 8(6): 952-969, 2015.
+* BotCatch: leveraging signature and behavior for bot detection. [[PDF]](../files/15_SCN_BotCatch.pdf)<br/><u>Yuede Ji</u>, Qiang Li, Yukun He, and Dong Guo.<br/>[SCN], Security and Communication Networks, 8(6): 952-969, 2015.
 
-* Overhead Analysis and Evaluation of Approaches to Host-based Bot Detection. [[PDF]](static/papers/9_Overhead Analysis and Evaluation of Approaches to Host-Based Bot Detection.pdf)<br/><u>Yuede Ji</u>, Qiang Li, Yukun He, and Dong Guo.<br/>[IJDSN], International Journal of Distributed Sensor Networks, 2015.
+* Overhead Analysis and Evaluation of Approaches to Host-based Bot Detection. [[PDF]](../files/15_IJDSN_botnet_overhead.pdf)<br/><u>Yuede Ji</u>, Qiang Li, Yukun He, and Dong Guo.<br/>[IJDSN], International Journal of Distributed Sensor Networks, 2015.
 
 ## Book Chapter
 
