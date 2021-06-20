@@ -18,16 +18,18 @@ I am looking for multiple self-motivated students (including Ph.D., master, unde
 
 News
 ======
-*Mar. 2021*: Our paper on identifying the compilation provenance of binary code, Vestige, is accepted to <span style="color:blue"><strong>ACNS'21</strong></span>.
+[June 2021]: Our paper on analyzing exposed Android Init routines, DEFInit, is accepted to <span style="color:blue"><strong>USENIX Security'21</strong></span>
 
-*Feb. 2021*: Our paper on detecting unknown advanced persistent threat (APT) is accepted to Computer Networks.
+[Mar. 2021]: Our paper on identifying the compilation provenance of binary code, Vestige, is accepted to <span style="color:blue"><strong>ACNS'21</strong></span>.
 
-*Oct. 2020*: Our paper on binary code vulnerability analysis with graph neural network, BugGraph, is accepted to <span style="color:blue"><strong>AsiaCCS'21</strong></span>.
+[Feb. 2021]: Our paper on detecting unknown advanced persistent threat (APT) is accepted to Computer Networks.
 
-*Oct. 2020*: Our paper on large scale small graphs computation with GPUs, SwarmGraph, is accepted to HPCC'20.
+[Oct. 2020]: Our paper on binary code vulnerability analysis with graph neural network, BugGraph, is accepted to <span style="color:blue"><strong>AsiaCCS'21</strong></span>.
 
-*June 2020*: Start working as a senior intern at [Kryptowire](https://www.kryptowire.com/) (a company that specializes in Mobile Security and Code Analysis) mentored by [Dr. Mohamed Elsabagh](https://scholar.google.com/citations?user=HKp90HUAAAAJ&hl=en).
+[Oct. 2020]: Our paper on large scale small graphs computation with GPUs, SwarmGraph, is accepted to HPCC'20.
 
-*May 2020*: Our paper on lateral movement detection with unsupervised graph learning is accepted to <span style="color:blue"><strong>RAID'20</strong></span>.
+[June 2020]: Start working as a senior intern at [Kryptowire](https://www.kryptowire.com/) (a company that specializes in Mobile Security and Code Analysis) mentored by [Dr. Mohamed Elsabagh](https://scholar.google.com/citations?user=HKp90HUAAAAJ&hl=en).
 
-*Mar. 2020*: Our paper on graph connectivity computation framework, Aquila, is accepted to <span style="color:blue"><strong>HPDC'20</strong></span>.
+[May 2020]: Our paper on lateral movement detection with unsupervised graph learning is accepted to <span style="color:blue"><strong>RAID'20</strong></span>.
+
+[Mar. 2020]: Our paper on graph connectivity computation framework, Aquila, is accepted to <span style="color:blue"><strong>HPDC'20</strong></span>.

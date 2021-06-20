@@ -15,7 +15,7 @@ This project aims to greatly improve the security of the computing devices by
 (2) enhancing the fundamental techniques used in existing vulnerability detection methods.
 So far, we have identified over 200 vulnerabilities from both mobile and IoT firmware. Several vendors have confirmed our findings.
 
-<span style="color:blue">Publications</span>: DEFInit [under submission], [BugGraph [AsiaCCS'21]](../files/21_AsiaCCS_BugGraph.pdf), [Vestige [ACNS'21]](../files/21_ACNS_Vestige.pdf)
+<span style="color:blue">Publications</span>: DEFInit [USENIX Security'21], [BugGraph [AsiaCCS'21]](../files/21_AsiaCCS_BugGraph.pdf), [Vestige [ACNS'21]](../files/21_ACNS_Vestige.pdf)
 
 ---------------------------------
 
