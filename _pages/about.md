@@ -18,12 +18,9 @@ I am looking for two self-motivated Ph.D. students (fully funded) and several in
 
 News
 ======
-[June 2021] : Our paper on analyzing exposed Android Init routines, DEFInit, is accepted to <strong>USENIX Security'21</strong>.
-
-[Mar. 2021] : Our paper on identifying the compilation provenance of binary code, Vestige, is accepted to <strong>ACNS'21</strong>.
-
-[Feb. 2021] : Our paper on detecting unknown advanced persistent threat (APT) is accepted to Computer Networks.
-
+[June 2021] : Our paper on analyzing exposed Android Init routines, DEFInit, is accepted to <strong>USENIX Security'21</strong>. \
+[Mar. 2021] : Our paper on identifying the compilation provenance of binary code, Vestige, is accepted to <strong>ACNS'21</strong>. \
+[Feb. 2021] : Our paper on detecting unknown advanced persistent threat (APT) is accepted to Computer Networks. \
 [Oct. 2020] : Our paper on binary code vulnerability analysis with graph neural network, BugGraph, is accepted to <strong>AsiaCCS'21</strong>.
 
 [Oct. 2020] : Our paper on large scale small graphs computation with GPUs, SwarmGraph, is accepted to HPCC'20.
