@@ -12,7 +12,7 @@ author_profile: true
 ## Conference Paper
 * DEFInit: An Analysis of Exposed Android Init Routines. [[PDF]](https://www.usenix.org/conference/usenixsecurity21/presentation/ji)
 <u>Yuede Ji</u>, Mohamed Elsabagh, Ryan Johnson, and Angelos Stavrou<br/>[<strong>USENIX Security'21</strong>], the 30th USENIX Security Symposium<br/>
-Acceptance rate (winter cycle): 248/1319 = 18.8%
+Acceptance rate: 248/1319 = 18.8%
 
 * Vestige: Identifying Binary Code Provenance for Vulnerability Detection. [[PDF]](../files/21_ACNS_Vestige.pdf)<br/>
 <u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/>[<strong>ACNS'21</strong>], The 19th International Conference on Applied Cryptography and Network Security<br/>

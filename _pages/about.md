@@ -14,7 +14,7 @@ Yuede Ji's research interest is at the intersection of <strong>Cybersecurity</st
 
 Openings
 ======
-I am looking for two self-motivated Ph.D. students (fully funded) and several interns or visitors to work with me on various cool projects in cybersecurity, high-performance computing, graph learning, and graph analytics. If you are interested, please drop me an email with your CV.
+I am looking for multiple self-motivated Ph.D. students (fully funded) and several interns or visitors (could be remote) to work with me on various cool projects in cybersecurity, high-performance computing, and graph analytics. If you are interested, please drop me an email with your CV.
 
 News
 ======
@@ -33,3 +33,5 @@ News
 [May 2020] : Our paper on lateral movement detection with unsupervised graph learning is accepted to <strong>RAID'20</strong>.
 
 [Mar. 2020] : Our paper on graph connectivity computation framework, Aquila, is accepted to <strong>HPDC'20</strong>.
+
+[June. 2018] : Our paper on strongly connected component detection, iSpan, is accepted to <strong>SC'18</strong>.
