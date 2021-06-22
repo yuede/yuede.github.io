@@ -34,4 +34,4 @@ News
 
 [Mar. 2020] : Our paper on graph connectivity computation framework, Aquila, is accepted to <strong>HPDC'20</strong>.
 
-[June. 2018] : Our paper on strongly connected component detection, iSpan, is accepted to <strong>SC'18</strong>.
+[June 2018] : Our paper on strongly connected component detection, iSpan, is accepted to <strong>SC'18</strong>.
