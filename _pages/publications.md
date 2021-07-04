@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 ## Conference Paper
-* DEFInit: An Analysis of Exposed Android Init Routines. [[PDF]](https://www.usenix.org/conference/usenixsecurity21/presentation/ji)
+* DEFInit: An Analysis of Exposed Android Init Routines. [[PDF]](https://www.usenix.org/conference/usenixsecurity21/presentation/ji)<br/>
 <u>Yuede Ji</u>, Mohamed Elsabagh, Ryan Johnson, and Angelos Stavrou<br/>[<strong>USENIX Security'21</strong>], the 30th USENIX Security Symposium<br/>
 Acceptance rate: 248/1319 = 18.8%
 
