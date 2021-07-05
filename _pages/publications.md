@@ -16,7 +16,7 @@ Acceptance rate: 248/1319 = 18.8%
 
 * Vestige: Identifying Binary Code Provenance for Vulnerability Detection. [[PDF]](../files/21_ACNS_Vestige.pdf)<br/>
 <u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/>[<strong>ACNS'21</strong>], The 19th International Conference on Applied Cryptography and Network Security<br/>
-Acceptance rate (second round): 24/115 = 21%
+Acceptance rate: 37/186 = 20%
 
 * BugGraph: Differentiating Source-Binary Code Similarity with Graph Triplet-Loss Network. [[PDF]](../files/21_AsiaCCS_BugGraph.pdf)<br/>
 <u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/>[<strong>AsiaCCS'21</strong>], The ACM Asia Conference on Computer and Communications Security<br/>
