@@ -11,6 +11,7 @@ author_profile: true
     * EuroSys, 2018 (Shadow PC)
 
 * **Journal Reviewer**
+    * ACM Transactions on Parallel Computing
     * IEEE Transactions on Cloud Computing
     * Computer Networks
     * Journal of Parallel and Distributed Computing

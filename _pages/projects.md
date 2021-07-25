@@ -15,7 +15,7 @@ This project aims to greatly improve the security of the computing devices by
 (2) enhancing the fundamental techniques used in existing vulnerability detection methods.
 So far, we have identified over 200 vulnerabilities from both mobile and IoT firmware. Several vendors have confirmed our findings.
 
-<span style="color:blue">Publications</span>: DEFInit [USENIX Security'21], [BugGraph [AsiaCCS'21]](../files/21_AsiaCCS_BugGraph.pdf), [Vestige [ACNS'21]](../files/21_ACNS_Vestige.pdf)
+<span style="color:blue">Publications</span>: [DEFInit [USENIX Security'21]](https://www.usenix.org/conference/usenixsecurity21/presentation/ji), [BugGraph [AsiaCCS'21]](../files/21_AsiaCCS_BugGraph.pdf), [Vestige [ACNS'21]](../files/21_ACNS_Vestige.pdf)
 
 ---------------------------------
 
@@ -29,7 +29,7 @@ This project aims to detect various types of cyber threats, including APT, botne
 
 ---------------------------------
 
-High-Performance Computing for Graph analytics
+High-Performance Computing for Graph Analytics
 ==============================================
 
 Graph is an important data representation used in many applications, such as control and data flow graph in program analysis, friendship graph in the social network, and authentication graph in APT campaigns. There are two major challenges for computing on graphs. First, Graph, in reality, is big data in terms of both graph size and count. The graph size in many real applications, e.g., social network, has reached billion scale. Second, many interesting graph algorithms have high time complexity, e.g., subgraph isomorphism is NP-complete. As real applications usually require real-time computation, it is critical to improve the scalability of graph analytics.
