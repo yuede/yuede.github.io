@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Yuede Ji will be joining the [Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu/) at the [University of North Texas](https://www.unt.edu/) as an Assistant Professor in Fall 2021. Right now, Yuede Ji is a Ph.D. candidate from the Department of Electrical and Computer Engineering at The George Washington University. He is advised by [Prof. H. Howie Huang](https://www.seas.gwu.edu/howie-huang).
-
+Yuede Ji is an Assistant Professor from the [Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu/) at the [University of North Texas](https://www.unt.edu/).
 Yuede Ji's research interest is at the intersection of <strong>Cybersecurity</strong>, <strong>High-Performance Computing</strong>, <strong>Graph Learning</strong>, and <strong>Graph Analytics</strong>. He aims to build efficient systems to protect the emerging data and computing devices from various layers, such as vulnerability detection, malware detection, and network threat detection. Furthermore, he aims to build high-performance computing systems with emerging hardware (e.g., GPU) to improve the scalability of cybersecurity techniques. His research works have frequently appeared at prestigious high-performance computing and cybersecurity conferences, such as SC, HPDC, RAID, and AsiaCCS. His research has won the best paper award at NPC 2014.
 
-Yuede Ji's curriculum vitae can be found [here](../files/cv_yuede.pdf).
+Yuede Ji received the Ph.D. degree from the the George Washington University in 2021 (advisor [Prof. H. Howie Huang](https://www.seas.gwu.edu/howie-huang)). He received M.S. and B.E. from Jilin University in 2015 and 2012, respectively. Yuede Ji's curriculum vitae can be found [here](../files/cv_yuede.pdf).
 
 Openings
 ======
