@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "Yuede Ji"
 excerpt: "About me"
 author_profile: true
 redirect_from:
