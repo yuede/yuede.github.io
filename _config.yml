@@ -183,7 +183,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  awards:
+  award:
     output: true
     permalink: /:collection/:path/
   service:
@@ -238,7 +238,7 @@ defaults:
   # _awards
   - scope:
       path: ""
-      type: awards
+      type: award
     values:
       layout: single
       author_profile: true
