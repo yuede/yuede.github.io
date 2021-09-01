@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Yuede Ji is an Assistant Professor from the [Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu/) at the [University of North Texas](https://www.unt.edu/).
-Yuede Ji's research interest is at the intersection of <strong>Cybersecurity</strong>, <strong>High-Performance Computing</strong>, <strong>Graph Learning</strong>, and <strong>Graph Analytics</strong>. He aims to build efficient systems to protect the emerging data and computing devices from various layers, such as vulnerability detection, malware detection, and network threat detection. Furthermore, he aims to build high-performance computing systems with emerging hardware (e.g., GPU) to improve the scalability of cybersecurity techniques. His research works have frequently appeared at prestigious high-performance computing and cybersecurity conferences, such as SC, HPDC, RAID, and AsiaCCS. His research has won the best paper award at NPC 2014.
+Yuede Ji's research interest is at the intersection of <strong>Cybersecurity</strong>, <strong>High-Performance Computing</strong>, <strong>Graph Learning</strong>, and <strong>Graph Analytics</strong>. He aims to build efficient systems to protect the emerging data and computing devices from various layers, such as vulnerability detection, malware detection, and network threat detection. Furthermore, he aims to build high-performance computing systems with emerging hardware (e.g., GPU) to improve the scalability of cybersecurity techniques. His research works have frequently appeared at prestigious cybersecurity and high-performance computing conferences, including USENIX Security, SC, HPDC, RAID, and AsiaCCS. His research has won the best paper award at NPC 2014.
 
 Yuede Ji received the Ph.D. degree from the the George Washington University in 2021 (advisor [Prof. H. Howie Huang](https://www.seas.gwu.edu/howie-huang)). He received M.S. and B.E. from Jilin University in 2015 and 2012, respectively. Yuede Ji's curriculum vitae can be found [here](../files/cv_yuede.pdf).
 
@@ -19,6 +19,7 @@ I am looking for multiple self-motivated Ph.D. students (fully funded) and sever
 
 News
 ======
+
 [June 2021] : Our paper on analyzing exposed Android Init routines, DEFInit, is accepted to <strong>USENIX Security'21</strong>.
 
 [Mar. 2021] : Our paper on identifying the compilation provenance of binary code, Vestige, is accepted to <strong>ACNS'21</strong>.
