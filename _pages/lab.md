@@ -5,6 +5,9 @@ permalink: /lab/
 author_profile: true
 ---
 
-Openings
-======
-I am looking for multiple self-motivated Ph.D. students (fully funded) and several interns or visitors (could be remote) to work with me on various cool projects in cybersecurity, high-performance computing, and graph analytics. If you are interested, please drop me an email with your CV.
+I am very fortunate to work with the following talented students.
+
+* Avik Malladi, Undergraduate, UNT Texas Academy of Mathematics and Science (TAMS)
+* Siying Li, Master intern from New York University (BS, Nankai University)
+* Boxiang Guo, Master intern from San José State University (BS, Iowa State University)
+* You?
