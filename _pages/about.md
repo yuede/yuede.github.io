@@ -20,20 +20,20 @@ I am looking for multiple self-motivated Ph.D. students (fully funded) and sever
 News
 ======
 
-[June 2021] : Our paper on analyzing exposed Android Init routines, DEFInit, is accepted to <strong>USENIX Security'21</strong>.
+[June 2021] : Our paper on analyzing exposed Android Init routines, DEFInit, is accepted to USENIX Security'21.
 
-[Mar. 2021] : Our paper on identifying the compilation provenance of binary code, Vestige, is accepted to <strong>ACNS'21</strong>.
+[Mar. 2021] : Our paper on identifying the compilation provenance of binary code, Vestige, is accepted to ACNS'21.
 
 [Feb. 2021] : Our paper on detecting unknown advanced persistent threat (APT) is accepted to Computer Networks.
 
-[Oct. 2020] : Our paper on binary code vulnerability analysis with graph neural network, BugGraph, is accepted to <strong>AsiaCCS'21</strong>.
+[Oct. 2020] : Our paper on binary code vulnerability analysis with graph neural network, BugGraph, is accepted to AsiaCCS'21.
 
 [Oct. 2020] : Our paper on large scale small graphs computation with GPUs, SwarmGraph, is accepted to HPCC'20.
 
 [June 2020] : Start working as a senior intern at [Kryptowire](https://www.kryptowire.com/) (a company that specializes in Mobile Security and Code Analysis) mentored by [Dr. Mohamed Elsabagh](https://scholar.google.com/citations?user=HKp90HUAAAAJ&hl=en).
 
-[May 2020] : Our paper on lateral movement detection with unsupervised graph learning is accepted to <strong>RAID'20</strong>.
+[May 2020] : Our paper on lateral movement detection with unsupervised graph learning is accepted to RAID'20.
 
-[Mar. 2020] : Our paper on graph connectivity computation framework, Aquila, is accepted to <strong>HPDC'20</strong>.
+[Mar. 2020] : Our paper on graph connectivity computation framework, Aquila, is accepted to HPDC'20.
 
-[June 2018] : Our paper on strongly connected component detection, iSpan, is accepted to <strong>SC'18</strong>.
+[June 2018] : Our paper on strongly connected component detection, iSpan, is accepted to SC'18.

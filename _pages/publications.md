@@ -10,23 +10,23 @@ author_profile: true
 {% endif %}
 
 ## Conference Paper
-* DEFInit: An Analysis of Exposed Android Init Routines. [[PDF]](https://www.usenix.org/conference/usenixsecurity21/presentation/ji)<br/>
-<u>Yuede Ji</u>, Mohamed Elsabagh, Ryan Johnson, and Angelos Stavrou<br/>[<strong>USENIX Security'21</strong>], the 30th USENIX Security Symposium<br/>
+* DEFInit: An Analysis of Exposed Android Init Routines. [[PDF]](../files/21_Security_DEFInit.pdf)<br/>
+<u>Yuede Ji</u>, Mohamed Elsabagh, Ryan Johnson, and Angelos Stavrou<br/>[USENIX Security'21], the 30th USENIX Security Symposium<br/>
 Acceptance rate: 248/1319 = 18.8%
 
 * Vestige: Identifying Binary Code Provenance for Vulnerability Detection. [[PDF]](../files/21_ACNS_Vestige.pdf)<br/>
-<u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/>[<strong>ACNS'21</strong>], The 19th International Conference on Applied Cryptography and Network Security<br/>
+<u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/>[ACNS'21], The 19th International Conference on Applied Cryptography and Network Security<br/>
 Acceptance rate: 37/186 = 20%
 
 * BugGraph: Differentiating Source-Binary Code Similarity with Graph Triplet-Loss Network. [[PDF]](../files/21_AsiaCCS_BugGraph.pdf)<br/>
-<u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/>[<strong>AsiaCCS'21</strong>], The ACM Asia Conference on Computer and Communications Security<br/>
+<u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/>[AsiaCCS'21], The ACM Asia Conference on Computer and Communications Security<br/>
 Acceptance rate : 70/370 = 19%
 
 * Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI. [[PDF]](../files/20_RAID_lateral_movement.pdf)<br/>
-Benjamin Bowman, Craig Laprade, <u>Yuede Ji</u>, and H. Howie Huang<br/>[<strong>RAID'20</strong>], The 23rd International Symposium on Research in Attacks, Intrusions and Defenses<br/>
+Benjamin Bowman, Craig Laprade, <u>Yuede Ji</u>, and H. Howie Huang<br/>[RAID'20], The 23rd International Symposium on Research in Attacks, Intrusions and Defenses<br/>
 Acceptance rate: 31/121 = 25.6%
 
-* Aquila: Adaptive Parallel Computation of Graph Connectivity Queries. [[PDF]](../files/20_HPDC_Aquila.pdf)[[PPT]](../files/20_HPDC_Aquila_slides.pdf)[[Video]](https://youtu.be/CtkJtICiHRc)[[Code]](https://github.com/iHeartGraph/Aquila)<br/><u>Yuede Ji</u> and H. Howie Huang<br/>[<strong>HPDC'20</strong>], The 29th International Symposium on High-Performance Parallel and Distributed Computing<br/>
+* Aquila: Adaptive Parallel Computation of Graph Connectivity Queries. [[PDF]](../files/20_HPDC_Aquila.pdf)[[PPT]](../files/20_HPDC_Aquila_slides.pdf)[[Video]](https://youtu.be/CtkJtICiHRc)[[Code]](https://github.com/iHeartGraph/Aquila)<br/><u>Yuede Ji</u> and H. Howie Huang<br/>[HPDC'20], The 29th International Symposium on High-Performance Parallel and Distributed Computing<br/>
 Acceptance rate: 16/71 = 22%
 
 * SwarmGraph: Analyzing Large-Scale In-Memory Graphs on GPUs. [[PDF]](../files/20_HPCC_SwarmGraph.pdf)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang.<br/>[HPCC'20], IEEE International Conference on High Performance Computing and Communications (HPCC), 2020.
@@ -34,7 +34,7 @@ Acceptance rate: 16/71 = 22%
 * Securing Malware Cognitive Systems against Adversarial Attacks. [[PDF]](../files/19_ICCC_malware_adversary.pdf)[[PPT]](../files/19_ICCC_malware_adversary_slides.pdf) <br/><u>Yuede Ji</u>, Benjamin Bowman, and H. Howie Huang,<br/>[ICCC'19], 2019 IEEE International Conference on Cognitive Computing,<br/>
 Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligence for Cyber Security<br/>
 
-* iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](../files/18_SC_iSpan.pdf)[[PPT]](../files/18_SC_iSpan_slides.pdf)[[Code]](https://github.com/iHeartGraph/iSpan)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang,<br/><strong>[<strong>SC'18</strong>]</strong>, Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis<br/>
+* iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](../files/18_SC_iSpan.pdf)[[PPT]](../files/18_SC_iSpan_slides.pdf)[[Code]](https://github.com/iHeartGraph/iSpan)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang,<br/>[SC'18], Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis<br/>
 Acceptance rate (first round): 55/288 = 19%
 
 * Detection of Forwarding-based Malicious URLs in Online Social Networks. [[PDF]](../files/14_NPC_malicious_url.pdf)<br/>Jian Cao, Qiang Li, <u>Yuede Ji</u>, Yukun He, and Dong Guo.<br/>[NPC'14], IFIP International Conference on Network and Parallel Computing,<br/>Invited to journal publication, International Journal of Parallel Programming, 44(1), 163-180, 2016.<br/>
