@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message', 'phone']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -175,6 +175,9 @@ kramdown:
 
 # Collections
 collections:
+  about:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -266,6 +269,14 @@ defaults:
   - scope:
       path: ""
       type: why_unt
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # about
+  - scope:
+      path: ""
+      type: about
     values:
       layout: single
       author_profile: true
