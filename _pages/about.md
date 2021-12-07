@@ -19,6 +19,11 @@ I am looking for multiple self-motivated Ph.D. students (fully funded) and sever
 
 News
 ======
+[Oct. 2021] : My algorithm class (CSCE-5150) received Google Cloud Education Credits. Thanks Google!
+
+[Sep. 2021] : Our lab received Google Cloud Research Credits Award. Thanks Google!
+
+[Aug. 2021] : I started working as an assistant professor at the University of North Texas.
 
 [June 2021] : Our paper on analyzing exposed Android Init routines, DEFInit, is accepted to USENIX Security'21.
 
@@ -30,7 +35,7 @@ News
 
 [Oct. 2020] : Our paper on large scale small graphs computation with GPUs, SwarmGraph, is accepted to HPCC'20.
 
-[June 2020] : Start working as a senior intern at [Kryptowire](https://www.kryptowire.com/) (a company that specializes in Mobile Security and Code Analysis) mentored by [Dr. Mohamed Elsabagh](https://scholar.google.com/citations?user=HKp90HUAAAAJ&hl=en).
+[June 2020] : I started working as a senior intern at [Kryptowire](https://www.kryptowire.com/) (a company that specializes in Mobile Security and Code Analysis) mentored by [Dr. Mohamed Elsabagh](https://scholar.google.com/citations?user=HKp90HUAAAAJ&hl=en).
 
 [May 2020] : Our paper on lateral movement detection with unsupervised graph learning is accepted to RAID'20.
 
