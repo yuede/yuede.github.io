@@ -175,9 +175,6 @@ kramdown:
 
 # Collections
 collections:
-  about:
-    output: true
-    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -269,14 +266,6 @@ defaults:
   - scope:
       path: ""
       type: why_unt
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # about
-  - scope:
-      path: ""
-      type: about
     values:
       layout: single
       author_profile: true
