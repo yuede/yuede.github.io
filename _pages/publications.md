@@ -10,15 +10,15 @@ author_profile: true
 {% endif %}
 
 ## Conference Paper
-* DEFInit: An Analysis of Exposed Android Init Routines. [[PDF]](../files/21_Security_DEFInit.pdf)<br/>
+* DEFInit: An Analysis of Exposed Android Init Routines. [[PDF]](../files/21_Security_DEFInit.pdf)[[PPT]](../files/21_Security_DEFInit_slides.pdf)<br/>
 <u>Yuede Ji</u>, Mohamed Elsabagh, Ryan Johnson, and Angelos Stavrou<br/>[USENIX Security'21], the 30th USENIX Security Symposium<br/>
 Acceptance rate: 248/1319 = 18.8%
 
-* Vestige: Identifying Binary Code Provenance for Vulnerability Detection. [[PDF]](../files/21_ACNS_Vestige.pdf)<br/>
+* Vestige: Identifying Binary Code Provenance for Vulnerability Detection. [[PDF]](../files/21_ACNS_Vestige.pdf)[[PPT]](../files/21_ACNS_Vestige_slides.pdf)<br/>
 <u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/>[ACNS'21], The 19th International Conference on Applied Cryptography and Network Security<br/>
 Acceptance rate: 37/186 = 20%
 
-* BugGraph: Differentiating Source-Binary Code Similarity with Graph Triplet-Loss Network. [[PDF]](../files/21_AsiaCCS_BugGraph.pdf)<br/>
+* BugGraph: Differentiating Source-Binary Code Similarity with Graph Triplet-Loss Network. [[PDF]](../files/21_AsiaCCS_BugGraph.pdf)[[PPT]](../files/21_AsiaCCS_BugGraph_slides.pdf)<br/>
 <u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/>[AsiaCCS'21], The ACM Asia Conference on Computer and Communications Security<br/>
 Acceptance rate : 70/370 = 19%
 
