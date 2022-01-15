@@ -5,12 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 * CSCE-5565: Secure Software Systems [Spring 2022]
 
 * CSCE-5150: Analysis of Computer Algorithms [Fall 2021]
