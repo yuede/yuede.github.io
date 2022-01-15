@@ -19,5 +19,5 @@ author_profile: true
     * Frontiers of Computer Science
     * Wireless Communications and Mobile Computing
     * IEEE Access
-* **Volunteer**
-    * HPDC 2017
+* **Panel**
+    * NSF 2022
