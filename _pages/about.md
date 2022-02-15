@@ -20,7 +20,6 @@ I am looking for multiple self-motivated Ph.D. students (fully funded) and sever
 News
 ======
 [Oct. 2021] : My algorithm class (CSCE-5150) received Google Cloud Education Credits. Thanks Google!
-
 [Sep. 2021] : Our lab received Google Cloud Research Credits Award. Thanks Google!
 
 [Aug. 2021] : I started working as an assistant professor at the University of North Texas.
