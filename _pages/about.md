@@ -19,11 +19,11 @@ I am looking for multiple self-motivated Ph.D. students (fully funded) and sever
 
 News
 ======
-* [Jan. 2021] : Our Nested Graph Neural Network (NestedGNN) paper is accepted to IEEE ICC'22.
+[Jan. 2021] : Our Nested Graph Neural Network (NestedGNN) paper is accepted to IEEE ICC'22.
 
-* [Oct. 2021] : My algorithm class (CSCE-5150) received Google Cloud Education Credits. Thanks Google!
+[Oct. 2021] : My algorithm class (CSCE-5150) received Google Cloud Education Credits. Thanks Google!
 
-* [Sep. 2021] : Our lab received Google Cloud Research Credits Award. Thanks Google!
+[Sep. 2021] : Our lab received Google Cloud Research Credits Award. Thanks Google!
 
 [Aug. 2021] : I started working as an assistant professor at the University of North Texas.
 
