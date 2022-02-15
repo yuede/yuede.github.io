@@ -10,6 +10,9 @@ author_profile: true
 {% endif %}
 
 ## Conference Paper
+* NestedGNN: Detecting Malicious Network Activity with Nested Graph Neural Networks. [[PDF]](.)<br/>
+<u>Yuede Ji</u> and H. Howie Huang<br/>[IEEE ICC'22], IEEE International Conference on Communications, 2022<br/>
+
 * DEFInit: An Analysis of Exposed Android Init Routines. [[PDF]](../files/21_Security_DEFInit.pdf)[[PPT]](../files/21_Security_DEFInit_slides.pdf)<br/>
 <u>Yuede Ji</u>, Mohamed Elsabagh, Ryan Johnson, and Angelos Stavrou<br/>[USENIX Security'21], the 30th USENIX Security Symposium<br/>
 Acceptance rate: 248/1319 = 18.8%
