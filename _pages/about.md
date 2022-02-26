@@ -19,7 +19,7 @@ I am looking for multiple self-motivated Ph.D. students (fully funded) and sever
 
 News
 ======
-[Feb. 2022] : Our paper on explaining GNN-based code analysis is accepted to EuroS\&P'22.
+[Feb. 2022] : Our paper on explaining GNN-based code analysis is accepted to EuroS&P'22.
 
 [Jan. 2022] : Our Nested Graph Neural Network (NestedGNN) paper is accepted to IEEE ICC'22.
 

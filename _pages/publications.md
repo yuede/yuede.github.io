@@ -11,7 +11,7 @@ author_profile: true
 
 ## Conference Paper
 * Illuminati: Towards Explaining Graph Neural Networks for Cybersecurity Analysis. [[PDF]](.)<br/>
-Haoyu He, <u>Yuede Ji</u>, and H. Howie Huang<br/>[EuroS\&P'22], 7th IEEE European Symposium on Security and Privacy, 2022<br/>
+Haoyu He, <u>Yuede Ji</u>, and H. Howie Huang<br/>[EuroS&P'22], IEEE European Symposium on Security and Privacy, 2022<br/>
 
 * NestedGNN: Detecting Malicious Network Activity with Nested Graph Neural Networks. [[PDF]](.)<br/>
 <u>Yuede Ji</u> and H. Howie Huang<br/>[IEEE ICC'22], IEEE International Conference on Communications, 2022<br/>
