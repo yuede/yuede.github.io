@@ -20,13 +20,13 @@ Haoyu He, <u>Yuede Ji</u>, and H. Howie Huang<br/><strong>[EuroS&P'22]</strong>,
 <u>Yuede Ji</u>, Mohamed Elsabagh, Ryan Johnson, and Angelos Stavrou<br/><strong>[USENIX Security'21]</strong>, the 30th USENIX Security Symposium<br/>
 Acceptance rate: 248/1319 = 18.8%
 
-* Vestige: Identifying Binary Code Provenance for Vulnerability Detection. [[PDF]](../files/21_ACNS_Vestige.pdf)[[PPT]](../files/21_ACNS_Vestige_slides.pdf)<br/>
-<u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/>[ACNS'21], The 19th International Conference on Applied Cryptography and Network Security<br/>
-Acceptance rate: 37/186 = 20%
-
 * BugGraph: Differentiating Source-Binary Code Similarity with Graph Triplet-Loss Network. [[PDF]](../files/21_AsiaCCS_BugGraph.pdf)[[PPT]](../files/21_AsiaCCS_BugGraph_slides.pdf)<br/>
 <u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/><strong>[AsiaCCS'21]</strong>, The ACM Asia Conference on Computer and Communications Security<br/>
 Acceptance rate : 70/370 = 19%
+
+* Vestige: Identifying Binary Code Provenance for Vulnerability Detection. [[PDF]](../files/21_ACNS_Vestige.pdf)[[PPT]](../files/21_ACNS_Vestige_slides.pdf)<br/>
+<u>Yuede Ji</u>, Lei Cui, and H. Howie Huang<br/>[ACNS'21], The 19th International Conference on Applied Cryptography and Network Security<br/>
+Acceptance rate: 37/186 = 20%
 
 * Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI. [[PDF]](../files/20_RAID_lateral_movement.pdf)<br/>
 Benjamin Bowman, Craig Laprade, <u>Yuede Ji</u>, and H. Howie Huang<br/><strong>[RAID'20]</strong>, The 23rd International Symposium on Research in Attacks, Intrusions and Defenses<br/>
