@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -35,5 +35,5 @@ Acceptance rate: 31/121 = 25.6%
 * iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](../files/18_SC_iSpan.pdf)[[PPT]](../files/18_SC_iSpan_slides.pdf)[[Code]](https://github.com/iHeartGraph/iSpan)<br/><u>Yuede Ji</u>, Hang Liu, and H. Howie Huang,<br/><strong>[SC'18]</strong>, Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis<br/>
 Acceptance rate (first round): 55/288 = 19%
 
-* Detection of Forwarding-based Malicious URLs in Online Social Networks. [[PDF]](../files/14_NPC_malicious_url.pdf)<br/>Jian Cao, Qiang Li, <u>Yuede Ji</u>, Yukun He, and Dong Guo.<br/>[NPC'14], IFIP International Conference on Network and Parallel Computing,<br/>Invited to journal publication, International Journal of Parallel Programming, 44(1), 163-180, 2016.<br/>
+* Detection of Forwarding-based Malicious URLs in Online Social Networks. [[PDF]](../files/14_NPC_malicious_url.pdf)<br/>Jian Cao, Qiang Li, <u>Yuede Ji</u>, Yukun He, and Dong Guo.<br/><strong>[NPC'14]</strong>, IFIP International Conference on Network and Parallel Computing,<br/>Invited to journal publication, International Journal of Parallel Programming, 44(1), 163-180, 2016.<br/>
 <span style="color:red"><strong>Best Paper Award</strong><span style="color:red">
