@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## Selected Publications ([Full List of Publications](./publications_full.md))
+## Selected Publications ([Full Publication List](./publications_full.md))
 * Illuminati: Towards Explaining Graph Neural Networks for Cybersecurity Analysis. [[PDF]](.)<br/>
 Haoyu He, <u>Yuede Ji</u>, and H. Howie Huang<br/><strong>[EuroS&P'22]</strong>, IEEE European Symposium on Security and Privacy, 2022<br/>
 Acceptance rate: 42/141 = 29.8%
