@@ -19,7 +19,12 @@ I am looking for multiple self-motivated Ph.D. students (fully funded) and sever
 
 News
 ======
-[Feb. 2022] : Our paper on explaining GNN-based code analysis is accepted to EuroS&P'22.
+
+[May 2022] : The extended version of iSpan on GPU is accepted to ACM TOPC.
+
+[Feb. 2022] : Our paper on explaining GNN-based code analysis, Illuminati, is accepted to EuroS&P'22.
+
+[Jan. 2022] : Welcome Wang Feng and Muhammad Irfan to join our group as Ph.D. students.
 
 [Jan. 2022] : Our Nested Graph Neural Network (NestedGNN) paper is accepted to IEEE ICC'22.
 
