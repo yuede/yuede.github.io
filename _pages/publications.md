@@ -12,7 +12,7 @@ author_profile: true
 ## Selected Publications ([Full Publication List](./publications_full.md))
 * iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](.)<br/><u>Yuede Ji</u>, Hang Liu, Yang Hu, and H. Howie Huang,<br/><strong>[ACM TOPC]</strong>, ACM Transactions on Parallel Computing<br/>
 
-* Illuminati: Towards Explaining Graph Neural Networks for Cybersecurity Analysis. [[PDF]](.)<br/>
+* Illuminati: Towards Explaining Graph Neural Networks for Cybersecurity Analysis. [[PDF]](../files/22_EuroSP_Illuminati.pdf)<br/>
 Haoyu He, <u>Yuede Ji</u>, and H. Howie Huang<br/><strong>[EuroS&P'22]</strong>, IEEE European Symposium on Security and Privacy, 2022<br/>
 Acceptance rate: 42/141 = 29.8%
 
