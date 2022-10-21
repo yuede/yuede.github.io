@@ -79,5 +79,3 @@ Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
 * BotCatch: A Behavior and Signature Correlated Bot Detection Approach. [[PDF]](../files/13_HPCC_BotCatch.pdf) [[PPT]](../files/13_HPCC_BotCatch_slides.pptx)<br/><u>Yuede Ji</u>, Yukun He, Qiang Li, and Dong Guo.<br/>[HPCC'13], IEEE International Conference on High Performance Computing and Communications, 2013.
 
 * BotInfer: A Bot Inference Approach by Correlating Host and Network Information. [[PDF]](../files/13_NPC_BotInfer.pdf)<br/>Yukun He, Qiang Li, <u>Yuede Ji</u>, and Dong Guo.<br/>[NPC'13], IFIP International Conference on Network and Parallel Computing, 2013
-
-* Graph AI for Cybersecurity [[PPT]](../files/GraphAI.pptx)
