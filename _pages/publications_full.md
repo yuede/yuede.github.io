@@ -19,6 +19,7 @@ Acceptance rate: 42/141 = 29.8%
 * NestedGNN: Detecting Malicious Network Activity with Nested Graph Neural Networks. [[PDF]](.)<br/>
 <u>Yuede Ji</u> and H. Howie Huang<br/><strong>[IEEE ICC'22]</strong>, IEEE International Conference on Communications, 2022<br/>
 
+
 ### 2021
 * DEFInit: An Analysis of Exposed Android Init Routines. [[PDF]](../files/21_Security_DEFInit.pdf)[[PPT]](../files/21_Security_DEFInit_slides.pdf)<br/>
 <u>Yuede Ji</u>, Mohamed Elsabagh, Ryan Johnson, and Angelos Stavrou<br/><strong>[USENIX Security'21]</strong>, the 30th USENIX Security Symposium<br/>
@@ -78,3 +79,5 @@ Yukun He, Qiang Li, Jian Cao, <u>Yuede Ji</u>, and Dong Guo,<br/>
 * BotCatch: A Behavior and Signature Correlated Bot Detection Approach. [[PDF]](../files/13_HPCC_BotCatch.pdf) [[PPT]](../files/13_HPCC_BotCatch_slides.pptx)<br/><u>Yuede Ji</u>, Yukun He, Qiang Li, and Dong Guo.<br/>[HPCC'13], IEEE International Conference on High Performance Computing and Communications, 2013.
 
 * BotInfer: A Bot Inference Approach by Correlating Host and Network Information. [[PDF]](../files/13_NPC_BotInfer.pdf)<br/>Yukun He, Qiang Li, <u>Yuede Ji</u>, and Dong Guo.<br/>[NPC'13], IFIP International Conference on Network and Parallel Computing, 2013
+
+* Graph AI for Cybersecurity [[PPT]](../files/GraphAI.pptx)
