@@ -22,7 +22,7 @@ News
 
 [Oct. 2022] : Congrats to Wang for being selected as a volunteer for SC 2022!
 
-[Sep. 2022] : Our project on using TVM for sparse deep neural network is accepted as a poster for SC 2022. Congrats to Lillan and Avik!
+[Sep. 2022] : Our project on using TVM for sparse deep neural network is accepted as a poster for SC 2022. Congrats to Lillian and Avik!
 
 [May 2022] : The extended version of iSpan on GPU is accepted to ACM TOPC.
 
