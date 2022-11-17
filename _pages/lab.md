@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Lab"
+title: "Graph Lab"
 permalink: /lab/
 author_profile: true
 ---
 
-<strong>Graph-Centric Security, Learning, and Computing</strong> (<strong>Graph Lab</strong>)
+<strong>Graph-Centric Security, Learning, and Computing</strong>
 
 * **PhD Students**
     * Wang Feng (BS, Sichuan University)
