@@ -5,7 +5,7 @@ permalink: /lab/
 author_profile: true
 ---
 
-I am very fortunate to work with the following talented students.
+<strong>Graph-Centric Security, Learning, and Computing</strong> (<strong>Graph Lab</strong>)
 
 * **PhD Students**
     * Wang Feng (BS, Sichuan University)
@@ -22,7 +22,6 @@ I am very fortunate to work with the following talented students.
     * Chotepong Victor Tangton, UNT TAMS
     * Donavon Zhang, UNT TAMS
     * Sua Cho, UNT TAMS
-
 
 
 <!---* Siying Li, Master intern from New York University (BS, Nankai University)
