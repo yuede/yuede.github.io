@@ -23,10 +23,13 @@ I am looking for multiple self-motivated Ph.D. students (fully funded) to work w
 
 News
 ======
+[Nov. 2022] : Invited to serve as PC for [HPDC 2023][https://www.hpdc.org/2023/].
 
 [Oct. 2022] : Congrats to Wang for being selected as a volunteer for SC 2022!
 
 [Sep. 2022] : Our project on using TVM for sparse deep neural network is accepted as a poster for SC 2022. Congrats to Lillian and Avik!
+
+[Aug. 2022] : Invited to serve as reviewer for the inaugural [Learning on Graphs Conference (LoG)][https://logconference.com/] 2022.
 
 [May 2022] : The extended version of iSpan on GPU is accepted to ACM TOPC.
 
