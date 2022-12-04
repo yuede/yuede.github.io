@@ -32,7 +32,7 @@ News
 
 [Sep. 2022] : Our project on using TVM for sparse deep neural network is accepted as a poster for SC 2022. Congrats to Lillian and Avik!
 
-[Aug. 2022] : Invited to serve as reviewer for the inaugural [Learning on Graphs Conference (LoG)](https://logconference.com/) 2022.
+[Aug. 2022] : Invited to serve as reviewer for the inaugural [Learning on Graphs Conference (LoG)](https://logconference.org/) 2022.
 
 [May 2022] : The extended version of iSpan on GPU is accepted to ACM TOPC.
 
