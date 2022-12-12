@@ -6,11 +6,15 @@ author_profile: true
 ---
 
 * **Program Committee**
+    * ACM HPDC, 2023
+    * SC Doctoral Showcase Poster Track, 2023
+    * Learning on Graphs Conference (LoG), 2022
     * IEEE Security and Privacy, 2019 (Student PC)
     * IEEE Security and Privacy, 2018 (Student PC)
     * EuroSys, 2018 (Shadow PC)
 
 * **Journal Reviewer**
+    * IEEE Transactions on Parallel and Distributed Systems
     * ACM Transactions on Parallel Computing
     * IEEE Transactions on Cloud Computing
     * Computer Networks

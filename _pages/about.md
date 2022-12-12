@@ -24,6 +24,8 @@ I am looking for multiple self-motivated Ph.D. students (fully funded) to work w
 News
 ======
 
+[Dec. 2022] : Invited to serve as PC for the Doctoral Showcase Poster Track at SC 2023.
+
 [Nov. 2022] : Invited to serve as PC for [HPDC 2023](https://www.hpdc.org/2023/).
 
 [Nov. 2022] : Welcome Qianjun Wei to join our group as a visiting Ph.D. student.
