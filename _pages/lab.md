@@ -10,7 +10,7 @@ author_profile: true
 * **PhD Students**
     * Wang Feng (BS, Sichuan University)
     * Krishna Sai Ujwal (BS, National Institute of Technology, Durgapur)
-    * Qianjun Wei (visiting Ph.D. student from Jilin University)
+    * Qianjun Wei (visiting Ph.D. student)
 
 * **Master Students**
     * Boxiang Guo, San José State University (BS, Iowa State University)
