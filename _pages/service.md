@@ -8,6 +8,7 @@ author_profile: true
 * **Program Committee**
     * ACM HPDC, 2023
     * SC Doctoral Showcase Poster Track, 2023
+    * Workshop on High Performance Computational Biology (HiCOMB), 2023
     * Learning on Graphs Conference (LoG), 2022
     * IEEE Security and Privacy, 2019 (Student PC)
     * IEEE Security and Privacy, 2018 (Student PC)

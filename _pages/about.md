@@ -24,6 +24,8 @@ I am looking for multiple self-motivated Ph.D. students (fully funded) to work w
 News
 ======
 
+[Jan. 2023] : Invited to serve as PC for the Workshop on [High Performance Computational Biology (HiCOMB)](http://hicomb.org/) in conjunction with IPDPS 2023.
+
 [Dec. 2022] : Invited to serve as PC for the Doctoral Showcase Poster Track at SC 2023.
 
 [Nov. 2022] : Invited to serve as PC for [HPDC 2023](https://www.hpdc.org/2023/).
@@ -35,6 +37,8 @@ News
 [Sep. 2022] : Our project on using TVM for sparse deep neural network is accepted as a poster for SC 2022. Congrats to Lillian and Avik!
 
 [Aug. 2022] : Invited to serve as reviewer for the inaugural [Learning on Graphs Conference (LoG)](https://logconference.org/) 2022.
+
+[June 2022] : Our paper on computing Graph Neural Networks (GNNs) on GPUs is accepted to HPDC'22. Congrats to Qiang!
 
 [May 2022] : The extended version of iSpan on GPU is accepted to ACM TOPC.
 
