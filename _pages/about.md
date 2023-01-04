@@ -26,7 +26,7 @@ News
 
 [Jan. 2023] : Invited to serve as PC for the Workshop on [High Performance Computational Biology (HiCOMB)](http://hicomb.org/) in conjunction with IPDPS 2023.
 
-[Dec. 2022] : Invited to serve as PC for the Doctoral Showcase Poster Track at SC 2023.
+[Dec. 2022] : Invited to serve as PC for the Doctoral Showcase Poster Track at [SC 2023](https://sc23.supercomputing.org/).
 
 [Nov. 2022] : Invited to serve as PC for [HPDC 2023](https://www.hpdc.org/2023/).
 

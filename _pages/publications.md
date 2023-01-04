@@ -11,6 +11,7 @@ author_profile: true
 ### 2022
 
 * TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on GPU[[PDF]](../files/22_hpdc_TLPGNN.pdf)<br/>Qiang Fu, <u>Yuede Ji</u>, and H. Howie Huang,<br/><strong>[HPDC'22]</strong>, ACM International Symposium on High-Performance Parallel and Distributed Computing<br/>
+Acceptance rate: 21/108 = 19%
 
 * iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](.)<br/><u>Yuede Ji</u>, Hang Liu, Yang Hu, and H. Howie Huang,<br/><strong>[ACM TOPC]</strong>, ACM Transactions on Parallel Computing<br/>
 
