@@ -24,6 +24,8 @@ I am looking for multiple self-motivated Ph.D. students (fully funded) to work w
 News
 ======
 
+[Feb. 2023] : Invited to serve as PC for the [Information Security Conference (ISC 2023)](https://isc23.cs.rug.nl/).
+
 [Jan. 2023] : Invited to serve as PC for the Workshop on [High Performance Computational Biology (HiCOMB)](http://hicomb.org/) in conjunction with IPDPS 2023.
 
 [Dec. 2022] : Invited to serve as PC for the Doctoral Showcase Poster Track at [SC 2023](https://sc23.supercomputing.org/).
