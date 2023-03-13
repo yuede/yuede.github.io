@@ -11,15 +11,15 @@ redirect_from:
 Yuede Ji is an Assistant Professor from the [Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu/) at the [University of North Texas](https://www.unt.edu/).
 He directs the <strong>Graph Lab</strong>, which focuses on <strong>graph-centric security, learning, and computing</strong>.
 
-The <strong>Graph Lab</strong> at UNT aims to build efficient systems to protect the emerging data and computing devices from various layers, such as vulnerability detection, malware detection, and network threat detection.
+The <strong>Graph Lab</strong> at UNT aims to build efficient systems to protect emerging data and computing devices from various layers, such as vulnerability detection, malware detection, and network threat detection.
 Furthermore, they aim to build high-performance computing systems with emerging hardware (e.g., GPU) to improve the scalability of cybersecurity techniques.
-The Graph Lab's research works have frequently appeared at prestigious cybersecurity and high-performance computing conferences, including USENIX Security, SC, HPDC, EuroS&P, RAID, and AsiaCCS. His research has won the best paper award at NPC 2014.
+The Graph Lab's research works have frequently appeared at prestigious cybersecurity and high-performance computing conferences, including USENIX Security, SC, HPDC, EuroS&P, RAID, and AsiaCCS. His research won the best paper award at NPC 2014.
 
-Yuede Ji received the Ph.D. degree from the the George Washington University in 2021. He received M.S. and B.E. from Jilin University in 2015 and 2012, respectively. Yuede Ji's curriculum vitae can be found [here](../files/cv_yuede.pdf).
+Yuede Ji received a Ph.D. degree from the George Washington University in 2021. He received M.S. and B.E. from Jilin University in 2015 and 2012, respectively. Yuede Ji's curriculum vitae can be found [here](../files/cv_yuede.pdf).
 
 Openings
 ======
-I am looking for multiple self-motivated Ph.D. students (fully funded) to work with our Graph Lab on various cool projects in cybersecurity, high-performance computing, and graph analytics. If you are interested, please drop me an email with your CV.
+<strong>Dr. Ji is always looking for self-motivated Ph.D. students (fully funded) to work with Graph Lab on various cool projects in cybersecurity, high-performance computing, and graph AI. If you are interested, please drop me an email with your CV. According to CS ranking, UNT is ranked 61st among all the US universities in the area of high-performance computing.</strong>
 
 News
 ======
