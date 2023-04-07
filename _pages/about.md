@@ -26,9 +26,6 @@ News
 
 [Apr. 2023] : Our project on malware detection with graph AI technique is accepted to [ISSTA'23](https://conf.researchr.org/home/issta-2023). Congrats to Jiancong!
 
-API2vec: Learning Representations of API Sequences for Malware
-Detection
-
 [Feb. 2023] : Invited to serve as PC for the [Information Security Conference (ISC 2023)](https://isc23.cs.rug.nl/).
 
 [Jan. 2023] : Invited to serve as PC for the Workshop on [High Performance Computational Biology (HiCOMB)](http://hicomb.org/) in conjunction with IPDPS 2023.
