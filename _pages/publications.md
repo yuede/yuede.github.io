@@ -8,12 +8,18 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-The students advised by me and myself are marked with __.
+The students advised by me are marked with &ast;.
+
+### 2022
+
+* API2vec: Learning Representations of API Sequences for Malware Detection<br/>
+Lei Cui, Jiancong Cui, <u>Yuede Ji</u>, Zhiyu Hao, Lun Li, Zhenquan Ding<br/>
+<strong>[ISSTA'23]</strong>, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)<br/>
 
 ### 2022
 
 * Efficient Sparse Deep Neural Network Computation on GPU with TVM (Poster)<br/>
-<u>Lillian Wang</u>, <u>Avik Malladi</u>, and <u>Yuede Ji</u><br/>
+Lillian Wang&ast;, Avik Malladi&ast;, and <u>Yuede Ji</u><br/>
 <strong>[SC'22]</strong>, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)<br/>
 
 * TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on GPU[[PDF]](../files/22_hpdc_TLPGNN.pdf)[[Code]](https://github.com/binfoo1993/TLPGNN)<br/>Qiang Fu, <u>Yuede Ji</u>, and H. Howie Huang,<br/><strong>[HPDC'22]</strong>, ACM International Symposium on High-Performance Parallel and Distributed Computing<br/>

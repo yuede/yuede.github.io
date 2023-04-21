@@ -24,7 +24,7 @@ Dr. Ji is always looking for self-motivated Ph.D. students (fully funded) to wor
 News
 ======
 
-[Apr. 2023] : Our project on malware detection with graph AI technique is accepted to [ISSTA'23](https://conf.researchr.org/home/issta-2023). Congrats to Jiancong!
+[Apr. 2023] : Our paper on malware detection with graph AI technique is accepted to [ISSTA'23](https://conf.researchr.org/home/issta-2023). Congrats to Jiancong!
 
 [Feb. 2023] : Invited to serve as PC for the [Information Security Conference (ISC 2023)](https://isc23.cs.rug.nl/).
 
