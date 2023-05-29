@@ -21,11 +21,12 @@ author_profile: true
     * Chotepong Victor Tangton, UNT TAMS
     * Donavon Zhang, UNT TAMS
     * Sua Cho, UNT TAMS
+    * Neha Nayak, UNT TAMS
 
 
 * **Alumni**
-    * Lillian Wang --> MIT (Undergraduate)
-    * Avik Malladi --> UT Austin (Undergraduate)
+    * Lillian Wang -- MIT (Undergraduate)
+    * Avik Malladi -- UT Austin (Undergraduate)
 
 
 <!---* Siying Li, Master intern from New York University (BS, Nankai University)
