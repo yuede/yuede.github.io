@@ -9,20 +9,22 @@ author_profile: true
 
 * **PhD Students**
     * Wang Feng (BS, Sichuan University)
-    * Krishna Sai Ujwal (BS, National Institute of Technology, Durgapur)
     * Qianjun Wei (visiting Ph.D. student)
 
 * **Master Students**
+    * Joseph Caldwell, UNT
+    * Yasmeen Haleem, UNT
     * Boxiang Guo, San José State University (BS, Iowa State University)
 
 * **Undergraduate and High School**
-    * Krishna Tiwadi, UNT
-    * Vedansh Tembhre, UNT
-    * Avik Malladi, UNT TAMS
-    * Lillian Wang, UNT TAMS
     * Chotepong Victor Tangton, UNT TAMS
     * Donavon Zhang, UNT TAMS
     * Sua Cho, UNT TAMS
+
+
+* **Alumni**
+    * Lillian Wang --> MIT (Undergraduate)
+    * Avik Malladi --> UT Austin (Undergraduate)
 
 
 <!---* Siying Li, Master intern from New York University (BS, Nankai University)

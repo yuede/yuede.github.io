@@ -24,13 +24,11 @@ Dr. Ji is always looking for self-motivated Ph.D. students (fully funded) to wor
 News
 ======
 
+[May. 2023] : Congrats to Lillian and Avik (TAMS students) for starting their undergraduate studies at MIT and UT Austin, respectively! Best wishes!
+
 [Apr. 2023] : Our paper on malware detection with graph AI technique is accepted to [ISSTA'23](https://conf.researchr.org/home/issta-2023). Congrats to Jiancong!
 
-[Feb. 2023] : Invited to serve as PC for the [Information Security Conference (ISC 2023)](https://isc23.cs.rug.nl/).
-
-[Dec. 2022] : Invited to serve as PC for the Doctoral Showcase Poster Track at [SC 2023](https://sc23.supercomputing.org/).
-
-[Nov. 2022] : Invited to serve as PC for [HPDC 2023](https://www.hpdc.org/2023/).
+[Feb. 2023] : Serve as PC for [HPDC 2023](https://www.hpdc.org/2023/), [Information Security Conference (ISC 2023)](https://isc23.cs.rug.nl/), and Doctoral Showcase Poster at [SC 2023](https://sc23.supercomputing.org/).
 
 [Nov. 2022] : Welcome Qianjun Wei to join our group as a visiting Ph.D. student.
 
