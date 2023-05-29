@@ -10,6 +10,7 @@ author_profile: true
 * **PhD Students**
     * Wang Feng (BS, Sichuan University)
     * Qianjun Wei (visiting Ph.D. student)
+    * Mimi Byun, Information Science
 
 * **Master Students**
     * Joseph Caldwell, UNT
