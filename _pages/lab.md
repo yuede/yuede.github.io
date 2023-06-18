@@ -25,8 +25,8 @@ author_profile: true
 
 
 * **Alumni**
-    * Lillian Wang --&rarr; MIT (Undergraduate)
-    * Avik Malladi --&rarr; UT Austin (Undergraduate)
+    * Lillian Wang &rarr; MIT (Undergraduate)
+    * Avik Malladi &rarr; UT Austin (Undergraduate)
 
 
 <!---* Siying Li, Master intern from New York University (BS, Nankai University)
