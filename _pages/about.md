@@ -19,18 +19,24 @@ Yuede Ji received a Ph.D. degree from the George Washington University in 2021. 
 
 Openings
 ======
-Dr. Ji is always looking for self-motivated Ph.D. students (fully funded) to work on various cool projects in cybersecurity, high-performance computing, and graph AI. If you are interested, please drop me an email with your CV. <strong>According to CS ranking, UNT is ranked 61st among all the US universities in the area of high-performance computing.</strong>
+Dr. Ji is looking for 2-3 fully funded self-motivated Ph.D. students to work on various cool projects in cybersecurity, high-performance computing, and graph AI. If you are interested, please drop me an email with your CV. <strong>According to CS ranking, UNT is ranked 59th among all the US universities in the area of high-performance computing (as of Jun. 2023).</strong>
 
 News
 ======
 
+[Jun. 2023] : Dr. Ji started working as a summer visiting faculty at the Oak Ridge National Laboratory! Tennessee is astonishingly beautiful!
+
+[Jun. 2023] : Our lab's Ph.D. student Wang Feng's first paper is accepted to [SC'23](https://sc23.supercomputing.org/)! Congrats to Wang and our collaborators! See you all at Denver!
+
+[Jun. 2023] : Our Tango paper is accepted to [SC'23](https://sc23.supercomputing.org/)! Congrats to Shiyang and our collaborators!
+
 [May. 2023] : Congrats to Lillian and Avik (TAMS students) for starting their undergraduate studies at MIT and UT Austin, respectively! Best wishes!
 
-[Apr. 2023] : Our paper on malware detection with graph AI technique is accepted to [ISSTA'23](https://conf.researchr.org/home/issta-2023). Congrats to Jiancong!
+[Apr. 2023] : Our paper on malware detection with graph AI technique is accepted to [ISSTA'23](https://conf.researchr.org/home/issta-2023). Congrats to Jiancong and our collaborators!
 
 [Feb. 2023] : Serve as PC for [HPDC 2023](https://www.hpdc.org/2023/), [Information Security Conference (ISC 2023)](https://isc23.cs.rug.nl/), and Doctoral Showcase Poster at [SC 2023](https://sc23.supercomputing.org/).
 
-[Nov. 2022] : Welcome Qianjun Wei to join our group as a visiting Ph.D. student.
+[Nov. 2022] : Welcome Qianjun Wei to join our lab as a visiting Ph.D. student.
 
 [Oct. 2022] : Congrats to Wang for being selected as a volunteer for SC 2022!
 
@@ -38,13 +44,13 @@ News
 
 [Aug. 2022] : Invited to serve as reviewer for the inaugural [Learning on Graphs Conference (LoG)](https://logconference.org/) 2022.
 
-[June 2022] : Our paper on computing Graph Neural Networks (GNNs) on GPUs is accepted to HPDC'22. Congrats to Qiang!
+[June 2022] : Our paper on computing Graph Neural Networks (GNNs) on GPUs is accepted to HPDC'22. Congrats to Qiang and our collaborators!
 
 [May 2022] : The extended version of iSpan on GPU is accepted to ACM TOPC.
 
 [Feb. 2022] : Our paper on explaining GNN-based code analysis, Illuminati, is accepted to EuroS&P'22.
 
-[Jan. 2022] : Welcome Wang Feng to join our group as Ph.D. students.
+[Jan. 2022] : Welcome Wang Feng to join our lab as a Ph.D. student.
 
 [Jan. 2022] : Our Nested Graph Neural Network (NestedGNN) paper is accepted to IEEE ICC'22.
 
