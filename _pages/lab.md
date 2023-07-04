@@ -28,6 +28,10 @@ author_profile: true
     * Lillian Wang &rarr; MIT (Undergraduate)
     * Avik Malladi &rarr; UT Austin (Undergraduate)
 
+<img src="../images/lab-pic-06-21-2023.jpeg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 
 <!---* Siying Li, Master intern from New York University (BS, Nankai University)
 * You?
