@@ -25,7 +25,7 @@ What makes cyber attack a relentless challenging problem is its continuing and e
 
 This project aims to detect various types of cyber threats, including APT, botnet, malicious URL, and malware in general.
 
-<span style="color:blue">Publications</span>: [API2Vec [ISSTA'23]](.), [NestedGNN [ICC'22]](.), [APT detection [RAID'20]](../files/20_RAID_lateral_movement.pdf); [Malware Detection [ICCC'19]](../files/19_ICCC_malware_adversary.pdf); [Botnet Detection [ICPADS'14]](../files/14_ICPADS_social_botnet.pdf), [[ISPEC'14]](../files/14_ISPEC_multiprocess_botnet.pdf); [Malicious URL Detection [NPC'14]](../files/14_NPC_malicious_url.pdf)
+<span style="color:blue">Publications</span>: [API2Vec [ISSTA'23]](.), [NestedGNN [ICC'22]](.), [APT detection [RAID'20]](../files/20_RAID_lateral_movement.pdf); [Malware Detection [ICCC'19]](../files/19_ICCC_malware_adversary.pdf);
 
 ---------------------------------
 
@@ -36,4 +36,4 @@ Graph is an important data representation used in many applications, such as con
 
 This project aims to design scalable graph analytics techniques and systems to both speed up the computation and scale up the accommodated graph size and count. A recent focus is on <strong> graph neural network (GNN)</strong> as it is being widely applied and requires more computation resources.
 
-<span style="color:blue">Publications</span>: [PeeK [SC'23]](.), [Tango [SC'23](.), [TLPGNN [HPDC'22]](../files/22_hpdc_TLPGNN.pdf), [Aquila [HPDC'20]](../files/20_HPDC_Aquila.pdf), [iSpan [SC'18]](../files/18_SC_iSpan.pdf)
+<span style="color:blue">Publications</span>: [PeeK [SC'23]](.), [Tango [SC'23]](.), [TLPGNN [HPDC'22]](../files/22_hpdc_TLPGNN.pdf), [Aquila [HPDC'20]](../files/20_HPDC_Aquila.pdf), [iSpan [SC'18]](../files/18_SC_iSpan.pdf)
