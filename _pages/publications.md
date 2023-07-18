@@ -12,7 +12,7 @@ The students advised by me are marked with \*.
 
 ### 2023
 
-* API2vec: Learning Representations of API Sequences for Malware Detection[[PDF]](../files/23_ISSTA_API2Vec.pdf)<br/>
+* API2vec: Learning Representations of API Sequences for Malware Detection. [[PDF]](../files/23_ISSTA_API2Vec.pdf)[[Code]](https://github.com/Coming98/API2Vec)<br/>
 Lei Cui, Jiancong Cui, <u>Yuede Ji</u>, Zhiyu Hao, Lun Li, Zhenquan Ding<br/>
 <strong>[ISSTA'23]</strong>, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)<br/>
 
@@ -22,7 +22,7 @@ Lei Cui, Jiancong Cui, <u>Yuede Ji</u>, Zhiyu Hao, Lun Li, Zhenquan Ding<br/>
 Lillian Wang\*, Avik Malladi\*, and <u>Yuede Ji</u><br/>
 <strong>[SC'22]</strong>, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)<br/>
 
-* TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on GPU[[PDF]](../files/22_hpdc_TLPGNN.pdf)[[Code]](https://github.com/binfoo1993/TLPGNN)<br/>Qiang Fu, <u>Yuede Ji</u>, and H. Howie Huang,<br/><strong>[HPDC'22]</strong>, ACM International Symposium on High-Performance Parallel and Distributed Computing<br/>
+* TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on GPU. [[PDF]](../files/22_hpdc_TLPGNN.pdf)[[Code]](https://github.com/binfoo1993/TLPGNN)<br/>Qiang Fu, <u>Yuede Ji</u>, and H. Howie Huang,<br/><strong>[HPDC'22]</strong>, ACM International Symposium on High-Performance Parallel and Distributed Computing<br/>
 Acceptance rate: 21/108 = 19%
 
 * iSpan: Parallel Identification of Strongly Connected Components with Spanning Trees. [[PDF]](.)<br/><u>Yuede Ji</u>, Hang Liu, Yang Hu, and H. Howie Huang,<br/><strong>[ACM TOPC]</strong>, ACM Transactions on Parallel Computing<br/>
