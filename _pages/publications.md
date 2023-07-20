@@ -13,7 +13,7 @@ The students advised by me are marked with \*.
 ### 2023
 
 * API2vec: Learning Representations of API Sequences for Malware Detection. [[PDF]](../files/23_ISSTA_API2Vec.pdf)[[Code]](https://github.com/Coming98/API2Vec)<br/>
-Lei Cui\+, Jiancong Cui\+, <u>Yuede Ji</u>, Zhiyu Hao, Lun Li, Zhenquan Ding (\+ are co-first authors).<br/>
+Lei Cui$^+$, Jiancong Cui$^+$, <u>Yuede Ji</u>, Zhiyu Hao, Lun Li, Zhenquan Ding ($^+$ equal contributions).<br/>
 <strong>[ISSTA'23]</strong>, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)<br/>
 
 ### 2022

@@ -24,7 +24,7 @@ Dr. Ji is looking for 2-3 fully funded self-motivated Ph.D. students to work on 
 News
 ======
 
-[Jul. 2023] : Our project on [container security in HPC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319975&HistoricalAwards=false) is funded by NSF CICI program (PI, Co-PI: Dr. Xing Gao from University of Delware). Thanks NSF!
+[Jul. 2023] : Our project on [container security in HPC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319975&HistoricalAwards=false) is funded by NSF CICI program (PI, Co-PI: Dr. Xing Gao from the University of Delaware). Thanks NSF!
 
 [Jun. 2023] : Dr. Ji started working as a summer visiting faculty at the Oak Ridge National Laboratory! Tennessee is astonishingly beautiful!
 
