@@ -17,6 +17,8 @@ So far, we have identified over 200 vulnerabilities from both mobile and IoT fir
 
 <span style="color:blue">Publications</span>: [Illuminati [EuroS&P'22]](../files/22_EuroSP_Illuminati.pdf), [DEFInit [USENIX Security'21]](https://www.usenix.org/conference/usenixsecurity21/presentation/ji), [BugGraph [AsiaCCS'21]](../files/21_AsiaCCS_BugGraph.pdf), [Vestige [ACNS'21]](../files/21_ACNS_Vestige.pdf)
 
+<span style="color:blue">Fundings</span>: [NSF OAC 2319975](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319975&HistoricalAwards=false)
+
 ---------------------------------
 
 Cyber Threat Detection
