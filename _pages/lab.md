@@ -9,8 +9,8 @@ author_profile: true
 
 * **PhD Students**
     * Wang Feng (BS, Sichuan University)
+    * Haiyan Sun (BS, Sichuan University)
     * Qianjun Wei (visiting Ph.D. student)
-    * Mimi Byun, Information Science
 
 * **Master Students**
     * Joseph Caldwell, UNT
@@ -18,6 +18,7 @@ author_profile: true
     * Boxiang Guo, San José State University (BS, Iowa State University)
 
 * **Undergraduate and High School**
+    * Isabelle Wagenvoord, Colorado College 
     * Chotepong Victor Tangton, UNT TAMS
     * Donavon Zhang, UNT TAMS
     * Sua Cho, UNT TAMS
