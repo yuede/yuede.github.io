@@ -39,3 +39,9 @@ Graph is an important data representation used in many applications, such as con
 This project aims to design scalable graph analytics techniques and systems to both speed up the computation and scale up the accommodated graph size and count. A recent focus is on <strong> graph neural network (GNN)</strong> as it is being widely applied and requires more computation resources.
 
 <span style="color:blue">Publications</span>: [PeeK [SC'23]](.), [Tango [SC'23]](.), [TLPGNN [HPDC'22]](../files/22_hpdc_TLPGNN.pdf), [Aquila [HPDC'20]](../files/20_HPDC_Aquila.pdf), [iSpan [SC'18]](../files/18_SC_iSpan.pdf)
+
+
+<img src="../images/NSF_logo.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 2px;" />
+
