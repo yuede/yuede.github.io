@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: archive
 title: "Yuede Ji"
 excerpt: "About me"
 author_profile: true
