@@ -43,5 +43,5 @@ This project aims to design scalable graph analytics techniques and systems to b
 
 <img src="../images/NSF_logo.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 2px;" />
+     style="float: left; margin-right: 0.1px;" />
 
