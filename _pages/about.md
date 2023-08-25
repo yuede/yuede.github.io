@@ -24,7 +24,7 @@ Dr. Ji is looking for 2-3 fully funded self-motivated Ph.D. students to work on 
 
 News
 ======
-[Aug. 2023] : Our proposal on [Graph Neural Network Computation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331301&HistoricalAwards=false) is funded by NSF SHF (total: $600k, my role: lead PI). Thanks NSF!
+[Aug. 2023] : Our proposal on [Efficient Graph Neural Network](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331301&HistoricalAwards=false) is funded by NSF SHF (total: $600k, my role: lead PI). Thanks NSF!
 
 [Aug. 2023] : Welcome Haiyan Sun to join our lab as a Ph.D. student.
 
