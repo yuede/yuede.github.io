@@ -24,6 +24,7 @@ Dr. Ji is looking for 2-3 fully funded self-motivated Ph.D. students to work on 
 
 News
 ======
+[Aug. 2023] : Our proposal on [Graph Neural Network Computation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331301&HistoricalAwards=false) is funded by NSF SHF (total: $600k, my role: lead PI). Thanks NSF!
 
 [Aug. 2023] : Welcome Haiyan Sun to join our lab as a Ph.D. student.
 
@@ -33,9 +34,7 @@ News
 
 [Aug. 2023] : Dr. Ji is invited to join the Editoral Board of [IEEE Open Journal of the Communications Society (OJ-COMS)](https://www.comsoc.org/publications/journals/ieee-ojcoms).
 
-[Jul. 2023] : Our project on [container security in HPC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319975&HistoricalAwards=false) is funded by NSF CICI program (PI, Co-PI: Dr. Xing Gao from the University of Delaware). Thanks NSF!
-
-[Jul. 2023] : Dr. Ji is invited to serve as reviewer for the [Learning on Graphs Conference (LoG)](https://logconference.org/) 2023.
+[Jul. 2023] : Our proposal on [Container Security in HPC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319975&HistoricalAwards=false) is funded by NSF CICI program (total: $600k, my role: PI). Thanks NSF!
 
 [Jun. 2023] : Dr. Ji started working as a summer visiting faculty at the Oak Ridge National Laboratory supported by DOE's VFP program! Thanks DOE! Tennessee is astonishingly beautiful!
 
@@ -47,7 +46,7 @@ News
 
 [Apr. 2023] : Our paper on malware detection with graph AI technique is accepted to [ISSTA'23](https://conf.researchr.org/home/issta-2023). Congrats to Jiancong and our collaborators!
 
-[Feb. 2023] : Dr. Ji serves as PC for [HPDC 2023](https://www.hpdc.org/2023/), [Information Security Conference (ISC 2023)](https://isc23.cs.rug.nl/), and Doctoral Showcase Poster at [SC 2023](https://sc23.supercomputing.org/).
+[Feb. 2023] : Dr. Ji serves as PC for [HPDC 2023](https://www.hpdc.org/2023/), [Information Security Conference (ISC 2023)](https://isc23.cs.rug.nl/), Doctoral Showcase Poster at [SC 2023](https://sc23.supercomputing.org/), [Learning on Graphs Conference (LoG)](https://logconference.org/) 2023, and [Machine Learning with Graphs in HPC Environments (MLG-HPCE) 2023](https://ornl.github.io/MLHPC).
 
 [Nov. 2022] : Welcome Qianjun Wei to join our lab as a visiting Ph.D. student.
 
