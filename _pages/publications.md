@@ -11,10 +11,25 @@ author_profile: true
 The students advised by me are marked with \*.
 
 ### 2023
+* PeeK: A Prune-Centric Approach for K Shortest Path Computation.<br/>
+Wang Feng\*, Shiyang Chen, Hang Liu, and <u>Yuede Ji</u><br/>
+<strong>[SC'23]</strong>, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)<br/>
+
+* Tango: Re-Thinking Quantization for Graph Neural Network Training on GPUs
+Shiyang Chen, Da Zheng, Caiwen Ding, Chengying Huan, <u>Yuede Ji</u>, and Hang Liu<br/>
+<strong>[SC'23]</strong>, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)<br/>
 
 * API2vec: Learning Representations of API Sequences for Malware Detection. [[PDF]](../files/23_ISSTA_API2Vec.pdf)[[Code]](https://github.com/Coming98/API2Vec)<br/>
 Lei Cui$^+$, Jiancong Cui$^+$, <u>Yuede Ji</u>, Zhiyu Hao, Lun Li, Zhenquan Ding ($^+$ equal contributions).<br/>
 <strong>[ISSTA'23]</strong>, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)<br/>
+
+* Exploring Power and Thermal Dynamics in the Summit Supercomputer: A Data Visualization Study.<br/>
+Joseph Caldwell\*, Wang Feng\*, Mimi Byun, Mark Albert, Tong Shu, and <u>Yuede Ji</u><br/>
+[SMCDC'23] 7th Annual Smoky Mountains Computational Sciences Data Challenge<br/>
+
+* Understanding Nationwide Power Outage and Restoration for Future Prediction.<br/>
+Yasmeen Haleem\*, Isabelle Wagenvoord\*, Qianjun Wei\*, Ting Xiao, Tong Shu, and <u>Yuede Ji</u><br/>
+[SMCDC'23] 7th Annual Smoky Mountains Computational Sciences Data Challenge<br/>
 
 ### 2022
 
