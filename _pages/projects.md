@@ -53,7 +53,7 @@ This project aims to design scalable graph analytics techniques and systems to b
      />
 <img src="../images/Google-logo.png"
      alt="Markdown Monster icon"
-     width="250"
+     width="270"
      />
 <img src="../images/unt_logo.png"
      alt="Markdown Monster icon"
