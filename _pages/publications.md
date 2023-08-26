@@ -15,7 +15,7 @@ The students advised by me are marked with \*.
 Wang Feng\*, Shiyang Chen, Hang Liu, and <u>Yuede Ji</u><br/>
 <strong>[SC'23]</strong>, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)<br/>
 
-* Tango: Re-Thinking Quantization for Graph Neural Network Training on GPUs
+* Tango: Re-Thinking Quantization for Graph Neural Network Training on GPUs.<br/>
 Shiyang Chen, Da Zheng, Caiwen Ding, Chengying Huan, <u>Yuede Ji</u>, and Hang Liu<br/>
 <strong>[SC'23]</strong>, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)<br/>
 
