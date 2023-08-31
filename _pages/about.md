@@ -24,19 +24,19 @@ Dr. Ji is looking for 2-3 fully funded self-motivated Ph.D. students to work on 
 
 News
 ======
-[Aug. 2023] : Our proposal on [Efficient Graph Neural Network](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331301&HistoricalAwards=false) is funded by NSF SHF (total: $600k, my role: lead PI). Thanks NSF!
+[Aug. 2023] : Our proposal on [Efficient Graph Neural Network](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331301&HistoricalAwards=false) is funded by <strong>NSF SHF</strong> (total: $600k, my role: lead PI). Thanks NSF!
 
-[Aug. 2023] : Welcome Haiyan Sun to join our lab as a Ph.D. student.
+[Aug. 2023] : Our challenge paper on understanding nationwide power outage and restoration is accepted to the [SMC Data Challenge 2023](https://smc-datachallenge.ornl.gov/). Congrats to Yasmeen, Isabelle, and our collaborators! We won the <span style="color:red"><strong>Best Poster Award</strong><span style="color:red">!
 
 [Aug. 2023] : Our challenge paper on visualizing HPC power and thermal dynamics is accepted to the [SMC Data Challenge 2023](https://smc-datachallenge.ornl.gov/). Congrats to Joe and our collaborators!
 
-[Aug. 2023] : Our challenge paper on understanding nationwide power outage and restoration is accepted to the [SMC Data Challenge 2023](https://smc-datachallenge.ornl.gov/). Congrats to Yasmeen, Isabelle, and our collaborators!
-
 [Aug. 2023] : Dr. Ji is invited to join the Editoral Board of [IEEE Open Journal of the Communications Society (OJ-COMS)](https://www.comsoc.org/publications/journals/ieee-ojcoms).
 
-[Jul. 2023] : Our proposal on [Container Security in HPC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319975&HistoricalAwards=false) is funded by NSF CICI program (total: $600k, my role: PI). Thanks NSF!
+[Aug. 2023] : Welcome Haiyan Sun to join our lab as a Ph.D. student.
 
-[Jun. 2023] : Dr. Ji started working as a summer visiting faculty at the Oak Ridge National Laboratory supported by DOE's VFP program! Thanks DOE! Tennessee is astonishingly beautiful!
+[Jul. 2023] : Our proposal on [Container Security in HPC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319975&HistoricalAwards=false) is funded by <strong>NSF CICI program</strong> (total: $600k, my role: PI). Thanks NSF!
+
+[Jun. 2023] : Dr. Ji started working as a summer visiting faculty at the Oak Ridge National Laboratory supported by <strong>DOE VFP program</strong>! Thanks DOE! Tennessee is astonishingly beautiful!
 
 [Jun. 2023] : Our lab's Ph.D. student Wang Feng's first paper is accepted to [SC'23](https://sc23.supercomputing.org/)! Congrats to Wang and our collaborators! See you all at Denver!
 
