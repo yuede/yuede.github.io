@@ -26,7 +26,7 @@ News
 ======
 [Aug. 2023] : Our proposal on [Efficient Graph Neural Network](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331301&HistoricalAwards=false) is funded by <strong>NSF SHF</strong> (total: $600k, my role: lead PI). Thanks NSF!
 
-[Aug. 2023] : Our challenge paper on understanding nationwide power outage and restoration is accepted to the [SMC Data Challenge 2023](https://smc-datachallenge.ornl.gov/). Congrats to Yasmeen, Isabelle, and our collaborators! We won the <span style="color:red"><strong>Best Poster Award</strong><span style="color:red">!
+[Aug. 2023] : Our challenge paper on understanding nationwide power outage and restoration is accepted to the [SMC Data Challenge 2023](https://smc-datachallenge.ornl.gov/). Congrats to Yasmeen, Isabelle, and our collaborators! We won the <strong>Best Poster Award</strong>!
 
 [Aug. 2023] : Our challenge paper on visualizing HPC power and thermal dynamics is accepted to the [SMC Data Challenge 2023](https://smc-datachallenge.ornl.gov/). Congrats to Joe and our collaborators!
 
