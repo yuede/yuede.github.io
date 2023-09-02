@@ -13,7 +13,7 @@ The students advised by me are <u>underlined</u>.
 ### 2024
 * Code is not Natural Language: Unlock the Power of Semantics-Oriented Graph Representation for Binary Code Similarity Detection.<br/>
 Haojie He, Xingwei Lin, Ziang Weng, Ruijie Zhao, Shuitao Gan, Libo Chen, <strong>Yuede Ji</strong>, Jiashui Wang, Zhi Xue<br/>
-<strong>[USENIX Security '24]</strong>, The 33rd USENIX Security Symposium<br/>
+<strong>[USENIX Security \'24]</strong>, The 33rd USENIX Security Symposium<br/>
 
 ### 2023
 * PeeK: A Prune-Centric Approach for K Shortest Path Computation.<br/>
