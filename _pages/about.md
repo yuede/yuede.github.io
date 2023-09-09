@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Yuede Ji is an Assistant Professor from the [Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu/) at the [University of North Texas](https://www.unt.edu/).
+Dr. Yuede Ji is an Assistant Professor from the [Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu/) at the [University of North Texas](https://www.unt.edu/).
 He directs the <strong>Graph Lab</strong>, which focuses on <strong>graph-centric security, learning, and computing</strong>.
 
 The <strong>Graph Lab</strong> at UNT aims to build efficient systems to protect emerging data and computing devices from various layers, such as vulnerability detection, malware detection, and network threat detection.
@@ -69,7 +69,7 @@ News
 [Jan. 2022] : Welcome Wang Feng to join our lab as a Ph.D. student.
 
 
-<details>
+<details open>
   <summary>More</summary>
 
 [Oct. 2021] : My algorithm class (CSCE-5150) received Google Cloud Education Credits. Thanks Google!
