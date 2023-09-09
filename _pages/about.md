@@ -68,10 +68,6 @@ News
 
 [Jan. 2022] : Welcome Wang Feng to join our lab as a Ph.D. student.
 
-
-<details open>
-  <summary>More</summary>
-
 [Oct. 2021] : My algorithm class (CSCE-5150) received Google Cloud Education Credits. Thanks Google!
 
 [Sep. 2021] : Our lab received Google Cloud Research Credits Award. Thanks Google!
@@ -95,6 +91,4 @@ News
 [Mar. 2020] : Our paper on graph connectivity computation framework, Aquila, is accepted to HPDC'20.
 
 [June 2018] : Our paper on strongly connected component detection, iSpan, is accepted to SC'18.
-
-</details>
 
