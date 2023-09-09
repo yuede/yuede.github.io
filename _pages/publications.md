@@ -25,7 +25,7 @@ Shiyang Chen, Da Zheng, Caiwen Ding, Chengying Huan, <strong>Yuede Ji</strong>, 
 <strong>[SC \'23]</strong>, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)<br/>
 
 * API2vec: Learning Representations of API Sequences for Malware Detection. [[PDF]](../files/23_ISSTA_API2Vec.pdf)[[Code]](https://github.com/Coming98/API2Vec)<br/>
-Lei Cui$\*$, Jiancong Cui$\*$, <strong>Yuede Ji</strong>, Zhiyu Hao, Lun Li, Zhenquan Ding ($\*$ equal contributions).<br/>
+Lei Cui<sup>\*</sup>, Jiancong Cui<sup>\*</sup>, <strong>Yuede Ji</strong>, Zhiyu Hao, Lun Li, Zhenquan Ding (<sup>\*</sup> equal contributions).<br/>
 <strong>[ISSTA \'23]</strong>, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)<br/>
 
 * Understanding Nationwide Power Outage and Restoration for Future Prediction.<br/>
