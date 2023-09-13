@@ -48,7 +48,10 @@ News
 
 [Apr. 2023] : Our paper on malware detection with graph AI technique is accepted to [ISSTA \'23](https://conf.researchr.org/home/issta-2023). Congrats to Jiancong and our collaborators!
 
-[Feb. 2023] : Dr. Ji serves as PC for [HPDC \'23](https://www.hpdc.org/2023/), [Information Security Conference (ISC \'23)](https://isc23.cs.rug.nl/), Doctoral Showcase Poster at [SC \'23](https://sc23.supercomputing.org/), [Learning on Graphs Conference (LoG) \'23](https://logconference.org/), and [Machine Learning with Graphs in HPC Environments (MLG-HPCE) \'23](https://ornl.github.io/MLHPC).
+[Feb. 2023] : Dr. Ji is invited to serve as PC for [HPDC \'23](https://www.hpdc.org/2023/), [Information Security Conference (ISC \'23)](https://isc23.cs.rug.nl/), Doctoral Showcase Poster at [SC \'23](https://sc23.supercomputing.org/), [Learning on Graphs Conference (LoG) \'23](https://logconference.org/), and [Machine Learning with Graphs in HPC Environments (MLG-HPCE) \'23](https://ornl.github.io/MLHPC).
+
+<details>
+    <summary>More</summary>
 
 [Nov. 2022] : Welcome Qianjun Wei to join our lab as a visiting Ph.D. student.
 
@@ -91,4 +94,4 @@ News
 [Mar. 2020] : Our paper on graph connectivity computation framework, Aquila, is accepted to HPDC'20.
 
 [June 2018] : Our paper on strongly connected component detection, iSpan, is accepted to SC'18.
-
+</details>
