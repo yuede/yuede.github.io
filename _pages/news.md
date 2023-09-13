@@ -1,12 +1,8 @@
 ---
-permalink: /
+permalink: /news/
 layout: archive
 title: "Full news"
-excerpt: "Full news"
 author_profile: true
-redirect_from:
-  - /news/
-  - /news.html
 ---
 
 News
