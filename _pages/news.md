@@ -7,6 +7,8 @@ author_profile: true
 
 News
 ======
+[Sep. 2023] : Dr. Xing Gao from University of Delaware is invited to give us a talk and visit our lab!
+
 [Sep. 2023] : Our paper on graph-based binary code similarity detection, HermesSim, is accepted to [USENIX Security \'24](https://www.usenix.org/conference/usenixsecurity24). Congrats to Haojie and other collaborators!
 
 [Aug. 2023] : Our proposal on [Efficient Graph Neural Network](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331301&HistoricalAwards=false) is funded by <strong>NSF SHF</strong> (total: $600k, my role: lead PI). Thanks NSF!
@@ -35,6 +37,8 @@ News
 
 [Nov. 2022] : Welcome Qianjun Wei to join our lab as a visiting Ph.D. student.
 
+[Oct. 2022] : Dr. Chen Luo from Amazon is invited to give us a talk and visit our lab!
+
 [Oct. 2022] : Congrats to Wang for being selected as a volunteer for SC 2022!
 
 [Sep. 2022] : Our project on using TVM for sparse deep neural network is accepted as a poster for SC 2022. Congrats to Lillian and Avik!
@@ -50,6 +54,8 @@ News
 [Jan. 2022] : Our Nested Graph Neural Network (NestedGNN) paper is accepted to [IEEE ICC \'22](https://icc2022.ieee-icc.org/index.html).
 
 [Jan. 2022] : Welcome Wang Feng to join our lab as a Ph.D. student.
+
+[Nov. 2021] : Dr. George M. Slota from Rensselaer Polytechnic Institute is invited to give us a talk and visit our lab!
 
 [Oct. 2021] : My algorithm class (CSCE-5150) received Google Cloud Education Credits. Thanks Google!
 
