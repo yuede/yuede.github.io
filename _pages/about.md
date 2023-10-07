@@ -52,4 +52,4 @@ News
 
 [Feb. 2023] : Dr. Ji is invited to serve as PC for [HPDC \'23](https://www.hpdc.org/2023/), [Information Security Conference (ISC \'23)](https://isc23.cs.rug.nl/), Doctoral Showcase Poster at [SC \'23](https://sc23.supercomputing.org/), [Learning on Graphs Conference (LoG) \'23](https://logconference.org/), and [Machine Learning with Graphs in HPC Environments (MLG-HPCE) \'23](https://ornl.github.io/MLHPC).
 
-[Full news](./news)
+[Before 2023](./news)
