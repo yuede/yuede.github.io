@@ -22,6 +22,8 @@ Openings
 ======
 Dr. Ji is looking for 2-3 fully funded self-motivated Ph.D. students to work on various cool projects in cybersecurity, high-performance computing, and graph AI. If you are interested, please drop me an email with your CV. <strong>According to CS ranking, UNT is ranked 59th among all the US universities in the area of high-performance computing (as of Jun. 2023).</strong>
 
+[CSE Seminar @ UNT](../files/research_talk_CSE_sminar-Oct-9-2023.pptx)
+
 News
 ======
 [Sep. 2023] : Dr. Xing Gao from University of Delaware is invited to give us a talk and visit our lab!
