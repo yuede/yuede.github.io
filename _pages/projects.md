@@ -6,6 +6,10 @@ author_profile: true
 ---
 ---------------------------------
 
+<img src="../images/current_research.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 Program Vulnerability Detection
 ===============================
 The computing devices, e.g., IoT devices and smartphones, are growing rapidly to reach tens of billions in scale. As the running operating systems and software are far from flawless, the vulnerabilities existent in them inevitably enable unknown attack vectors. More seriously, as libraries and code segments are often heavily reused in the software development phase, a vulnerability found in one commonly used code repository could be harnessed to compromise a large number of computing devices that are dependent on it. Therefore, identifying the vulnerabilities hidden in the devices becomes a top priority task.
