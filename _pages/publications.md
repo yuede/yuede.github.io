@@ -28,7 +28,7 @@ Shiyang Chen, Da Zheng, Caiwen Ding, Chengying Huan, <strong>Yuede Ji</strong>, 
 Lei Cui<sup>\*</sup>, Jiancong Cui<sup>\*</sup>, <strong>Yuede Ji</strong>, Zhiyu Hao, Lun Li, Zhenquan Ding (<sup>\*</sup> equal contributions).<br/>
 <strong>[ISSTA \'23]</strong>, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)<br/>
 
-* Understanding Nationwide Power Outage and Restoration for Future Prediction. <[[PDF]](https://osf.io/v9mqb)[[Code]](https://github.com/SC-Lab-Go/SMCDC-EAGLE-I)br/> 
+* Understanding Nationwide Power Outage and Restoration for Future Prediction. [[PDF]](https://osf.io/v9mqb)[[Code]](https://github.com/SC-Lab-Go/SMCDC-EAGLE-I)<br/> 
 <u>Yasmeen Haleem</u>, <u>Isabelle Wagenvoord</u>, <u>Qianjun Wei</u>, Ting Xiao, Tong Shu, and <strong>Yuede Ji</strong><br/>
 <strong>[SMCDC \'23]</strong> 7th Annual Smoky Mountains Computational Sciences Data Challenge (SMCDC)<br/>
 <span style="color:red"><strong>Best Poster Award</strong><span style="color:red">
