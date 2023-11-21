@@ -20,12 +20,13 @@ Yuede Ji received a Ph.D. degree from the George Washington University in 2021. 
 
 Openings
 ======
-Dr. Ji is looking for 2-3 fully funded self-motivated Ph.D. students to work on various cool projects in cybersecurity, high-performance computing, and graph AI. If you are interested, please drop me an email with your CV. <strong>According to CS ranking, UNT is ranked 59th among all the US universities in the area of high-performance computing (as of Jun. 2023).</strong>
+Dr. Ji is looking for fully funded self-motivated Ph.D. students to work on various cool projects in cybersecurity, high-performance computing, and graph AI. If you are interested, please drop me an email with your CV. <strong>According to CS ranking, UNT is ranked 46th among all the US universities in the area of high-performance computing (as of Nov. 2023).</strong>
 
 
 News
 ======
-[Sep. 2023] : Dr. Xing Gao from University of Delaware is invited to give us a talk and visit our lab!
+
+[Sep. 2023] : Welcome Dr. Xing Gao from University of Delaware to give us a talk and visit our lab!
 
 [Sep. 2023] : Our paper on graph-based binary code similarity detection, HermesSim, is accepted to [USENIX Security \'24](https://www.usenix.org/conference/usenixsecurity24). Congrats to Haojie and other collaborators!
 
@@ -43,7 +44,8 @@ News
 
 [Jun. 2023] : Dr. Ji started working as a summer visiting faculty at the Oak Ridge National Laboratory supported by <strong>DOE VFP program</strong>! Thanks DOE! Tennessee is astonishingly beautiful!
 
-[Jun. 2023] : Our lab's Ph.D. student Wang Feng's first paper is accepted to [SC \'23](https://sc23.supercomputing.org/)! Congrats to Wang and our collaborators! See you all at Denver!
+[Jun. 2023] : Our lab's Ph.D. student Wang Feng's first paper is accepted to [SC \'23](https://sc23.supercomputing.org/)! Congrats to Wang and our collaborators! 
+Congrats to Wang for winning IEEE TCHPC Travel Award ($1,325)!
 
 [Jun. 2023] : Our Tango paper is accepted to [SC \'23](https://sc23.supercomputing.org/)! Congrats to Shiyang and our collaborators!
 

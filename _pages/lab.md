@@ -9,25 +9,26 @@ author_profile: true
 
 * **PhD Students**
     * Wang Feng (BS, Sichuan University)
+    * Paul Phillips (MS and BS, UNT)
     * Haiyan Sun (BS, Sichuan University)
     * Qianjun Wei (visiting Ph.D. student)
 
 * **Master Students**
     * Joseph Caldwell, UNT
     * Yasmeen Haleem, UNT
-    * Boxiang Guo, San José State University (BS, Iowa State University)
 
 * **Undergraduate and High School**
+    * John Gitahi, UNT
     * Isabelle Wagenvoord, Colorado College 
     * Chotepong Victor Tangton, UNT TAMS
     * Donavon Zhang, UNT TAMS
     * Sua Cho, UNT TAMS
     * Neha Nayak, UNT TAMS
 
-
 * **Alumni**
-    * Lillian Wang &rarr; MIT (Undergraduate)
-    * Avik Malladi &rarr; UT Austin (Undergraduate)
+    * Boxiang Guo (MS)
+    * Lillian Wang (UNT TAMS) &rarr; MIT (Undergraduate)
+    * Avik Malladi (UNT TAMS)&rarr; UT Austin (Undergraduate)
 
 <img src="../images/lab-pic-06-21-2023.jpeg"
      alt="Markdown Monster icon"
