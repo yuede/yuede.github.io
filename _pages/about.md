@@ -20,7 +20,7 @@ Yuede Ji received a Ph.D. degree from the George Washington University in 2021. 
 
 Openings
 ======
-Dr. Ji is looking for fully funded self-motivated Ph.D. students to work on various cool projects in cybersecurity, high-performance computing, and graph AI. If you are interested, please drop me an email with your CV. <strong>According to CS ranking, UNT is ranked 46th among all the US universities in the area of high-performance computing (as of Nov. 2023).</strong>
+Dr. Ji is looking for fully funded self-motivated Ph.D. students to work on various cool projects in cybersecurity, high-performance computing, and graph AI. If you are interested, please drop me an email with your CV. According to CS ranking, UNT is ranked <strong>46th</strong> among all the US universities in the area of <strong>high-performance computing (HPC)</strong> (as of Nov. 2023).
 
 
 News
