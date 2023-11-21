@@ -16,11 +16,11 @@ Haojie He, Xingwei Lin, Ziang Weng, Ruijie Zhao, Shuitao Gan, Libo Chen, <strong
 <strong>[USENIX Security \'24]</strong>, The 33rd USENIX Security Symposium<br/>
 
 ### 2023
-* PeeK: A Prune-Centric Approach for K Shortest Path Computation.<br/>
+* PeeK: A Prune-Centric Approach for K Shortest Path Computation.[[PDF]](../files/23_SC_PeeK.pdf)[[Code]](https://github.com/SC-Lab-Go/PeeK)<br/>
 <u>Wang Feng</u>, Shiyang Chen, Hang Liu, and <strong>Yuede Ji</strong><br/>
 <strong>[SC \'23]</strong>, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)<br/>
 
-* Tango: Re-Thinking Quantization for Graph Neural Network Training on GPUs.<br/>
+* Tango: Re-Thinking Quantization for Graph Neural Network Training on GPUs.[[PDF]](../files/23_SC_Tango.pdf)<br/>
 Shiyang Chen, Da Zheng, Caiwen Ding, Chengying Huan, <strong>Yuede Ji</strong>, and Hang Liu<br/>
 <strong>[SC \'23]</strong>, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)<br/>
 
@@ -28,13 +28,13 @@ Shiyang Chen, Da Zheng, Caiwen Ding, Chengying Huan, <strong>Yuede Ji</strong>, 
 Lei Cui<sup>\*</sup>, Jiancong Cui<sup>\*</sup>, <strong>Yuede Ji</strong>, Zhiyu Hao, Lun Li, Zhenquan Ding (<sup>\*</sup> equal contributions).<br/>
 <strong>[ISSTA \'23]</strong>, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)<br/>
 
-* Understanding Nationwide Power Outage and Restoration for Future Prediction.<br/>
+* Understanding Nationwide Power Outage and Restoration for Future Prediction. <[[PDF]](https://osf.io/v9mqb)[[Code]](https://github.com/SC-Lab-Go/SMCDC-EAGLE-I)br/> 
 <u>Yasmeen Haleem</u>, <u>Isabelle Wagenvoord</u>, <u>Qianjun Wei</u>, Ting Xiao, Tong Shu, and <strong>Yuede Ji</strong><br/>
 <strong>[SMCDC \'23]</strong> 7th Annual Smoky Mountains Computational Sciences Data Challenge (SMCDC)<br/>
 <span style="color:red"><strong>Best Poster Award</strong><span style="color:red">
 
 
-* Exploring Power and Thermal Dynamics in the Summit Supercomputer: A Data Visualization Study.<br/>
+* Exploring Power and Thermal Dynamics in the Summit Supercomputer: A Data Visualization Study.[[PDF]](https://osf.io/afw8t)[[Code]](https://github.com/SC-Lab-Go/SMCDC-HPC-Power)<br/>
 <u>Joseph Caldwell</u>, <u>Wang Feng</u>, Mimi Byun, Mark Albert, Tong Shu, and <strong>Yuede Ji</strong><br/>
 <strong>[SMCDC \'23]</strong> 7th Annual Smoky Mountains Computational Sciences Data Challenge (SMCDC)<br/>
 
