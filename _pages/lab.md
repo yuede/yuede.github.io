@@ -26,7 +26,7 @@ author_profile: true
     * Neha Nayak, UNT TAMS
 
 * **Alumni**
-    * Boxiang Guo (MS)
+    * Boxiang Guo (MS) &rarr; Software Engineer at Mitchell International
     * Lillian Wang (UNT TAMS) &rarr; MIT (Undergraduate)
     * Avik Malladi (UNT TAMS)&rarr; UT Austin (Undergraduate)
 
