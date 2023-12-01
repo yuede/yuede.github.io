@@ -30,7 +30,7 @@ News
 
 [Sep. 2023] : Our paper on graph-based binary code similarity detection, HermesSim, is accepted to [USENIX Security \'24](https://www.usenix.org/conference/usenixsecurity24). Congrats to Haojie and other collaborators!
 
-[Aug. 2023] : Our proposal on [Efficient Graph Neural Network](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331301&HistoricalAwards=false) is funded by <strong>NSF SHF</strong> (total: $600k, my role: lead PI). Thanks NSF!
+[Aug. 2023] : Our proposal on [Efficient Graph Neural Network](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331301&HistoricalAwards=false) is funded by <strong>NSF SHF Core (Small) Program</strong> (total: $600k, my role: lead PI). Thanks NSF!
 
 [Aug. 2023] : Our challenge paper on understanding nationwide power outage and restoration is accepted to the [SMC Data Challenge \'23](https://smc-datachallenge.ornl.gov/). Congrats to Yasmeen, Isabelle, and our collaborators! We won the <strong>Best Poster Award</strong>!
 
@@ -44,8 +44,7 @@ News
 
 [Jun. 2023] : Dr. Ji started working as a summer visiting faculty at the Oak Ridge National Laboratory supported by <strong>DOE VFP program</strong>! Thanks DOE! Tennessee is astonishingly beautiful!
 
-[Jun. 2023] : Our lab's Ph.D. student Wang Feng's first paper is accepted to [SC \'23](https://sc23.supercomputing.org/)! Congrats to Wang and our collaborators! 
-Congrats to Wang for winning IEEE TCHPC Travel Award ($1,325)!
+[Jun. 2023] : Our lab's Ph.D. student Wang Feng's first paper is accepted to [SC \'23](https://sc23.supercomputing.org/)! Congrats to Wang and our collaborators! &rarr; Congrats to Wang for winning IEEE TCHPC Travel Award ($1,325)!
 
 [Jun. 2023] : Our Tango paper is accepted to [SC \'23](https://sc23.supercomputing.org/)! Congrats to Shiyang and our collaborators!
 
