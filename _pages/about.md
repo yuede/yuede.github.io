@@ -16,7 +16,7 @@ The <strong>Graph Lab</strong> at UNT aims to build efficient systems to protect
 Furthermore, they aim to build high-performance computing systems with emerging hardware (e.g., GPU) to improve the scalability of cybersecurity techniques.
 The Graph Lab's research works have frequently appeared at prestigious cybersecurity and high-performance computing conferences, including USENIX Security, SC, HPDC, EuroS&P, RAID, and AsiaCCS. His research won the best paper award at NPC 2014.
 
-Yuede Ji received a Ph.D. degree from the George Washington University in 2021. He received M.S. and B.E. from Jilin University in 2015 and 2012, respectively. Yuede Ji's curriculum vitae can be found [here](../files/cv_yuede.pdf).
+Yuede Ji received a Ph.D. degree from the George Washington University in 2021. He received M.S. and B.E. from Jilin University in 2015 and 2012, respectively. 
 
 Openings
 ======
