@@ -26,6 +26,8 @@ Dr. Ji is looking for fully funded self-motivated Ph.D. students to work on vari
 News
 ======
 
+[Dec. 2023] : Our paper on protecting workers’ location privacy via Geo-obfuscation is accepted to [EDBT \'24](https://dastlab.github.io/edbticdt2024/). Congrats to Dr. Qiu and Sourabh!
+
 [Sep. 2023] : Welcome Dr. Xing Gao from University of Delaware to give us a talk and visit our lab!
 
 [Sep. 2023] : Our paper on graph-based binary code similarity detection, HermesSim, is accepted to [USENIX Security \'24](https://www.usenix.org/conference/usenixsecurity24). Congrats to Haojie and other collaborators!

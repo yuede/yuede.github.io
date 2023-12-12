@@ -15,6 +15,11 @@ The students advised by me are <u>underlined</u>.
 Haojie He, Xingwei Lin, Ziang Weng, Ruijie Zhao, Shuitao Gan, Libo Chen, <strong>Yuede Ji</strong>, Jiashui Wang, Zhi Xue<br/>
 <strong>[USENIX Security \'24]</strong>, The 33rd USENIX Security Symposium<br/>
 
+* Fine-Grained Geo-Obfuscation to Protect Workers’ Location Privacy in Time-Sensitive Spatial Crowdsourcing.<br/>
+Chenxi Qiu, Sourabh Yadav, <strong>Yuede Ji</strong>, Anna Squicciarini, Ramanamurthy Dantu, Juanjuan Zhao, and Chengzhong Xu<br/>
+<strong>[EDBT \'24]</strong>, The 27th International Conference on Extending Database Technology (EDBT)<br/>
+
+
 ### 2023
 * PeeK: A Prune-Centric Approach for K Shortest Path Computation.[[PDF]](../files/23_SC_PeeK.pdf)[[Code]](https://github.com/SC-Lab-Go/PeeK)<br/>
 <u>Wang Feng</u>, Shiyang Chen, Hang Liu, and <strong>Yuede Ji</strong><br/>
