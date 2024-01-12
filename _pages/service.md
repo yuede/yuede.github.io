@@ -36,6 +36,6 @@ author_profile: true
 
 * **Panel**
     * NSF SaTC, 2022, 2023
-    * NSF OAC, 2023
+    * NSF OAC, 2023, 2024
     * NSF CNS, 2023
 

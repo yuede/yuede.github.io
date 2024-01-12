@@ -26,6 +26,8 @@ Dr. Ji is looking for fully funded self-motivated Ph.D. students to work on vari
 News
 ======
 
+[Jan. 2024] : Welcome four new Ph.D. students, Joseph Caldwell, Shanchao Li, Paul Phillips, and Yang Cheng.
+
 [Dec. 2023] : Our paper on protecting workers’ location privacy via Geo-obfuscation is accepted to [EDBT \'24](https://dastlab.github.io/edbticdt2024/). Congrats to Dr. Qiu and Sourabh!
 
 [Sep. 2023] : Welcome Dr. Xing Gao from University of Delaware to give us a talk and visit our lab!
