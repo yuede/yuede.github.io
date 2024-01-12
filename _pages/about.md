@@ -11,16 +11,14 @@ redirect_from:
 
 Dr. Yuede Ji is an Assistant Professor from the [Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu/) at the [University of North Texas](https://www.unt.edu/).
 He directs the <strong>Graph Lab</strong>, which focuses on <strong>graph-centric security, learning, and computing</strong>.
+We work at the intersections of High-Performance Computing (HPC), Security, Graph AI, and Graph Algorithms. The goal of our research is to build effective and scalable system solutions to protect the security and privacy of critical software and HPC infrastructures. My research work has frequently appeared at prestigious security and HPC venues, including SC, HPDC, USENIX Security, ISSTA, EuroS\&P, RAID, and AsiaCCS.
+My research has won the best paper award at NPC 2014, and the best poster award at SMCDC 2023. My research has been supported by multiple grants totaling over \$1.2M from National Science Foundation (NSF), Department of Energy (DOE), and Google.
 
-The <strong>Graph Lab</strong> at UNT aims to build efficient systems to protect emerging data and computing devices from various layers, such as vulnerability detection, malware detection, and network threat detection.
-Furthermore, they aim to build high-performance computing systems with emerging hardware (e.g., GPU) to improve the scalability of cybersecurity techniques.
-The Graph Lab's research works have frequently appeared at prestigious cybersecurity and high-performance computing conferences, including USENIX Security, SC, HPDC, EuroS&P, RAID, and AsiaCCS. His research won the best paper award at NPC 2014.
-
-Yuede Ji received a Ph.D. degree from the George Washington University in 2021. He received M.S. and B.E. from Jilin University in 2015 and 2012, respectively. 
+Dr. Yuede Ji received a Ph.D. degree from the George Washington University in 2021 working with [Dr. Howie Huang](https://www2.seas.gwu.edu/~howie/). He received M.S. and B.E. from Jilin University in 2015 and 2012, respectively. 
 
 Openings
 ======
-Dr. Ji is looking for fully funded self-motivated Ph.D. students to work on various cool projects in cybersecurity, high-performance computing, and graph AI. If you are interested, please drop me an email with your CV. According to CS ranking, UNT is ranked <strong>46th</strong> among all the US universities in the area of <strong>high-performance computing (HPC)</strong> (as of Nov. 2023).
+Dr. Ji is looking for fully funded self-motivated Ph.D. students to work on various cool projects in cybersecurity, high-performance computing, and graph AI. If you are interested, please drop me an email with your CV. According to CS ranking, UNT is ranked <strong>41st</strong> among all the US Universities in the area of <strong>high-performance computing (HPC)</strong> (as of Dec. 2023).
 
 
 News
