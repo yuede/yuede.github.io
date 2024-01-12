@@ -26,7 +26,7 @@ author_profile: true
     * Isabelle Wagenvoord, Colorado College 
     * Chotepong Victor Tangton, UNT TAMS
     * Donavon Zhang, UNT TAMS
-    * Neelesh Chevuri (UNT TAMS, High School)
+    * Neelesh Chevuri, UNT TAMS
 
 * **Alumni**
     * Boxiang Guo (MS) &rarr; Software Engineer at Mitchell International
