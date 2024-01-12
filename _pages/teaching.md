@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+* CSCE-5565: Secure Software Development [Spring 2024]
 * CSCE-5150: Analysis of Computer Algorithms [Fall 2023]
 * CSCE-6933: Advanced Topics in CSE (focusing on graph theory and graph neural network) [Spring 2023]
 * CSCE-5150: Analysis of Computer Algorithms [Fall 2022]
