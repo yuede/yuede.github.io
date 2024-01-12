@@ -14,7 +14,7 @@ This project aims to greatly improve the security of the computing devices by
 (1) investigating the potential attack surfaces that can cause serious damage;
 (2) enhancing the fundamental techniques used in existing vulnerability detection methods.
 
-<span style="color:blue">Publications</span>: [HermesSim [USENIX Security \'24]](./), [API2Vec [ISSTA \'23]](.), [Illuminati [EuroS&P \'22]](../files/22_EuroSP_Illuminati.pdf), [DEFInit [USENIX Security \'21]](https://www.usenix.org/conference/usenixsecurity21/presentation/ji), [BugGraph [AsiaCCS \'21]](../files/21_AsiaCCS_BugGraph.pdf),[APT detection [RAID \'20]](../files/20_RAID_lateral_movement.pdf)
+<span style="color:blue">Publications</span>: [HermesSim [USENIX Security \'24]](./), [API2Vec [ISSTA \'23]](.), [Illuminati [EuroS&P \'22]](../files/22_EuroSP_Illuminati.pdf), [DEFInit [USENIX Security \'21]](https://www.usenix.org/conference/usenixsecurity21/presentation/ji), [BugGraph [AsiaCCS \'21]](../files/21_AsiaCCS_BugGraph.pdf), [APT detection [RAID \'20]](../files/20_RAID_lateral_movement.pdf)
 
 <span style="color:orange">Fundings</span>: [NSF OAC 2319975](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319975&HistoricalAwards=false)
 
