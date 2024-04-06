@@ -18,7 +18,7 @@ Haojie He, Xingwei Lin, Ziang Weng, Ruijie Zhao, Shuitao Gan, Libo Chen, <strong
 
 * TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on Single and Multiple GPUs. [[PDF]](.)[[Code]](https://github.com/binfoo1993/TLPGNN)<br/>Qiang Fu, <strong>Yuede Ji</strong>, Thomas B. Rolinger, and H. Howie Huang,<br/><strong>[ACM TOPC]</strong>, ACM Transactions on Parallel Computing<br/>
 
-* TrustEvent: Cross-Platform IoT Trigger Event Verification Using Edge Computing
+* TrustEvent: Cross-Platform IoT Trigger Event Verification Using Edge Computing<br/>
 Trent Reichenbach, Chenglong Fu, Xiaojiang Du, Jia Di, and <strong>Yuede Ji</strong><br/>
 <strong>[IEEE ICC \'24]</strong>, IEEE International Conference on Communications, 2024<br/>
 
