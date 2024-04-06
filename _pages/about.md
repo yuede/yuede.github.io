@@ -44,8 +44,6 @@ News
 
 [Jul. 2023] : Our proposal on [Container Security in HPC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319975&HistoricalAwards=false) is funded by <strong>NSF CICI program</strong> (total: $600k, my role: PI). Thanks NSF!
 
-[Jun. 2023] : Dr. Ji started working as a summer visiting faculty at the Oak Ridge National Laboratory supported by <strong>DOE VFP program</strong>! Thanks DOE! Tennessee is astonishingly beautiful!
-
 [Jun. 2023] : Our lab's Ph.D. student Wang Feng's first paper is accepted to [SC \'23](https://sc23.supercomputing.org/)! Congrats to Wang and our collaborators! &rarr; Congrats to Wang for winning IEEE TCHPC Travel Award ($1,325)!
 
 [Jun. 2023] : Our Tango paper is accepted to [SC \'23](https://sc23.supercomputing.org/)! Congrats to Shiyang and our collaborators!
