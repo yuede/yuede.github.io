@@ -4,6 +4,10 @@ layout: archive
 title: "News"
 author_profile: true
 ---
+[Feb. 2024] : Our paper on computing Graph Neural Networks (GNNs) on GPUs is accepted to ACM TOPC. Congrats to the team!
+
+[Jan. 2024] : Our paper on smart home IoT system security collaborating with Dr. Xiaojiang Du has been accepted to ICC 2024. Congrats to the team!
+
 [Jan. 2024] : Welcome four new Ph.D. students, Joseph Caldwell, Shanchao Li, Paul Phillips, and Yang Cheng.
 
 [Dec. 2023] : Our paper on protecting workers’ location privacy via Geo-obfuscation is accepted to [EDBT \'24](https://dastlab.github.io/edbticdt2024/). Congrats to Dr. Qiu and Sourabh!
@@ -24,7 +28,6 @@ author_profile: true
 
 [Jul. 2023] : Our proposal on [Container Security in HPC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319975&HistoricalAwards=false) is funded by <strong>NSF CICI program</strong> (total: $600k, my role: PI). Thanks NSF!
 
-[Jun. 2023] : Dr. Ji started working as a summer visiting faculty at the Oak Ridge National Laboratory supported by <strong>DOE VFP program</strong>! Thanks DOE! Tennessee is astonishingly beautiful!
 
 [Jun. 2023] : Our lab's Ph.D. student Wang Feng's first paper is accepted to [SC \'23](https://sc23.supercomputing.org/)! Congrats to Wang and our collaborators! 
 Congrats to Wang for winning IEEE TCHPC Travel Award ($1,325)!
