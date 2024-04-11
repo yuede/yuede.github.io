@@ -24,6 +24,8 @@ Dr. Ji is looking for fully funded self-motivated Ph.D. students to work on vari
 News
 ======
 
+[Mar. 2024] : We have been issued a U.S. Patent titled "Binary Code Similarity Detection System".
+
 [Feb. 2024] : Our paper on computing Graph Neural Networks (GNNs) on GPUs is accepted to ACM TOPC. Congrats to the team!
 
 [Jan. 2024] : Our paper on smart home IoT system security collaborating with Dr. Xiaojiang Du has been accepted to ICC 2024. Congrats to the team!
