@@ -22,7 +22,7 @@ Haojie He, Xingwei Lin, Ziang Weng, Ruijie Zhao, Shuitao Gan, Libo Chen, <strong
 Trent Reichenbach, Chenglong Fu, Xiaojiang Du, Jia Di, and <strong>Yuede Ji</strong><br/>
 <strong>[IEEE ICC \'24]</strong>, IEEE International Conference on Communications, 2024<br/>
 
-* Fine-Grained Geo-Obfuscation to Protect Workers’ Location Privacy in Time-Sensitive Spatial Crowdsourcing.<br/>
+* Fine-Grained Geo-Obfuscation to Protect Workers’ Location Privacy in Time-Sensitive Spatial Crowdsourcing. [[PDF]](https://openproceedings.org/2024/conf/edbt/paper-94.pdf)<br/>
 Chenxi Qiu, Sourabh Yadav, <strong>Yuede Ji</strong>, Anna Squicciarini, Ramanamurthy Dantu, Juanjuan Zhao, and Chengzhong Xu<br/>
 <strong>[EDBT \'24]</strong>, The 27th International Conference on Extending Database Technology (EDBT)<br/>
 
