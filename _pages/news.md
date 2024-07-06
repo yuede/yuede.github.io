@@ -8,8 +8,6 @@ author_profile: true
 
 [Jan. 2024] : Our paper on smart home IoT system security collaborating with Dr. Xiaojiang Du has been accepted to ICC 2024. Congrats to the team!
 
-[Jan. 2024] : Welcome four new Ph.D. students, Joseph Caldwell, Shanchao Li, Paul Phillips, and Yang Cheng.
-
 [Dec. 2023] : Our paper on protecting workers’ location privacy via Geo-obfuscation is accepted to [EDBT \'24](https://dastlab.github.io/edbticdt2024/). Congrats to Dr. Qiu and Sourabh!
 
 [Sep. 2023] : Welcome Dr. Xing Gao from University of Delaware to give us a talk and visit our lab!
@@ -24,7 +22,6 @@ author_profile: true
 
 [Aug. 2023] : Dr. Ji is invited to serve as an Associate Editor of [IEEE Open Journal of the Communications Society (OJ-COMS)](https://www.comsoc.org/publications/journals/ieee-ojcoms).
 
-[Aug. 2023] : Welcome Haiyan Sun to join our lab as a Ph.D. student.
 
 [Jul. 2023] : Our proposal on [Container Security in HPC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319975&HistoricalAwards=false) is funded by <strong>NSF CICI program</strong> (total: $600k, my role: PI). Thanks NSF!
 

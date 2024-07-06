@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: archive
-title: "Yuede Ji"
+title: "Yuede (YJ) Ji"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -9,30 +9,34 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Yuede Ji is an Assistant Professor from the [Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu/) at the [University of North Texas](https://www.unt.edu/).
+Dr. Yuede (YJ) Ji is an Assistant Professor from the [Department of Computer Science and Engineering](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at the [University of Texas at Arlington (UTA)](https://www.uta.edu/). 
 He directs the <strong>Graph Lab</strong>, which focuses on <strong>graph-centric security, learning, and computing</strong>.
-We work at the intersections of High-Performance Computing (HPC), Security, Graph AI, and Graph Algorithms. The goal of our research is to build effective and scalable system solutions to protect the security and privacy of critical software and HPC infrastructures. Our research work has frequently appeared at prestigious security and HPC venues, including SC, HPDC, USENIX Security, ISSTA, EuroS&P, RAID, and AsiaCCS.
-Our research has won the <strong>best paper award at NPC 2014</strong>, and the <strong>best poster award at SMCDC 2023</strong>. My research has been supported by multiple grants from National Science Foundation (NSF), and Google.
+He works at the intersections of High-Performance Computing (HPC), Security, Graph AI, and Graph Analytics. The goal of his research is to build effective and scalable system solutions to protect the security and privacy of critical software and HPC infrastructures. His research work has frequently appeared at prestigious security and HPC venues, including SC, HPDC, USENIX Security, ISSTA, EuroS&P, RAID, and AsiaCCS.
+Our research has won the <strong>best paper award at NPC 2014</strong>, and the <strong>best poster award at SMCDC 2023</strong>. His research has been supported by multiple grants from National Science Foundation (NSF), Department of Energy (DOE) and Google.
 
-Dr. Yuede Ji received a Ph.D. degree from the George Washington University in 2021 working with [Dr. Howie Huang](https://www2.seas.gwu.edu/~howie/). He received M.S. and B.E. from Jilin University in 2015 and 2012, respectively. 
+
+Prior to joining UT Arlington, he was an assistant professor at the University of North Texas from 2021 to 2024. He received a Ph.D. degree from the George Washington University in 2021 working with [Dr. Howie Huang](https://www2.seas.gwu.edu/~howie/). He received M.S. and B.E. from Jilin University in 2015 and 2012, respectively. 
 
 Openings
 ======
-Dr. Ji is looking for fully funded self-motivated Ph.D. students to work on various cool projects in cybersecurity, high-performance computing, and graph AI. If you are interested, please drop me an email with your CV. According to CS ranking, UNT is ranked <strong>41st</strong> among all the US Universities in the discipline of <strong>HPC</strong> (as of Dec. 2023).
+Dr. Ji is looking for <strong>multiple fully funded self-motivated Ph.D. students</strong> to work on various cool projects in cybersecurity, high-performance computing, and graph AI. If you are interested, please drop me an email with your CV. According to CS ranking, UT Arlington is ranked <strong>13th</strong> among all the US Universities in the discipline of <strong>HPC</strong> (as of June 2024).
 
 
 News
 ======
 
+
+[Jul. 2024] : Our paper on malware detection with graph AI technique is accepted to IEEE Transactions on Software Engineering (TSE). Congrats to the team!
+
 [Jun. 2024] : Our proposal on [Secure Machine Learning Inference in IoT-driven Analytical Scientific Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2419843) is funded by <strong>NSF CICI program</strong> (Co-PI, PI: [Prof. Ruimin Sun](https://www.ruiminsun.com/)). Thanks NSF!
+
+[May. 2024] : Congrats to Victor and Donavon (TAMS students) for starting their undergraduate study at <strong>UT Austin</strong> and <strong>Purdue</strong>, respectively! Best wishes!
 
 [Mar. 2024] : We have been issued a U.S. Patent titled "Binary Code Similarity Detection System".
 
-[Feb. 2024] : Our paper on computing Graph Neural Networks (GNNs) on GPUs is accepted to ACM TOPC. Congrats to the team!
+[Feb. 2024] : Our paper on computing Graph Neural Networks (GNNs) on GPUs is accepted to ACM Transactions on Parallel Computing (TOPC). Congrats to the team!
 
 [Jan. 2024] : Our paper on smart home IoT system security collaborating with Dr. Xiaojiang Du has been accepted to ICC 2024. Congrats to the team!
-
-[Jan. 2024] : Welcome four new Ph.D. students, Joseph Caldwell, Shanchao Li, Paul Phillips, and Yang Cheng.
 
 [Dec. 2023] : Our paper on protecting workers’ location privacy via Geo-obfuscation is accepted to [EDBT \'24](https://dastlab.github.io/edbticdt2024/). Congrats to Dr. Qiu and Sourabh!
 
@@ -47,8 +51,6 @@ News
 [Aug. 2023] : Our challenge paper on visualizing HPC power and thermal dynamics is accepted to the [SMC Data Challenge \'23](https://smc-datachallenge.ornl.gov/). Congrats to Joe and our collaborators!
 
 [Aug. 2023] : Dr. Ji is invited to serve as an Associate Editor of [IEEE Open Journal of the Communications Society (OJ-COMS)](https://www.comsoc.org/publications/journals/ieee-ojcoms).
-
-[Aug. 2023] : Welcome Haiyan Sun to join our lab as a Ph.D. student.
 
 [Jul. 2023] : Our proposal on [Secure Containers in High-Performance Computing Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319975&HistoricalAwards=false) is funded by <strong>NSF CICI program</strong> (PI). Thanks NSF!
 

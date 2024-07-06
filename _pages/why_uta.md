@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Why UNT"
-permalink: /why_unt/
+title: "Why UTA"
+permalink: /why_uta/
 author_profile: true
 ---
 

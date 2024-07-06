@@ -35,7 +35,6 @@ author_profile: true
     * IEEE Access
 
 * **Panel**
-    * NSF SaTC, 2022, 2023
-    * NSF OAC, 2023, 2024
-    * NSF CNS, 2023
+    * NSF 2022, 2023, 2024
+    * DOE 2024
 

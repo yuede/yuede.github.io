@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuede Ji"
   avatar           : "profile_formal.png"
-  bio              : "Assistant Professor,\n Department of Computer Science and Engineering,\n University of North Texas"
-  location         : "3940 N Elm St, Denton, TX 76207"
+  bio              : "Assistant Professor,\n Department of Computer Science and Engineering,\n University of Texas at Arlington"
+  location         : "500 UTA Blvd, Arlington, TX 76010"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=1-GjVYgAAAAJ&hl=en&oi=ao"
-  email            : "yuede.ji@unt.edu"
+  email            : "yuede.ji@uta.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  phone            : (940) 565-2385
+  phone            : 
 
 # Reading Files
 include:
@@ -193,9 +193,6 @@ collections:
   lab:
     output: true
     permalink: /:collection/:path/
-  why_unt:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -258,14 +255,6 @@ defaults:
   - scope:
       path: ""
       type: lab
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _why_unt
-  - scope:
-      path: ""
-      type: why_unt
     values:
       layout: single
       author_profile: true
