@@ -54,7 +54,7 @@ News
 
 [Jul. 2023] : Our proposal on [Secure Containers in High-Performance Computing Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319975&HistoricalAwards=false) is funded by <strong>NSF CICI program</strong> (PI). Thanks NSF!
 
-[Jun. 2023] : Our lab's Ph.D. student Wang Feng's first paper is accepted to [SC \'23](https://sc23.supercomputing.org/)! Congrats to Wang and our collaborators! &rarr; Congrats to Wang for winning IEEE TCHPC Travel Award ($1,325)!
+[Jun. 2023] : Our lab's first paper is accepted to [SC \'23](https://sc23.supercomputing.org/)! Congrats to the team! 
 
 [Jun. 2023] : Our Tango paper is accepted to [SC \'23](https://sc23.supercomputing.org/)! Congrats to Shiyang and our collaborators!
 
@@ -64,4 +64,3 @@ News
 
 [Feb. 2023] : Dr. Ji is invited to serve as PC for [HPDC \'23](https://www.hpdc.org/2023/), [Information Security Conference (ISC \'23)](https://isc23.cs.rug.nl/), Doctoral Showcase Poster at [SC \'23](https://sc23.supercomputing.org/), [Learning on Graphs Conference (LoG) \'23](https://logconference.org/), and [Machine Learning with Graphs in HPC Environments (MLG-HPCE) \'23](https://ornl.github.io/MLHPC).
 
-[Before 2023](./news)

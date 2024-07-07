@@ -8,11 +8,10 @@ author_profile: true
 <strong>Graph-Centric Security, Learning, and Computing</strong>
 
 * **PhD Students**
-    * Wang Feng (BS, Sichuan University, 6-year software engineer experience)
-        * Publication: PeeK [SC '23]
-        * Award: IEEE TCHPC Travel Award
     * Joseph Caldwell (BS, UNT)
-    * Shanchao Li (BS, Harbin University of Science and Technology, 6-year cybersecurity engineer experience)
+    * Xiao Hu (BS, Miami Univerity; MS, University at Buffalo)
+    * Wang Feng (BS, Sichuan University)
+    * Shanchao Li (BS, Harbin University of Science and Technology)
 
 * **Master Students**
     * Yasmeen Haleem, UNT
