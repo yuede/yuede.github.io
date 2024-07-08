@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Yuede (YJ) Ji is an Assistant Professor from the [Department of Computer Science and Engineering](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at the [University of Texas at Arlington (UTA)](https://www.uta.edu/). 
+Dr. Yuede (YJ) Ji is an Assistant Professor from the [Department of Computer Science and Engineering](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at the [University of Texas at Arlington](https://www.uta.edu/). 
 He directs the <strong>Graph Lab</strong>, which focuses on <strong>graph-centric security, learning, and computing</strong>.
 He works at the intersections of High-Performance Computing (HPC), Security, Graph AI, and Graph Analytics. The goal of his research is to build effective and scalable system solutions to protect the security and privacy of critical software and HPC infrastructures. His research work has frequently appeared at prestigious security and HPC venues, including SC, HPDC, USENIX Security, ISSTA, EuroS&P, RAID, and AsiaCCS.
 Our research has won the <strong>best paper award at NPC 2014</strong>, and the <strong>best poster award at SMCDC 2023</strong>. His research has been supported by multiple grants from National Science Foundation (NSF), Department of Energy (DOE) and Google.
