@@ -24,7 +24,9 @@ Dr. Ji is looking for <strong>multiple fully funded self-motivated Ph.D. student
 
 News
 ======
+[Aug. 2024] : Our proposal on [An Accelerated Computation Architecture for State Transition Representation and Applications](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2409211&HistoricalAwards=false) is funded by <strong>NSF SHF Core (Small) Program</strong> (Lead PI). Thanks NSF!
 
+[Aug. 2024] : Our lab has moved to the [University of Texas at Arlington](https://www.uta.edu/). I will miss the great days and people at UNT.
 
 [Jul. 2024] : Our paper on malware detection with graph AI technique is accepted to IEEE Transactions on Software Engineering (TSE). Congrats to the team!
 
