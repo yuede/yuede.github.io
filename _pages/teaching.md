@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-* CSCE-5380: Information Security [Fall 2024]
+* CSCE-4380: Information Security [Fall 2024]
 
 ### Courses Taught at UNT
 * CSCE-5565: Secure Software Development [Spring 2024]
