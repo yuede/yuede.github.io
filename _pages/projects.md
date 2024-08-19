@@ -29,7 +29,8 @@ This project aims to design scalable graph analytics techniques and systems to b
 
 <span style="color:blue">Publications</span>: [PeeK [SC \'23]](.), [Tango [SC \'23]](.), [TLPGNN [HPDC \'22]](../files/22_hpdc_TLPGNN.pdf), [Aquila [HPDC \'20]](../files/20_HPDC_Aquila.pdf), [iSpan [SC \'18]](../files/18_SC_iSpan.pdf)
 
-<span style="color:orange">Fundings</span>: [NSF SHF 2331301](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331301&HistoricalAwards=false)
+<span style="color:orange">Fundings</span>: [NSF SHF 2331301](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331301&HistoricalAwards=false), 
+[NSF SHF 2409211](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2409211&HistoricalAwards=false) is funded by <strong>NSF SHF Core (Small) Program</strong> (Lead PI). Thanks NSF!
 
 
 <img src="../images/NSF_logo.png"
