@@ -10,8 +10,6 @@ author_profile: true
 * **PhD Students**
     * Joseph Caldwell (BS, UNT)
     * Xiao Hu (BS, Miami Univerity; MS, University at Buffalo)
-    * Wang Feng (BS, Sichuan University)
-    * Shanchao Li (BS, Harbin University of Science and Technology)
 
 * **Master Students**
     * Yasmeen Haleem, UNT
