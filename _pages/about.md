@@ -24,7 +24,7 @@ Dr. Ji is looking for <strong>multiple fully funded self-motivated Ph.D. student
 
 News
 ======
-[Sep. 2024] : Dr. Ji is invited to serve as TPC for [IPDPS \'25](https://www.ipdps.org/), and [ICDC \'25](https://icdcs2025.icdcs.org/).
+[Sep. 2024] : Dr. Ji is invited to serve as TPC for [IPDPS \'25](https://www.ipdps.org/), and [ICDCS \'25](https://icdcs2025.icdcs.org/).
 
 [Aug. 2024] : Our proposal on [An Accelerated Computation Architecture for State Transition Representation and Applications](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2409211&HistoricalAwards=false) is funded by <strong>NSF SHF Core (Small) Program</strong> (Lead PI). Thanks NSF!
 
