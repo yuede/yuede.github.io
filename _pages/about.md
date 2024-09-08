@@ -11,15 +11,17 @@ redirect_from:
 
 Dr. Yuede (YJ) Ji is an Assistant Professor from the [Department of Computer Science and Engineering](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at the [University of Texas at Arlington](https://www.uta.edu/). 
 He directs the <strong>Graph Lab</strong>, which focuses on <strong>graph-centric security, learning, and computing</strong>.
-He works at the intersections of High-Performance Computing (HPC), Security, Graph AI, and Graph Analytics. The goal of his research is to build effective and scalable system solutions to protect the security and privacy of critical software and HPC infrastructures. His research work has frequently appeared at prestigious security and HPC venues, including SC, HPDC, USENIX Security, ISSTA, EuroS&P, RAID, and AsiaCCS.
-Our research has won the <strong>best paper award at NPC 2014</strong>, and the <strong>best poster award at SMCDC 2023</strong>. His research has been supported by multiple grants from National Science Foundation (NSF), Department of Energy (DOE) and Google.
+He works at the intersections of High-Performance Computing (HPC), Security, Graph AI, and Graph Analytics. The goal of his research is to build effective and scalable system solutions to protect the security and privacy of critical software and HPC infrastructures. His research work has frequently appeared at prestigious security and HPC venues, including SC, HPDC, USENIX Security, and ISSTA.
+His research has won the <strong>best paper award at NPC 2014</strong>, and the <strong>best poster award at SMCDC 2023</strong>. His research has been supported by multiple grants from National Science Foundation (NSF), Department of Energy (DOE), and Google.
 
 
 Prior to joining UT Arlington, he was an assistant professor at the University of North Texas from 2021 to 2024. He received a Ph.D. degree from the George Washington University in 2021 working with [Dr. Howie Huang](https://www2.seas.gwu.edu/~howie/).
 
 Openings
 ======
-Dr. Ji is looking for <strong>multiple fully funded self-motivated Ph.D. students</strong> to work on various cool projects in cybersecurity, high-performance computing, and graph AI. If you are interested, please drop me an email with your CV. According to CS ranking, UT Arlington is ranked <strong>13th</strong> among all the US Universities in the discipline of <strong>HPC</strong> (as of June 2024).
+The Graph Lab has multiple positions for <strong>self-motivated Ph.D. students (with salary, covered tuition, and insurance)</strong> to work on various cool projects in cybersecurity, HPC, and graph AI. Our lab can also fund <strong>M.S. students working towards a thesis</strong>, and <strong>motivated undergraduate students</strong>. If you are interested, please send your CV and transcript to yuede.uta@gmail.com
+
+According to CS ranking, UT Arlington is ranked <strong>13th</strong> among all the US Universities in <strong>HPC</strong> (as of Sep. 2024).
 
 
 News

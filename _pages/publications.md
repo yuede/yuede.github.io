@@ -15,6 +15,10 @@ The students advised by me are <u>underlined</u>.
 Haojie He, Xingwei Lin, Ziang Weng, Ruijie Zhao, Shuitao Gan, Libo Chen, <strong>Yuede Ji</strong>, Jiashui Wang, Zhi Xue<br/>
 <strong>[USENIX Security \'24]</strong>, The 33rd USENIX Security Symposium<br/>
 
+* API2Vec++: Boosting API Sequence Representation for Malware Detection and Classification. [[PDF]](https://ieeexplore.ieee.org/document/10586831)[[Code]](https://github.com/Coming98/API2Vec)<br/>
+Lei Cui, Junan Yin, Jiancong Cui, <strong>Yuede Ji</strong>, Peng Liu, Zhiyu Hao, Xiaochun Yun<br/>
+<strong>[TSE \'24]</strong>, IEEE Transactions on Software Engineering<br/>
+
 
 * TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on Single and Multiple GPUs. [[PDF]](.)[[Code]](https://github.com/binfoo1993/TLPGNN)<br/>Qiang Fu, <strong>Yuede Ji</strong>, Thomas B. Rolinger, and H. Howie Huang,<br/><strong>[ACM TOPC]</strong>, ACM Transactions on Parallel Computing<br/>
 
