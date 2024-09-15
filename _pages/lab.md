@@ -8,8 +8,10 @@ author_profile: true
 <strong>Graph-Centric Security, Learning, and Computing</strong>
 
 * **PhD Students**
-    * Joseph Caldwell (BS, UNT)
-    * Xiao Hu (BS, Miami Univerity; MS, University at Buffalo)
+    * Joseph Caldwell (BS, University of North Texas, USA)
+    * Xiao Hu (BS, Miami Univerity, USA; MS, University at Buffalo, USA)
+    * Emmanuel Emakhue Oseghale (BE, University of Benin, Nigeria)
+    * Wang Feng (BS, Sichuan University, China)
 
 * **Master Students**
     * Yasmeen Haleem, UNT
