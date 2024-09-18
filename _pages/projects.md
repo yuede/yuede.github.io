@@ -18,6 +18,7 @@ This project aims to design scalable graph analytics techniques and systems to b
 
 <span style="color:orange">Fundings</span>: [NSF SHF 2331301](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331301&HistoricalAwards=false), 
 [NSF SHF 2409211](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2409211&HistoricalAwards=false)
+
 ---------------------------------
 
 Project 2: Cybersecurity
