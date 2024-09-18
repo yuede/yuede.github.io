@@ -42,8 +42,4 @@ This project aims to greatly improve the security of the computing devices by
      alt="Markdown Monster icon"
      width="250"
      />
-<img src="../images/unt_logo.png"
-     alt="Markdown Monster icon"
-     width="210"
-     />
 
