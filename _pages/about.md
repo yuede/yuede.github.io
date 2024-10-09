@@ -26,6 +26,8 @@ According to CS ranking, UT Arlington is ranked <strong>13th</strong> among all 
 
 News
 ======
+[Sep. 2024] : Our paper on microservice security is accepted to ACSAC '24. Congrats to the team!
+
 [Sep. 2024] : Dr. Ji is invited to serve as TPC for [IPDPS \'25](https://www.ipdps.org/), and [ICDCS \'25](https://icdcs2025.icdcs.org/).
 
 [Aug. 2024] : Our proposal on [An Accelerated Computation Architecture for State Transition Representation and Applications](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2409211&HistoricalAwards=false) is funded by <strong>NSF SHF Core (Small) Program</strong> (Lead PI). Thanks NSF!
