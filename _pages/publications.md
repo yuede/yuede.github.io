@@ -15,6 +15,10 @@ The students advised by me are <u>underlined</u>.
 Haojie He, Xingwei Lin, Ziang Weng, Ruijie Zhao, Shuitao Gan, Libo Chen, <strong>Yuede Ji</strong>, Jiashui Wang, Zhi Xue<br/>
 <strong>[USENIX Security \'24]</strong>, The 33rd USENIX Security Symposium<br/>
 
+* CloudCover: Enforcement of Multi-Hop Network Connections in Microservice Deployments.<br/>
+Dalton A. Brucker-Hahn, <u>Wang Feng</u>, <u>Shanchao Li</u>, Matthew Petillo, Alexandru G. Bardas, Drew Davidson, <strong>Yuede Ji</strong><br/>
+<strong>[ACSAC \'24]</strong>, The 40th Annual Computer Security Applications Conference (ACSAC)<br/>
+
 * API2Vec++: Boosting API Sequence Representation for Malware Detection and Classification. [[PDF]](https://ieeexplore.ieee.org/document/10586831)[[Code]](https://github.com/Coming98/API2Vec)<br/>
 Lei Cui, Junan Yin, Jiancong Cui, <strong>Yuede Ji</strong>, Peng Liu, Zhiyu Hao, Xiaochun Yun<br/>
 <strong>[TSE]</strong>, IEEE Transactions on Software Engineering<br/>
