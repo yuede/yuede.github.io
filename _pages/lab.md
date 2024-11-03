@@ -9,8 +9,9 @@ author_profile: true
 
 * **PhD Students**
     * Joseph Caldwell (BS, University of North Texas, USA)
-    * Xiao Hu (BS, Miami Univerity, USA; MS, University at Buffalo, USA)
     * Emmanuel Emakhue Oseghale (BE, University of Benin, Nigeria)
+    * Xiao Hu (BS, Miami Univerity, USA; MS, University at Buffalo, USA)
+    * Mohammad Shahedur Rahman (BS, Bangladesh University of Engineering \& Technology, BUET; MS, Bangladesh University of Professionals, BUP)
     * Wang Feng (BS, Sichuan University, China)
 
 * **Master Students**
