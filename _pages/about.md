@@ -21,7 +21,7 @@ Openings
 ======
 The Graph Lab has multiple positions for <strong>self-motivated Ph.D. students (with salary, covered tuition, and insurance)</strong> to work on various cool projects in cybersecurity, HPC, and graph AI. Our lab can also fund <strong>M.S. students working towards a thesis</strong>, and <strong>motivated undergraduate students</strong>. If you are interested, please send your CV and transcript to yuede.uta@gmail.com
 
-According to CS ranking, UT Arlington is ranked <strong>13th</strong> among all the US Universities in <strong>HPC</strong> (as of Sep. 2024).
+According to CS ranking, UT Arlington is ranked <strong>12th</strong> among all the US Universities in <strong>HPC</strong> (as of Nov. 2024).
 
 
 News

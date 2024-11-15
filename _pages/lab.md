@@ -11,7 +11,7 @@ author_profile: true
     * Joseph Caldwell (BS, University of North Texas, USA)
     * Emmanuel Emakhue Oseghale (BE, University of Benin, Nigeria)
     * Xiao Hu (BS, Miami Univerity, USA; MS, University at Buffalo, USA)
-    * Mohammad Shahedur Rahman (BS, Bangladesh University of Engineering \& Technology, BUET; MS, Bangladesh University of Professionals, BUP)
+    * Mohammad Shahedur Rahman (BS, Bangladesh University of Engineering & Technology, BUET; MS, Bangladesh University of Professionals, BUP)
     * Wang Feng (BS, Sichuan University, China)
 
 * **Master Students**
@@ -26,9 +26,9 @@ author_profile: true
 * **Alumni**
     * Boxiang Guo (MS) &rarr; Software Engineer at Mitchell International
     * Lillian Wang (UNT TAMS) &rarr; MIT (Undergraduate)
-    * Avik Malladi (UNT TAMS)&rarr; UT Austin (Undergraduate)
-    * Chotepong Victor Tangton (UNT TAMS)&rarr; UT Austin (Undergraduate)
-    * Donavon Zhang (UNT TAMS)&rarr; Purdue University (Undergraduate)
+    * Avik Malladi (UNT TAMS) &rarr; UT Austin (Undergraduate)
+    * Chotepong Victor Tangton (UNT TAMS) &rarr; UT Austin (Undergraduate)
+    * Donavon Zhang (UNT TAMS) &rarr; Purdue University (Undergraduate)
 
 <img src="../images/lab-pic-06-21-2023.jpeg"
      alt="Markdown Monster icon"
