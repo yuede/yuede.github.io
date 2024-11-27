@@ -26,6 +26,10 @@ According to CS ranking, UT Arlington is ranked <strong>12th</strong> among all 
 
 News
 ======
+[Nov. 2024] : At SC 2024, Dr. Ji is invited to give a talk on "Advancing Graph AI: Tackling Efficiency, Application, and Explainability" at the MLG-HPCE Workshop.
+
+[Oct. 2024] : Dr. Ji is invited to give a talk on Graph AI at the Biology Seminar in Texas Christian University (TCU).
+
 [Sep. 2024] : Our paper on microservice security is accepted to ACSAC '24. Congrats to the team!
 
 [Sep. 2024] : Dr. Ji is invited to serve as TPC for [IPDPS \'25](https://www.ipdps.org/), and [ICDCS \'25](https://icdcs2025.icdcs.org/).
