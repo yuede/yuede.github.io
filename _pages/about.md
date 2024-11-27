@@ -66,6 +66,8 @@ News
 
 [Jul. 2023] : Our proposal on [Secure Containers in High-Performance Computing Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319975&HistoricalAwards=false) is funded by <strong>NSF CICI program</strong> (PI). Thanks NSF!
 
+[Jun. 2023] : Dr. Ji started to work as a Summer Visiting Faculty at the Oak Ridge National Laboratory. 
+
 [Jun. 2023] : Our lab's first paper is accepted to [SC \'23](https://sc23.supercomputing.org/)! Congrats to the team! 
 
 [Jun. 2023] : Our Tango paper is accepted to [SC \'23](https://sc23.supercomputing.org/)! Congrats to Shiyang and our collaborators!
