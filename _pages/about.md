@@ -26,6 +26,8 @@ According to CS ranking, UT Arlington is ranked <strong>12th</strong> among all 
 
 News
 ======
+[Dec. 2024] : Dr. Ji is awarded the Best Editor Award for 2024 at IEEE Open Journal of Communications Society (OJCOMS).
+
 [Nov. 2024] : At SC 2024, Dr. Ji is invited to give a talk on "Advancing Graph AI: Tackling Efficiency, Application, and Explainability" at the [MLG-HPCE Workshop](https://sc24.conference-program.com/session/?sess=sess741).
 
 [Oct. 2024] : Dr. Ji is invited to give a talk on Graph AI at the Biology Seminar in Texas Christian University (TCU).
