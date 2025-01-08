@@ -11,9 +11,9 @@ author_profile: true
     * Joseph Caldwell (BS, University of North Texas)
     * Xiao Hu (BS, Miami Univerity; MS, University at Buffalo)
     * Emmanuel Emakhue Oseghale (BE, University of Benin)
-    * Mohammad Shahedur Rahman (BS, Bangladesh University of Engineering & Technology; MS, Bangladesh University of Professionals)
+    * Mohammad Shahedur Rahman (BS, BUET; MS, Bangladesh University of Professionals)
+    * Chaoqun Li (BS, Zhengzhou University)
     * Nagmat Nazarov (BS, Oguzkhan Technological University; MS, Seoul National University)
-    * Wang Feng (BS, Sichuan University)
 
 * **Master Students**
     * Yasmeen Haleem, UNT
