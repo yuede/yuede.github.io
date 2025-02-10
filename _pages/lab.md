@@ -12,7 +12,7 @@ author_profile: true
     * Xiao Hu (BS, Miami Univerity; MS, University at Buffalo)
     * Emmanuel Emakhue Oseghale (BE, University of Benin)
     * Mohammad Shahedur Rahman (BS, BUET; MS, Bangladesh University of Professionals)
-    * Chaoqun Li (BS, Zhengzhou University)
+    * [Chaoqun Li](https://www.keparal.cn/) (BS, Zhengzhou University)
     * Nagmat Nazarov (BS, Oguzkhan Technological University; MS, Seoul National University)
 
 * **Master Students**
