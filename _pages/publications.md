@@ -9,6 +9,11 @@ author_profile: true
 {% endif %}
 
 The students advised by me are <u>underlined</u>.
+### 2025
+* BINGO: Radix-based Bias Factorization for Random Walk on Dynamic Graphs.<br/>
+Pinhuan Wang, Chengying Huan, Zhibin Wang, Chen Tian, <strong>Yuede Ji</strong>, Hang Liu<br/>
+<strong>[EuroSys \'25]</strong>, ACM EuroSys 2025<br/>
+
 
 ### 2024
 * Code is not Natural Language: Unlock the Power of Semantics-Oriented Graph Representation for Binary Code Similarity Detection.<br/>
