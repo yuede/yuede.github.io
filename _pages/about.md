@@ -26,8 +26,8 @@ According to CS ranking, UT Arlington is ranked <strong>12th</strong> among all 
 
 News
 ======
-[Jan. 2025] : Our BINGO paper of Random Walk on Dynamic Graphs is accepted to EuroSys '25. Congrast to Pinhuan, Dr. Hang Liu, and other collaborators!
 
+[Jan. 2025] : Our BINGO paper of Random Walk on Dynamic Graphs is accepted to EuroSys '25. Congrast to Pinhuan, Dr. Hang Liu, and other collaborators!
 
 [Dec. 2024] : Dr. Ji is awarded the Best Editor Award of 2024 for IEEE Open Journal of Communications Society (OJCOMS).
 

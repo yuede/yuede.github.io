@@ -12,6 +12,8 @@ author_profile: true
     * Publication Chair: Second Annual Workshop on Cyber Security in High Performance Computing (S-HPC'23)
 
 * **Technical Program Committee**
+    * ICDCS, 2025
+    * IPDPS, 2025
     * ACM HPDC, 2023
     * ISC, 2023
     * Learning on Graphs Conference (LoG), 2022, 2023
@@ -22,7 +24,8 @@ author_profile: true
     * IEEE Security and Privacy, 2018 (Student PC)
     * EuroSys, 2018 (Shadow PC)
 
-* **Journal Reviewer**
+* **Reviewer**
+    * KDD, 2025
     * IEEE Transactions on Parallel and Distributed Systems
     * ACM Transactions on Parallel Computing
     * IEEE Transactions on Cloud Computing

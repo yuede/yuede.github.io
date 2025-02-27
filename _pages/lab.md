@@ -8,11 +8,12 @@ author_profile: true
 <strong>Graph-Centric Security, Learning, and Computing</strong>
 
 * **PhD Students**
-    * Joseph Caldwell (BS, University of North Texas)
+    * Mohammad Shahedur Rahman (BS, BUET; MS, Bangladesh University of Professionals)
+    * Runbang (Aiden) Hu (BS, Tsinghua University; MS, Stevens Institue of Technology)
+    * Joseph Caldwell (BS/MS, University of North Texas)
+    * Chaoqun Li (BS, Zhengzhou University)
     * Xiao Hu (BS, Miami Univerity; MS, University at Buffalo)
     * Emmanuel Emakhue Oseghale (BE, University of Benin)
-    * Mohammad Shahedur Rahman (BS, BUET; MS, Bangladesh University of Professionals)
-    * Chaoqun Li (BS, Zhengzhou University)
     * Nagmat Nazarov (BS, Oguzkhan Technological University; MS, Seoul National University)
 
 * **Master Students**
