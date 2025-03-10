@@ -27,6 +27,8 @@ According to CS ranking, UT Arlington is ranked <strong>12th</strong> among all 
 News
 ======
 
+[Mar. 2025] : Our team achieved the #7, and #4 places (out of 46 registrations) in 2025 PPoPP Fast Code Programming Challenge! Congrats to Chaoqun and Aiden!
+
 [Jan. 2025] : Our BINGO paper of Random Walk on Dynamic Graphs is accepted to EuroSys '25. Congrast to Pinhuan, Dr. Hang Liu, and other collaborators!
 
 [Dec. 2024] : Dr. Ji is awarded the Best Editor Award of 2024 for IEEE Open Journal of Communications Society (OJCOMS).
@@ -38,8 +40,6 @@ News
 [Oct. 2024] : Dr. Ji is invited to give a talk on Graph AI at the Biology Seminar in Texas Christian University (TCU).
 
 [Sep. 2024] : Our paper on microservice security is accepted to ACSAC '24. Congrats to the team!
-
-[Sep. 2024] : Dr. Ji is invited to serve as TPC for [IPDPS \'25](https://www.ipdps.org/), and [ICDCS \'25](https://icdcs2025.icdcs.org/).
 
 [Aug. 2024] : Our proposal on [An Accelerated Computation Architecture for State Transition Representation and Applications](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2409211&HistoricalAwards=false) is funded by <strong>NSF SHF Core (Small) Program</strong> (Lead PI). Thanks NSF!
 
@@ -69,11 +69,8 @@ News
 
 [Aug. 2023] : Our challenge paper on visualizing HPC power and thermal dynamics is accepted to the [SMC Data Challenge \'23](https://smc-datachallenge.ornl.gov/). Congrats to Joe and our collaborators!
 
-[Aug. 2023] : Dr. Ji is invited to serve as an Associate Editor of [IEEE Open Journal of the Communications Society (OJ-COMS)](https://www.comsoc.org/publications/journals/ieee-ojcoms).
 
 [Jul. 2023] : Our proposal on [Secure Containers in High-Performance Computing Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319975&HistoricalAwards=false) is funded by <strong>NSF CICI program</strong> (PI). Thanks NSF!
-
-[Jun. 2023] : Dr. Ji started to work as a Summer Visiting Faculty at the Oak Ridge National Laboratory. 
 
 [Jun. 2023] : Our lab's first paper is accepted to [SC \'23](https://sc23.supercomputing.org/)! Congrats to the team! 
 
@@ -82,6 +79,4 @@ News
 [May. 2023] : Congrats to Lillian and Avik (TAMS students) for starting their undergraduate studies at <strong>MIT</strong> and <strong>UT Austin</strong>, respectively! Best wishes!
 
 [Apr. 2023] : Our paper on malware detection with graph AI technique is accepted to [ISSTA \'23](https://conf.researchr.org/home/issta-2023). Congrats to Jiancong and our collaborators!
-
-[Feb. 2023] : Dr. Ji is invited to serve as PC for [HPDC \'23](https://www.hpdc.org/2023/), [Information Security Conference (ISC \'23)](https://isc23.cs.rug.nl/), Doctoral Showcase Poster at [SC \'23](https://sc23.supercomputing.org/), [Learning on Graphs Conference (LoG) \'23](https://logconference.org/), and [Machine Learning with Graphs in HPC Environments (MLG-HPCE) \'23](https://ornl.github.io/MLHPC).
 
