@@ -27,7 +27,7 @@ According to CS ranking, UT Arlington is ranked <strong>12th</strong> among all 
 News
 ======
 
-[Mar. 2025] : Our team achieved the #7, and #4 places (out of 46 registrations) in 2025 PPoPP Fast Code Programming Challenge! Congrats to Chaoqun and Aiden!
+[Mar. 2025] : Our team achieved the #7-th place for BFS, and #4-th place for SSSP (out of 46 registrations) in 2025 PPoPP Fast Code Programming Challenge! Congrats to Chaoqun and Aiden!
 
 [Jan. 2025] : Our BINGO paper of Random Walk on Dynamic Graphs is accepted to EuroSys '25. Congrast to Pinhuan, Dr. Hang Liu, and other collaborators!
 
