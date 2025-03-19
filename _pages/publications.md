@@ -16,12 +16,12 @@ Pinhuan Wang, Chengying Huan, Zhibin Wang, Chen Tian, <strong>Yuede Ji</strong>,
 
 * Adaptive Optimizations for Parallel Single-Source Shortest Paths.[[PDF]](./25_FCPC_SSSP.pdf)<br/>
 <u>Runbang Hu</u>, <u>Chaoqun Li</u>, Xiaojiang Du, <strong>Yuede Ji</strong><br/>
-<strong>[FCPC \'25]</strong>, FastCode Programming Challenge (FCPC \’25), Co-hosted with PPoPP 2025.
+<strong>[FCPC \'25]</strong>, FastCode Programming Challenge (FCPC \'25), Co-hosted with PPoPP 2025.<br/>
 <strong>Ranked \#4</strong>
 
 * Optimized Parallel Breadth-First Search with Adaptive Strategies.[[PDF]](./25_FCPC_BFS.pdf)<br/>
 <u>Chaoqun Li</u>, <u>Runbang Hu</u>, Xiaojiang Du, <strong>Yuede Ji</strong><br/>
-<strong>[FCPC \'25]</strong>, FastCode Programming Challenge (FCPC \’25), Co-hosted with PPoPP 2025.
+<strong>[FCPC \'25]</strong>, FastCode Programming Challenge (FCPC \'25), Co-hosted with PPoPP 2025.<br/>
 <strong>Ranked \#7</strong>
 
 
