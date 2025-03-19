@@ -14,12 +14,12 @@ The students advised by me are <u>underlined</u>.
 Pinhuan Wang, Chengying Huan, Zhibin Wang, Chen Tian, <strong>Yuede Ji</strong>, Hang Liu<br/>
 <strong>[EuroSys \'25]</strong>, ACM EuroSys 2025<br/>
 
-* Adaptive Optimizations for Parallel Single-Source Shortest Paths.<br/>
+* Adaptive Optimizations for Parallel Single-Source Shortest Paths.[[PDF]](./25_FCPC_SSSP.pdf)<br/>
 <u>Runbang Hu</u>, <u>Chaoqun Li</u>, Xiaojiang Du, <strong>Yuede Ji</strong><br/>
 <strong>[FCPC \'25]</strong>, FastCode Programming Challenge (FCPC \’25), Co-hosted with PPoPP 2025.
 <strong>Ranked \#4</strong>
 
-* Optimized Parallel Breadth-First Search with Adaptive Strategies.<br/>
+* Optimized Parallel Breadth-First Search with Adaptive Strategies.[[PDF]](./25_FCPC_BFS.pdf)<br/>
 <u>Chaoqun Li</u>, <u>Runbang Hu</u>, Xiaojiang Du, <strong>Yuede Ji</strong><br/>
 <strong>[FCPC \'25]</strong>, FastCode Programming Challenge (FCPC \’25), Co-hosted with PPoPP 2025.
 <strong>Ranked \#7</strong>
@@ -31,7 +31,7 @@ Pinhuan Wang, Chengying Huan, Zhibin Wang, Chen Tian, <strong>Yuede Ji</strong>,
 Haojie He, Xingwei Lin, Ziang Weng, Ruijie Zhao, Shuitao Gan, Libo Chen, <strong>Yuede Ji</strong>, Jiashui Wang, Zhi Xue<br/>
 <strong>[USENIX Security \'24]</strong>, The 33rd USENIX Security Symposium<br/>
 
-* CloudCover: Enforcement of Multi-Hop Network Connections in Microservice Deployments.<br/>
+* CloudCover: Enforcement of Multi-Hop Network Connections in Microservice Deployments.[[PDF]](./24_ACSAC_CloudCover.pdf)[[Slides]](https://www.acsac.org/2024/files/web/slides/brucker-hahn-219-cloudcover.pptx)<br/>
 Dalton A. Brucker-Hahn, <u>Wang Feng</u>, <u>Shanchao Li</u>, Matthew Petillo, Alexandru G. Bardas, Drew Davidson, <strong>Yuede Ji</strong><br/>
 <strong>[ACSAC \'24]</strong>, The 40th Annual Computer Security Applications Conference (ACSAC)<br/>
 
