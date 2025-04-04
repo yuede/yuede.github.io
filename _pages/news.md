@@ -4,6 +4,34 @@ layout: archive
 title: "News"
 author_profile: true
 ---
+[Mar. 2025] : Our team is ranked <strong>#7 for BFS</strong>, and <strong>#4 for SSSP</strong> (out of 46 registrations) in 2025 PPoPP Fast Code Programming Challenge! Congrats to Chaoqun and Aiden!
+
+[Feb. 2025] : We successfully organized a workshop in OurCS@DFW on Hands-on Introduction to Graph Neural Networks, where multiple high school and undergraduate students attended it.
+
+[Jan. 2025] : Our BINGO paper of Random Walk on Dynamic Graphs is accepted to EuroSys '25. Congrast to Pinhuan, Dr. Hang Liu, and other collaborators!
+
+[Dec. 2024] : Dr. Ji is awarded the Best Editor Award of 2024 for IEEE Open Journal of Communications Society (OJCOMS).
+
+[Nov. 2024] : Dr. Ji is invited to serve as a Program Committee Track Chair (Algorithm and Software Track) of the IEEE Cloud Summit 2025. 
+
+[Nov. 2024] : At SC 2024, Dr. Ji is invited to give a talk on "Advancing Graph AI: Tackling Efficiency, Application, and Explainability" at the [MLG-HPCE Workshop](https://sc24.conference-program.com/session/?sess=sess741).
+
+[Oct. 2024] : Dr. Ji is invited to give a talk on Graph AI at the Biology Seminar in Texas Christian University (TCU).
+
+[Sep. 2024] : Our paper on microservice security is accepted to ACSAC '24. Congrats to the team!
+
+[Aug. 2024] : Our proposal on [An Accelerated Computation Architecture for State Transition Representation and Applications](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2409211&HistoricalAwards=false) is funded by <strong>NSF SHF Core (Small) Program</strong> (Lead PI). Thanks NSF!
+
+[Aug. 2024] : Our lab has moved to the [University of Texas at Arlington](https://www.uta.edu/)! I will miss the great days and people at UNT!
+
+[Jul. 2024] : Our paper on malware detection with graph AI technique is accepted to IEEE Transactions on Software Engineering (TSE). Congrats to the team!
+
+[Jun. 2024] : Our proposal on [Secure Machine Learning Inference in IoT-driven Analytical Scientific Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2419843) is funded by <strong>NSF CICI program</strong> (Co-PI, PI: [Prof. Ruimin Sun](https://www.ruiminsun.com/)). Thanks NSF!
+
+[May. 2024] : Congrats to Victor and Donavon (TAMS students) for starting their undergraduate study at <strong>UT Austin</strong> and <strong>Purdue</strong>, respectively! Best wishes!
+
+[Mar. 2024] : We have been issued a U.S. Patent titled "Binary Code Similarity Detection System".
+
 [Feb. 2024] : Our paper on computing Graph Neural Networks (GNNs) on GPUs is accepted to ACM TOPC. Congrats to the team!
 
 [Jan. 2024] : Our paper on smart home IoT system security collaborating with Dr. Xiaojiang Du has been accepted to ICC 2024. Congrats to the team!
