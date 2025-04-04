@@ -15,6 +15,7 @@ author_profile: true
     * Xiao Hu (BS, Miami Univerity; MS, University at Buffalo)
     * Emmanuel Emakhue Oseghale (BE, University of Benin)
     * Nagmat Nazarov (BS, Oguzkhan Technological University; MS, Seoul National University)
+    * Fadul Sikder (Co-advised with Prof. Jeff Lei)
 
 * **Master Students**
     * Yasmeen Haleem, UNT
