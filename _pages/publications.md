@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications (Full List)"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-The students advised by me are <u>underlined</u>.
+The students advised by me are <u>underlined</u>. Full publications can be found [here](./publications_full.md)
 * <strong>[EuroSys \'25]</strong> BINGO: Radix-based Bias Factorization for Random Walk on Dynamic Graphs.<br/>
 Pinhuan Wang, Chengying Huan, Zhibin Wang, Chen Tian, <strong>Yuede Ji</strong>, Hang Liu<br/>
 ACM EuroSys 2025

@@ -14,6 +14,10 @@ The students advised by me are <u>underlined</u>.
 Pinhuan Wang, Chengying Huan, Zhibin Wang, Chen Tian, <strong>Yuede Ji</strong>, Hang Liu<br/>
 <strong>[EuroSys \'25]</strong>, ACM EuroSys 2025<br/>
 
+* A Secret Sharing-Inspired Robust Distributed Backdoor Attack to Federated Learning.<br/>
+Yuxin Yang, Qiang Li, <strong>Yuede Ji</strong>, Binghui Wang<br/>
+<strong>ACM Transactions on Privacy and Security</strong>
+
 * Adaptive Optimizations for Parallel Single-Source Shortest Paths.[[PDF]](./25_FCPC_SSSP.pdf)<br/>
 <u>Runbang Hu</u>, <u>Chaoqun Li</u>, Xiaojiang Du, <strong>Yuede Ji</strong><br/>
 <strong>[FCPC \'25]</strong>, FastCode Programming Challenge (FCPC \'25), Co-hosted with PPoPP 2025.<br/>
