@@ -14,6 +14,10 @@ The students advised by me are <u>underlined</u>.
 Pinhuan Wang, Chengying Huan, Zhibin Wang, Chen Tian, <strong>Yuede Ji</strong>, Hang Liu<br/>
 <strong>[EuroSys \'25]</strong>, ACM EuroSys 2025<br/>
 
+* High-Performance Computing for Graph AI: A Top-Down Perspective.[[PDF]](https://tcpp.cs.gsu.edu/curriculum/sites/default/files/Edupar101.pdf)<br/>
+<strong>Yuede Ji</strong>
+<strong>[EduPar \'25]</strong>, 15th NSF/TCPP Workshop on Parallel and Distributed Computing Education
+
 * A Secret Sharing-Inspired Robust Distributed Backdoor Attack to Federated Learning.<br/>
 Yuxin Yang, Qiang Li, <strong>Yuede Ji</strong>, Binghui Wang<br/>
 <strong>ACM Transactions on Privacy and Security</strong>

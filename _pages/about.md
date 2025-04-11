@@ -31,6 +31,8 @@ News
 
 [Mar. 2025] : Our team is ranked <strong>#7 for BFS</strong>, and <strong>#4 for SSSP</strong> (out of 46 registrations) in 2025 PPoPP Fast Code Programming Challenge! Congrats to Chaoqun and Aiden!
 
+[Feb. 2025] : Our paper on High-Performance Computing for Graph AI: A Top-Down Perspective has been accepted to EduPar '25!
+
 [Feb. 2025] : We successfully organized a workshop in OurCS@DFW on Hands-on Introduction to Graph Neural Networks, where multiple high school and undergraduate students attended it.
 
 [Jan. 2025] : Our BINGO paper of Random Walk on Dynamic Graphs is accepted to EuroSys '25. Congrast to Pinhuan, Dr. Hang Liu, and other collaborators!
