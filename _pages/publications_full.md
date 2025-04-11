@@ -15,7 +15,7 @@ Pinhuan Wang, Chengying Huan, Zhibin Wang, Chen Tian, <strong>Yuede Ji</strong>,
 <strong>[EuroSys \'25]</strong>, ACM EuroSys 2025<br/>
 
 * High-Performance Computing for Graph AI: A Top-Down Perspective.[[PDF]](https://tcpp.cs.gsu.edu/curriculum/sites/default/files/Edupar101.pdf)<br/>
-<strong>Yuede Ji</strong>
+<strong>Yuede Ji</strong><br/>
 <strong>[EduPar \'25]</strong>, 15th NSF/TCPP Workshop on Parallel and Distributed Computing Education
 
 * A Secret Sharing-Inspired Robust Distributed Backdoor Attack to Federated Learning.<br/>
