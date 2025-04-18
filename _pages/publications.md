@@ -8,7 +8,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-Full publications can be found [here.](./publications_full.md) The students advised by me are <u>underlined</u>. 
+Here is the [full publication list.](./publications_full.md) The students advised by me are <u>underlined</u>. 
 
 * <strong>[EuroSys \'25]</strong> BINGO: Radix-based Bias Factorization for Random Walk on Dynamic Graphs.<br/>
 Pinhuan Wang, Chengying Huan, Zhibin Wang, Chen Tian, <strong>Yuede Ji</strong>, Hang Liu<br/>
