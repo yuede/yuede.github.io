@@ -11,6 +11,7 @@ author_profile: true
     * Mohammad Shahedur Rahman (BS, BUET; MS, Bangladesh University of Professionals)
     * Runbang (Aiden) Hu (BS, Tsinghua University; MS, Stevens Institute of Technology)
     * Joseph Caldwell (BS/MS, University of North Texas)
+        * <strong>Maverick Doctoral Bridge Fellowship, 2025</strong> 
     * Chaoqun Li (BS, Zhengzhou University)
     * Xiao Hu (BS, Miami Univerity; MS, University at Buffalo)
     * Emmanuel Emakhue Oseghale (BE, University of Benin)

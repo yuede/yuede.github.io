@@ -26,8 +26,11 @@ According to CS ranking, UT Arlington is ranked <strong>12th</strong> among all 
 
 News
 ======
+[May 2025] : Congrats to PhD student Joe for receiving the <strong>Maverick Doctoral Bridge Fellowship</strong> from UTA! This fellowship will provide 2-year (including summer) GRA, tuition, and benefits, worthing more than $50,400.
 
 [Apr. 2025] : Congrats to PhD student Shahed for being awarded the UTA CSE TA of The Month Award, well deserved!
+
+[Mar. 2025] : Our paper on applying LLMs for smart contract vulnerability detection has been accepted to PROMISE 2025! Congrats to Fadul!
 
 [Mar. 2025] : Our team is ranked <strong>#7 for BFS</strong>, and <strong>#4 for SSSP</strong> (out of 46 registrations) in 2025 PPoPP Fast Code Programming Challenge! Congrats to Chaoqun and Aiden!
 
