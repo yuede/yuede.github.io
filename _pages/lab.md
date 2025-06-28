@@ -23,10 +23,10 @@ author_profile: true
 
 * **Alumni**
     * Boxiang Guo (MS) &rarr; Software Engineer at Mitchell International
-    * Lillian Wang (UNT TAMS) &rarr; MIT (Undergraduate)
-    * Avik Malladi (UNT TAMS) &rarr; UT Austin (Undergraduate)
-    * Chotepong Victor Tangton (UNT TAMS) &rarr; UT Austin (Undergraduate)
-    * Donavon Zhang (UNT TAMS) &rarr; Purdue University (Undergraduate)
+    * Lillian Wang (Texas Academy of Mathematics and Science, TAMS) &rarr; MIT (Undergraduate)
+    * Avik Malladi (TAMS) &rarr; UT Austin (Undergraduate)
+    * Chotepong Victor Tangton (TAMS) &rarr; UT Austin (Undergraduate)
+    * Donavon Zhang (TAMS) &rarr; Purdue University (Undergraduate)
 
 <img src="../images/lab-pic-06-21-2023.jpeg"
      alt="Markdown Monster icon"
