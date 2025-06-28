@@ -8,10 +8,10 @@ author_profile: true
 <strong>Graph-Centric Security, Learning, and Computing</strong>
 
 * **PhD Students**
-    * Mohammad Shahedur Rahman (BS, BUET; MS, Bangladesh University of Professionals)
     * Runbang (Aiden) Hu (BS, Tsinghua University; MS, Stevens Institute of Technology)
     * Joseph Caldwell (BS/MS, University of North Texas)
         * <strong>Maverick Doctoral Bridge Fellowship, 2025</strong> 
+    * Mohammad Shahedur Rahman (BS, BUET; MS, Bangladesh University of Professionals)
     * Chaoqun Li (BS, Zhengzhou University)
     * Emmanuel Emakhue Oseghale (BE, University of Benin)
     * Nagmat Nazarov (BS, Oguzkhan Technological University; MS, Seoul National University)
