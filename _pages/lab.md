@@ -13,10 +13,13 @@ author_profile: true
     * Joseph Caldwell (BS/MS, University of North Texas)
         * <strong>Maverick Doctoral Bridge Fellowship, 2025</strong> 
     * Chaoqun Li (BS, Zhengzhou University)
-    * Xiao Hu (BS, Miami Univerity; MS, University at Buffalo)
     * Emmanuel Emakhue Oseghale (BE, University of Benin)
     * Nagmat Nazarov (BS, Oguzkhan Technological University; MS, Seoul National University)
     * Fadul Sikder (Co-advised with Prof. Jeff Lei)
+
+* **Undergraduate Students**
+    * Jerry Chen (University of Southern California)
+    * Jakub Michal Wojtowicz (UTA)
 
 * **Alumni**
     * Boxiang Guo (MS) &rarr; Software Engineer at Mitchell International
