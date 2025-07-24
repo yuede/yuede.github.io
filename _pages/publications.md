@@ -10,6 +10,10 @@ author_profile: true
 
 The students advised by me are <u>underlined</u>.
 ### 2025
+* HuggingGraph: Understanding the Supply Chain of LLM Ecosystem. [[PDF]](https://arxiv.org/pdf/2507.14240)<br/>
+<u>Mohammad Shahedur Rahman</u>, <u>Runbang Hu</u>, Peng Gao, <strong>Yuede Ji</strong><br/>
+arXiv 2025<br/>
+
 * BINGO: Radix-based Bias Factorization for Random Walk on Dynamic Graphs.[[PDF]](https://dl.acm.org/doi/10.1145/3689031.3717456)<br/>
 Pinhuan Wang, Chengying Huan, Zhibin Wang, Chen Tian, <strong>Yuede Ji</strong>, Hang Liu<br/>
 <strong>[EuroSys \'25]</strong>, ACM EuroSys 2025<br/>
