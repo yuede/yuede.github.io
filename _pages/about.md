@@ -26,7 +26,7 @@ According to CS ranking, UT Arlington is ranked <strong>12th</strong> among all 
 
 News
 ======
-[Jul. 2025] : Our first paper on AI Supply Chain is publically available [here](https://arxiv.org/pdf/2507.14240)! Congrats to Fadul!
+[Jul. 2025] : Our first paper on AI Supply Chain is publically available [here](https://arxiv.org/pdf/2507.14240)! A very exciting area!
 
 [May 2025] : Congrats to PhD student Joe for receiving the <strong>Maverick Doctoral Bridge Fellowship</strong> from UTA! This fellowship will provide 2-year (including summer) GRA, tuition, and benefits, worthing more than $50,400.
 
