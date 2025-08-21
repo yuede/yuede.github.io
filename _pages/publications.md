@@ -12,14 +12,14 @@ The students advised by me are <u>underlined</u>.
 ### 2025
 * HuggingGraph: Understanding the Supply Chain of LLM Ecosystem. [[PDF]](https://arxiv.org/pdf/2507.14240)<br/>
 <u>Mohammad Shahedur Rahman</u>, Peng Gao, <strong>Yuede Ji</strong><br/>
-<strong>[CIKM \'25]</strong>, 34th ACM International Conference on Information and Knowledge Management (CIKM)<br/>
+<strong>[CIKM \'25]</strong>, 34th ACM International Conference on Information and Knowledge Management (CIKM), 2025<br/>
 
 * BINGO: Radix-based Bias Factorization for Random Walk on Dynamic Graphs.[[PDF]](https://dl.acm.org/doi/10.1145/3689031.3717456)<br/>
 Pinhuan Wang, Chengying Huan, Zhibin Wang, Chen Tian, <strong>Yuede Ji</strong>, Hang Liu<br/>
 <strong>[EuroSys \'25]</strong>, ACM EuroSys 2025<br/>
 
 * Container Image Security in HPC: A Comprehensive Large-Scale Evaluation[[PDF]](./)<br/>
-<u>Emmanuel Oseghale</u>, <u>Yang Cheng</u>, </u>Shanchao Li</u>, <u>Donovan Zhang</u>, Seung-Hwam Lim, Zechun Cao, Xing Gao, and <strong>Yuede Ji</strong><br/> 
+<u>Emmanuel Oseghale</u>, <u>Yang Cheng</u>, <u>Shanchao Li</u>, <u>Donovan Zhang</u>, Seung-Hwam Lim, Zechun Cao, Xing Gao, and <strong>Yuede Ji</strong><br/> 
 <strong>[Cloud Summit \'25]</strong>, IEEE Cloud Summit 2025<br/>
 
 * High-Performance Computing for Graph AI: A Top-Down Perspective.[[PDF]](https://tcpp.cs.gsu.edu/curriculum/sites/default/files/Edupar101.pdf)<br/>
