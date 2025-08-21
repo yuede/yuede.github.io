@@ -14,7 +14,7 @@ Graph is an important data representation used in many applications, such as con
 
 This project aims to design scalable graph analytics techniques and systems to both speed up the computation and scale up the accommodated graph size and count. A recent focus is on <strong> graph AI</strong>.
 
-<span style="color:blue">Publications</span>: [Bing [EuroSys \'25]](.), [PeeK [SC \'23]](.), [Tango [SC \'23]](.), [TLPGNN [HPDC \'22]](../files/22_hpdc_TLPGNN.pdf), [Aquila [HPDC \'20]](../files/20_HPDC_Aquila.pdf), [iSpan [SC \'18]](../files/18_SC_iSpan.pdf)
+<span style="color:blue">Publications</span>: [HuggingGraph [CIKM \'25]](.), [BINGO [EuroSys \'25]](.), [PeeK [SC \'23]](.), [Tango [SC \'23]](.), [TLPGNN [HPDC \'22]](../files/22_hpdc_TLPGNN.pdf), [Aquila [HPDC \'20]](../files/20_HPDC_Aquila.pdf), [iSpan [SC \'18]](../files/18_SC_iSpan.pdf)
 
 <span style="color:orange">Fundings</span>: [NSF SHF 2331301](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331301&HistoricalAwards=false), 
 [NSF SHF 2508118](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2508118&HistoricalAwards=false)
@@ -29,7 +29,7 @@ This project aims to greatly improve the security of the computing devices by
 (1) investigating the potential attack surfaces that can cause serious damage;
 (2) enhancing the fundamental techniques used in existing vulnerability detection methods.
 
-<span style="color:blue">Publications</span>: [CloudCover [ACSAC \'24]](./), [HermesSim [USENIX Security \'24]](./), [API2Vec [ISSTA \'23]](.), [Illuminati [EuroS&P \'22]](../files/22_EuroSP_Illuminati.pdf), [DEFInit [USENIX Security \'21]](https://www.usenix.org/conference/usenixsecurity21/presentation/ji), [BugGraph [AsiaCCS \'21]](../files/21_AsiaCCS_BugGraph.pdf), [APT detection [RAID \'20]](../files/20_RAID_lateral_movement.pdf)
+<span style="color:blue">Publications</span>: [Image Security [Cloud Summit \'25]](./), [CloudCover [ACSAC \'24]](./), [HermesSim [USENIX Security \'24]](./), [API2Vec [ISSTA \'23]](.), [Illuminati [EuroS&P \'22]](../files/22_EuroSP_Illuminati.pdf), [DEFInit [USENIX Security \'21]](https://www.usenix.org/conference/usenixsecurity21/presentation/ji), [BugGraph [AsiaCCS \'21]](../files/21_AsiaCCS_BugGraph.pdf), [APT detection [RAID \'20]](../files/20_RAID_lateral_movement.pdf)
 
 <span style="color:orange">Fundings</span>: [NSF OAC 2516003](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2516003&HistoricalAwards=false), [NSF OAC 2419843](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2419843)
 
