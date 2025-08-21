@@ -14,8 +14,11 @@ author_profile: true
     * Mohammad Shahedur Rahman (BS, BUET; MS, Bangladesh University of Professionals)
     * Chaoqun Li (BS, Zhengzhou University)
     * Emmanuel Emakhue Oseghale (BE, University of Benin)
+    * Sijia Zhong (BS, North China Electric Power University; MS, Northeastern University, US)
     * Nagmat Nazarov (BS, Oguzkhan Technological University; MS, Seoul National University)
     * Fadul Sikder (Co-advised with Prof. Jeff Lei)
+    * Saif Uddin Mahmud (Co-advised with Prof. Jeff Lei)
+    * Jian Xu (Co-advised with Prof. Miao Yin)
 
 * **Undergraduate Students**
     * Jerry Chen (University of Southern California)
