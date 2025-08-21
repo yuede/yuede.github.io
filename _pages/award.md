@@ -4,6 +4,7 @@ title: "Selected Awards"
 permalink: /award/
 author_profile: true
 ---
+* <strong>IEEE CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing</strong> 2025
 * <strong>Excellent Reviewer</strong> for ACM KDD 2025
 * <strong>Best Editor Award</strong> for 2024 at IEEE Open Journal of Communications Society (OJCOMS), 2024
 * <strong>CSE nomination</strong> for [College of Engineering Junior Faculty Research Award](https://engineering.unt.edu/sites/default/files/CENG_Junior_Faculty_Research_Award.pdf), UNT, 2024

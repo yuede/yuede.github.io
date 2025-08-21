@@ -18,6 +18,10 @@ The students advised by me are <u>underlined</u>.
 Pinhuan Wang, Chengying Huan, Zhibin Wang, Chen Tian, <strong>Yuede Ji</strong>, Hang Liu<br/>
 <strong>[EuroSys \'25]</strong>, ACM EuroSys 2025<br/>
 
+* Container Image Security in HPC: A Comprehensive Large-Scale Evaluation[[PDF]](./)<br/>
+<u>Emmanuel Oseghale</u>, <u>Yang Cheng</u>, </u>Shanchao Li</u>, <u>Donovan Zhang</u>, Seung-Hwam Lim, Zechun Cao, Xing Gao, and <strong>Yuede Ji</strong><br/> 
+<strong>[Cloud Summit \'25]</strong>, IEEE Cloud Summit 2025<br/>
+
 * High-Performance Computing for Graph AI: A Top-Down Perspective.[[PDF]](https://tcpp.cs.gsu.edu/curriculum/sites/default/files/Edupar101.pdf)<br/>
 <strong>Yuede Ji</strong><br/>
 <strong>[EduPar \'25]</strong>, 15th NSF/TCPP Workshop on Parallel and Distributed Computing Education.
