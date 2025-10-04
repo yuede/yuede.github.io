@@ -26,7 +26,10 @@ According to CS ranking, UT Arlington is ranked <strong>12th</strong> among all 
 
 News
 ======
-[Aug. 2025] : Our first paper on AI Supply Chain has been accepted to CIKM 2025 ([arXiv version](https://arxiv.org/pdf/2507.14240))! A very exciting area!
+
+[Oct. 2025] : I am very honored to receive the 2025 <strong>IEEE CS TCHPC Early Career Researchers Award For Excellence in High Performance Computing</strong>. Truly appreciate the recognition from the community! [[Announcement](https://tc.computer.org/tchpc/2025/09/30/2025-ieee-cs-tchpc-ecr-award-winners/)]
+
+[Aug. 2025] : Our first paper on AI Supply Chain has been accepted to CIKM 2025 ([PDF](https://arxiv.org/pdf/2507.14240)) and a [demonstration website](https://ai-supply-chain.github.io/)! A very exciting area!
 
 [May 2025] : An invited paper on container image security is accepted to IEEE Cloud Summit '25. 
 
