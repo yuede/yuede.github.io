@@ -28,8 +28,8 @@ author_profile: true
     <div>
     <strong>Joseph Caldwell</strong>
     <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
-      <li style="margin:0;"><small>BS, University of North Texas</small></li>
-      <li style="margin:0;"><small>MS, University of North Texas</small></li>
+      <li style="margin:0;"><small>BS, U. of North Texas</small></li>
+      <li style="margin:0;"><small>MS, U. of North Texas</small></li>
       <li style="margin:0;"><small><em>UTA Maverick Doctoral Bridge Fellowship, 2025</em></small></li>
     </ul>
     </div>
