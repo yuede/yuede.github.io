@@ -14,7 +14,13 @@ author_profile: true
 
   <div style="text-align:center;">
     <img src="../images/Runbang.jpeg" alt="Runbang (Aiden) Hu" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
-    <div><strong>Runbang (Aiden) Hu</strong><br/><small>BS Tsinghua; MS Stevens</small></div>
+    <div>
+    <strong>Runbang (Aiden) Hu</strong>
+    <ul style="list-style:disc;margin:6px auto 0;padding-left:18px;text-align:left;display:inline-block;">
+      <li><small>BS, Tsinghua University</small></li>
+      <li><small>MS, Stevens Institute of Technology</small></li>
+    </ul>
+    </div>
   </div>
 
   <div style="text-align:center;">
@@ -64,6 +70,7 @@ author_profile: true
     * Jakub Michal Wojtowicz (UTA)
 
 * **Alumni**
+    * Nagmat Nazarov (MS) &rarr; Software Engineer at JPMorgan Chase \& Co
     * Boxiang Guo (MS) &rarr; Software Engineer at Mitchell International
     * Lillian Wang (Texas Academy of Mathematics and Science, TAMS) &rarr; MIT (Undergraduate)
     * Avik Malladi (TAMS) &rarr; UT Austin (Undergraduate)
