@@ -39,9 +39,8 @@ author_profile: true
     <img src="../images/Shahed.JPG" alt="Mohammad Shahedur Rahman" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
     <div><strong>Mohammad Shahedur Rahman</strong>
     <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
-      <li style="margin:0;"><small>BS, Bangladesh University of Engineering and Technology</small></li>
+      <li style="margin:0;"><small>BS, BUET</small></li>
       <li style="margin:0;"><small>MS, Bangladesh University of Professionals</small></li>
-      <li style="margin:0;"><small><em>UTA Maverick Doctoral Bridge Fellowship, 2025</em></small></li>
     </ul>
     </div>
   </div>
@@ -78,9 +77,11 @@ author_profile: true
   <div style="text-align:center;">
     <img src="../images/jianxu.png" alt="Jian Xu" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
     <div><strong>Jian Xu</strong><br/><small>Co-advised with Prof. Miao Yin</small></div>
+    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
       <li style="margin:0;"><small>BS, Nanchang University</small></li>
       <li style="margin:0;"><small>MS, UESTC</small></li>
       <li style="margin:0;"><small>Ex-Software Engineer, Alibaba Inc.</small></li>
+    </ul>
   </div>
 
   <div style="text-align:center;">
