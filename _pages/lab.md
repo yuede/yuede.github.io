@@ -30,29 +30,57 @@ author_profile: true
     <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
       <li style="margin:0;"><small>BS, University of North Texas</small></li>
       <li style="margin:0;"><small>MS, University of North Texas</small></li>
-      <li style="margin:0;"><small><em>Maverick Doctoral Bridge Fellowship, 2025</em></small></li>
+      <li style="margin:0;"><small><em>UTA Maverick Doctoral Bridge Fellowship, 2025</em></small></li>
     </ul>
     </div>
   </div>
 
   <div style="text-align:center;">
     <img src="../images/Shahed.JPG" alt="Mohammad Shahedur Rahman" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
-    <div><strong>Mohammad Shahedur Rahman</strong><br/><small>BS BUET; MS BUP</small></div>
+    <div><strong>Mohammad Shahedur Rahman</strong>
+    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
+      <li style="margin:0;"><small>BS, Bangladesh University of Engineering and Technology</small></li>
+      <li style="margin:0;"><small>MS, Bangladesh University of Professionals</small></li>
+      <li style="margin:0;"><small><em>UTA Maverick Doctoral Bridge Fellowship, 2025</em></small></li>
+    </ul>
+    </div>
   </div>
 
   <div style="text-align:center;">
     <img src="../images/Chaoqun.jpeg" alt="Chaoqun Li" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
-    <div><strong>Chaoqun Li</strong><br/><small>BS Zhengzhou University</small></div>
+    <div><strong>Chaoqun Li</strong><br/>
+    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
+      <li style="margin:0;"><small>BS, Zhengzhou University</small></li>
+      <li style="margin:0;"><small>Ex-Software Engineer, MediaTek Inc</small></li>
+    </ul>
+    </div>
   </div>
 
   <div style="text-align:center;">
     <img src="../images/Emmanuel.JPEG" alt="Emmanuel Emakhue Oseghale" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
-    <div><strong>Emmanuel Emakhue Oseghale</strong><br/><small>BE University of Benin</small></div>
+    <div><strong>Emmanuel Emakhue Oseghale</strong><br/>
+    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
+      <li style="margin:0;"><small>BE, University of Benin</small></li>
+    </ul>
+    </div>
   </div>
 
   <div style="text-align:center;">
     <img src="../images/placeholder.png" alt="Sijia Zhong" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
-    <div><strong>Sijia Zhong</strong><br/><small>BS NCEPU; MS Northeastern (US)</small></div>
+    <div><strong>Sijia Zhong</strong><br/>
+    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
+      <li style="margin:0;"><small>BS, NCEPU</small></li>
+      <li style="margin:0;"><small>MS, Northeastern University (US)</small></li>
+    </ul>
+    </div>
+  </div>
+
+  <div style="text-align:center;">
+    <img src="../images/jianxu.png" alt="Jian Xu" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
+    <div><strong>Jian Xu</strong><br/><small>Co-advised with Prof. Miao Yin</small></div>
+      <li style="margin:0;"><small>BS, Nanchang University</small></li>
+      <li style="margin:0;"><small>MS, UESTC</small></li>
+      <li style="margin:0;"><small>Ex-Software Engineer, Alibaba Inc.</small></li>
   </div>
 
   <div style="text-align:center;">
@@ -65,10 +93,6 @@ author_profile: true
     <div><strong>Saif Uddin Mahmud</strong><br/><small>Co-advised with Prof. Jeff Lei</small></div>
   </div>
 
-  <div style="text-align:center;">
-    <img src="../images/placeholder.png" alt="Jian Xu" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
-    <div><strong>Jian Xu</strong><br/><small>Co-advised with Prof. Miao Yin</small></div>
-  </div>
 
 </div>
 
