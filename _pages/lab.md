@@ -87,11 +87,18 @@ author_profile: true
   <div style="text-align:center;">
     <img src="../images/Fadul.jpg" alt="Fadul Sikder" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
     <div><strong>Fadul Sikder</strong><br/><small>Co-advised with Prof. Jeff Lei</small></div>
+    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
+      <li style="margin:0;"><small>BS, Jahangirnagar University</small></li>
+    </ul>
   </div>
 
   <div style="text-align:center;">
     <img src="../images/Saif.jpg" alt="Saif Uddin Mahmud" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
     <div><strong>Saif Uddin Mahmud</strong><br/><small>Co-advised with Prof. Jeff Lei</small></div>
+    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
+      <li style="margin:0;"><small>BS, University of Dhaka</small></li>
+      <li style="margin:0;"><small>MS, UT at El Paso</small></li>
+    </ul>
   </div>
 
 
