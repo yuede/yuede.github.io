@@ -84,12 +84,12 @@ author_profile: true
   </div>
 
   <div style="text-align:center;">
-    <img src="../images/placeholder.png" alt="Fadul Sikder" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
+    <img src="../images/Fadul.jpg" alt="Fadul Sikder" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
     <div><strong>Fadul Sikder</strong><br/><small>Co-advised with Prof. Jeff Lei</small></div>
   </div>
 
   <div style="text-align:center;">
-    <img src="../images/placeholder.png" alt="Saif Uddin Mahmud" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
+    <img src="../images/Saif.jpg" alt="Saif Uddin Mahmud" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
     <div><strong>Saif Uddin Mahmud</strong><br/><small>Co-advised with Prof. Jeff Lei</small></div>
   </div>
 
@@ -101,7 +101,7 @@ author_profile: true
     * Jakub Michal Wojtowicz (UTA)
 
 * **Alumni**
-    * Nagmat Nazarov (MS) &rarr; Software Engineer at JPMorgan Chase \& Co
+    * Nagmat Nazarov (MS) &rarr; Software Engineer at JPMorgan Chase & Co
     * Boxiang Guo (MS) &rarr; Software Engineer at Mitchell International
     * Lillian Wang (Texas Academy of Mathematics and Science, TAMS) &rarr; MIT (Undergraduate)
     * Avik Malladi (TAMS) &rarr; UT Austin (Undergraduate)
