@@ -101,6 +101,15 @@ author_profile: true
     </ul>
   </div>
 
+  <div style="text-align:center;">
+    <img src="../images/placeholder.png" alt="You" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
+    <div><strong>You?</strong><br/>
+    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
+      <li style="margin:0;"><small>...</small></li>
+    </ul>
+    </div>
+  </div>
+
 
 </div>
 
