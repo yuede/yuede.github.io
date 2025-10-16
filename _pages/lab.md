@@ -16,7 +16,7 @@ author_profile: true
     <img src="../images/Runbang.jpeg" alt="Runbang (Aiden) Hu" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
     <div>
     <strong>Runbang (Aiden) Hu</strong>
-    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.2;">
+    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
       <li style="margin:0;"><small>BS, Tsinghua University</small></li>
       <li style="margin:0;"><small>MS, Stevens Institute of Technology</small></li>
     </ul>
@@ -25,7 +25,14 @@ author_profile: true
 
   <div style="text-align:center;">
     <img src="../images/Joe.PNG" alt="Joseph Caldwell" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
-    <div><strong>Joseph Caldwell</strong><br/><small>BS/MS UNT · <em>Maverick Doctoral Bridge Fellowship, 2025</em></small></div>
+    <div>
+    <strong>Joseph Caldwell</strong>
+    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
+      <li style="margin:0;"><small>BS, University of North Texas</small></li>
+      <li style="margin:0;"><small>MS, University of North Texas</small></li>
+      <li style="margin:0;"><small><em>Maverick Doctoral Bridge Fellowship, 2025</em></small></li>
+    </ul>
+    </div>
   </div>
 
   <div style="text-align:center;">
