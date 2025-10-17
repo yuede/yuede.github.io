@@ -9,8 +9,28 @@ author_profile: true
 
 ## PhD Students
 
+<style>
+  /* Responsive grid: 2 → 3 → 4 columns */
+  .students-grid{
+    display:grid;
+    gap:18px;
+    align-items:start;
+    margin:12px 0 28px;
+    grid-template-columns:repeat(2,minmax(0,1fr));
+  }
+  @media (min-width:700px){
+    .students-grid{ grid-template-columns:repeat(3,minmax(0,1fr)); }
+  }
+  @media (min-width:1000px){
+    .students-grid{ grid-template-columns:repeat(4,minmax(0,1fr)); }
+  }
+</style>
+
+
 <!-- Put headshots in /images/students/ with the filenames below (or rename) -->
-<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:18px;align-items:start;margin:12px 0 28px;">
+<!-- <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:18px;align-items:start;margin:12px 0 28px;"> -->
+
+<div class="students-grid">
 
   <div style="text-align:center;">
     <img src="../images/Runbang.jpeg" alt="Runbang (Aiden) Hu" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
