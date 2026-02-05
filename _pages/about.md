@@ -27,6 +27,10 @@ According to CS ranking, UT Arlington is ranked <strong>12th</strong> among all 
 News
 ======
 
+[Dec. 2025] : Dr. Ji is invited to serve as a PC member for ICS and ICDCS.
+
+[Nov. 2025] : Dr. Ji served as a session chair in CIKM. 
+
 [Oct. 2025] : I am very honored to receive the 2025 <strong>IEEE CS TCHPC Early Career Researchers Award For Excellence in High Performance Computing</strong>. Truly appreciate the recognition from the community! [[Announcement](https://tc.computer.org/tchpc/2025/09/30/2025-ieee-cs-tchpc-ecr-award-winners/)]
 
 [Aug. 2025] : Our first paper on AI Supply Chain has been accepted to CIKM 2025 ([PDF](https://arxiv.org/pdf/2507.14240)) and a [demonstration website](https://ai-supply-chain.github.io/)! A very exciting area!
