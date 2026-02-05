@@ -9,11 +9,12 @@ author_profile: true
     * Reproducibility Review Board member: IEEE Transactions on Parallel and Distributed Systems (TPDS) 
 
 * **Conference Organizer** 
-    * Program Committee Track Chair: IEEE Cloud Summit 2025
+    * Program Committee Track Chair: IEEE Cloud Summit 2025, 2026
     * Publication Chair: Annual Workshop on Cyber Security in High Performance Computing (S-HPC), 2023, 2024
 
 * **Technical Program Committee**
-    * ICDCS, 2025
+    * ICS, 2026
+    * ICDCS, 2025, 2026
     * IPDPS, 2025
     * ACM HPDC, 2023
     * ISC, 2023
@@ -26,7 +27,7 @@ author_profile: true
     * EuroSys, 2018 (Shadow PC)
 
 * **Reviewer**
-    * KDD, 2025
+    * KDD, 2025, 2026
     * IEEE Transactions on Parallel and Distributed Systems
     * ACM Transactions on Parallel Computing
     * IEEE Transactions on Cloud Computing
@@ -39,6 +40,6 @@ author_profile: true
     * IEEE Access
 
 * **Panel**
-    * NSF 2022 - 2025
+    * NSF 2022 - 2026
     * DOE 2024
 
