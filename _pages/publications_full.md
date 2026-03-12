@@ -86,7 +86,7 @@ Lei Cui<sup>\*</sup>, Jiancong Cui<sup>\*</sup>, <strong>Yuede Ji</strong>, Zhiy
 * Understanding Nationwide Power Outage and Restoration for Future Prediction. [[PDF]](https://osf.io/v9mqb)[[Code]](https://github.com/SC-Lab-Go/SMCDC-EAGLE-I)<br/> 
 <u>Yasmeen Haleem</u>, <u>Isabelle Wagenvoord</u>, <u>Qianjun Wei</u>, Ting Xiao, Tong Shu, and <strong>Yuede Ji</strong><br/>
 <strong>[SMCDC \'23]</strong> 7th Annual Smoky Mountains Computational Sciences Data Challenge (SMCDC)<br/>
-<span style="color:red"><strong>Best Poster Award</strong><span style="color:red">
+<span style="color:red"><strong>Best Poster Award</strong></span>
 
 
 * Exploring Power and Thermal Dynamics in the Summit Supercomputer: A Data Visualization Study.[[PDF]](https://osf.io/afw8t)[[Code]](https://github.com/SC-Lab-Go/SMCDC-HPC-Power)<br/>
@@ -155,7 +155,7 @@ Yukun He, Qiang Li, Jian Cao, <strong>Yuede Ji</strong>, and Dong Guo,<br/>
 <strong>[IJDSN]</strong>, International Journal of Distributed Sensor Networks, 2017.<br/>
 
 * Detection of Forwarding-based Malicious URLs in Online Social Networks. [[PDF]](../files/14_NPC_malicious_url.pdf)<br/>Jian Cao, Qiang Li, <strong>Yuede Ji</strong>, Yukun He, and Dong Guo.<br/><strong>[NPC \'14]</strong>, IFIP International Conference on Network and Parallel Computing,<br/>Invited to journal publication, International Journal of Parallel Programming, 44(1), 163-180, 2016.<br/>
-<span style="color:red"><strong>Best Paper Award</strong><span style="color:red">
+<span style="color:red"><strong>Best Paper Award</strong></span>
 
 * Combating the evasion mechanisms of social bots. [[PDF]](../files/16_CS_social_botnet.pdf)<br/><strong>Yuede Ji</strong>, Yukun He, Xinyang Jiang, Jian Cao, Qiang Li<br/><strong>[Computers & Security]</strong>, Volume 58, Pages 230-249, 2016.<br/>
 
