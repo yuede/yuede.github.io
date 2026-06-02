@@ -27,6 +27,12 @@ According to CS ranking, UT Arlington is ranked <strong>Top-10</strong> among al
 News
 ======
 
+[May. 2026] : Our paper VeriHGN on heterogeneous graph-based congestion prediction for chip layout verification is accepted to KDD '26! Congrats to Runbang and collaborators!
+
+[May. 2026] : Our paper eMicro on real-time multi-hop access control for microservices is accepted to CCS '26! Congrats to the team!
+
+[Apr. 2026] : Two invited papers are accepted to IEEE Cloud Summit '26! Congrats to Chaoqun, Emmanuel, and other team members!
+
 [Dec. 2025] : Dr. Ji is invited to serve as a PC member for ICS and ICDCS.
 
 [Nov. 2025] : Dr. Ji served as a session chair in CIKM. 
