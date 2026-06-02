@@ -10,6 +10,14 @@ author_profile: true
 
 Here is the [full publication list.](./publications_full.md) The students advised by me are <u>underlined</u>. 
 
+* VeriHGN: Heterogeneous Graph-based Congestion Prediction for Chip Layout Verification.<br/>
+<u>Runbang Hu</u>, Bo Fang, Bingzhe Li, <strong>Yuede Ji</strong><br/>
+<strong>[KDD \'26]</strong>, The 2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining<br/>
+
+* eMicro: Real-Time Multi-Hop Access Control for Microservices with eBPF.<br/>
+Rizky Ramadhana Putra Kusnaryanto, Osama Bajaber, Saimon Amanuel Tsegai, Teryl Taylor, Frederico Araujo, <strong>Yuede Ji</strong>, Peng Gao<br/>
+<strong>[CCS \'26]</strong>, ACM Conference on Computer and Communications Security (CCS)<br/>
+
 * HuggingGraph: Understanding the Supply Chain of LLM Ecosystem. [[PDF]](https://arxiv.org/pdf/2507.14240)<br/>
 <u>Mohammad Shahedur Rahman</u>, Peng Gao, <strong>Yuede Ji</strong><br/>
 <strong>[CIKM \'25]</strong>, 34th ACM International Conference on Information and Knowledge Management (CIKM), 2025<br/>

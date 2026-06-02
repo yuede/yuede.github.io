@@ -9,6 +9,23 @@ author_profile: true
 {% endif %}
 
 The students advised by me are <u>underlined</u>.
+### 2026
+* VeriHGN: Heterogeneous Graph-based Congestion Prediction for Chip Layout Verification.<br/>
+<u>Runbang Hu</u>, Bo Fang, Bingzhe Li, <strong>Yuede Ji</strong><br/>
+<strong>[KDD \'26]</strong>, The 2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining<br/>
+
+* eMicro: Real-Time Multi-Hop Access Control for Microservices with eBPF.<br/>
+Rizky Ramadhana Putra Kusnaryanto, Osama Bajaber, Saimon Amanuel Tsegai, Teryl Taylor, Frederico Araujo, <strong>Yuede Ji</strong>, Peng Gao<br/>
+<strong>[CCS \'26]</strong>, ACM Conference on Computer and Communications Security (CCS)<br/>
+
+* Beyond CVSS: Context-Aware Exploitability Assessment of Vulnerabilities in HPC Containers.<br/>
+<u>Emmanuel Oseghale</u>, <u>Mohammad Shahedur Rahman</u>, <u>Ashwani Manoj Kumar Rai</u>, Xing Gao, <strong>Yuede Ji</strong><br/>
+<strong>[Cloud Summit \'26]</strong>, 2026 IEEE Cloud Summit<br/>
+
+* Benchmarking GPU Performance Characteristics of Graph Foundation Models.<br/>
+<u>Chaoqun Li</u>, <u>Joe Caldwell</u>, <u>Runbang Hu</u>, Xiaojiang Du, <strong>Yuede Ji</strong><br/>
+<strong>[Cloud Summit \'26]</strong>, 2026 IEEE Cloud Summit<br/>
+
 ### 2025
 * HuggingGraph: Understanding the Supply Chain of LLM Ecosystem. [[PDF]](https://arxiv.org/pdf/2507.14240)<br/>
 <u>Mohammad Shahedur Rahman</u>, Peng Gao, <strong>Yuede Ji</strong><br/>
