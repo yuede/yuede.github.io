@@ -27,7 +27,13 @@ According to CS ranking, UT Arlington is ranked <strong>Top-10</strong> among al
 News
 ======
 
-[May. 2026] : Our paper VeriHGN on heterogeneous graph-based congestion prediction for chip layout verification is accepted to KDD '26! Congrats to Runbang and collaborators!
+[Jun. 2026] : Our lab started a research partnership with [PuppyGraph](https://www.puppygraph.com/), a graph analytics engine company!
+
+[Jun. 2026] : Dr. Ji is invited to serve as a PC member for USENIX Security.
+
+[Jun. 2026] : Our collaborative paper "L2R: Verification-Guided Repair of LLM-Generated Smart-Home Automation Rules" is accepted to INSCRYPT 2026!
+
+[May. 2026] : Our paper VeriHGN on heterogeneous graph-based congestion prediction for chip layout verification is accepted to KDD '26 and selected for <strong>oral presentation</strong>! Congrats to Runbang and collaborators!
 
 [May. 2026] : Our paper eMicro on real-time multi-hop access control for microservices is accepted to CCS '26! Congrats to the team!
 

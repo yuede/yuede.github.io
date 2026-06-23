@@ -12,7 +12,7 @@ Here is the [full publication list.](./publications_full.md) The students advise
 
 * VeriHGN: Heterogeneous Graph-based Congestion Prediction for Chip Layout Verification.<br/>
 <u>Runbang Hu</u>, Bo Fang, Bingzhe Li, <strong>Yuede Ji</strong><br/>
-<strong>[KDD \'26]</strong>, The 2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining<br/>
+<strong>[KDD \'26]</strong>, The 2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <span style="color:red"><strong>(Oral Presentation)</strong></span><br/>
 
 * eMicro: Real-Time Multi-Hop Access Control for Microservices with eBPF.<br/>
 Rizky Ramadhana Putra Kusnaryanto, Osama Bajaber, Saimon Amanuel Tsegai, Teryl Taylor, Frederico Araujo, <strong>Yuede Ji</strong>, Peng Gao<br/>
