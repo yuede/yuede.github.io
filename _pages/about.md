@@ -27,9 +27,9 @@ According to CS ranking, UT Arlington is ranked <strong>Top-10</strong> among al
 News
 ======
 
-[Aug. 2026] : Our KSPine paper on fast parallel K shortest path computation is accepted to SC '26! Congrats to Weixi and Runbang!
+[Jul. 2026] : Our KSPine paper on fast parallel K shortest path computation is accepted to SC '26! Congrats to Weixi and Runbang!
 
-[Aug. 2026] : Our collaborative paper on hierarchical warm pools for multi-tenant serverless computing is accepted to SEC 2026!
+[Jul. 2026] : Our collaborative paper on hierarchical warm pools for multi-tenant serverless computing is accepted to SEC 2026!
 
 [Jun. 2026] : Our lab started a research partnership with [PuppyGraph](https://www.puppygraph.com/), a graph analytics engine company!
 
