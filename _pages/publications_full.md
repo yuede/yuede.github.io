@@ -22,6 +22,10 @@ The students advised by me are <u>underlined</u>.
 Rizky Ramadhana Putra Kusnaryanto, Osama Bajaber, Saimon Amanuel Tsegai, Teryl Taylor, Frederico Araujo, <strong>Yuede Ji</strong>, Peng Gao<br/>
 <strong>[CCS \'26]</strong>, ACM Conference on Computer and Communications Security (CCS)<br/>
 
+* TARA: A Two-Step Gradient-Based Reconstruction Attack against Federated Graph Classification.<br/>
+<u>Qianjun Wei</u>, Qiang Li, Binghui Wang, <strong>Yuede Ji</strong><br/>
+<strong>[SRDS \'26]</strong>, IEEE International Symposium on Reliable Distributed Systems (SRDS)<br/>
+
 * On the Design of Hierarchical Warm Pools for Multi-Tenant Serverless Computing.<br/>
 Chu Qiao, Zhenkai Zhang, <strong>Yuede Ji</strong>, Xing Gao<br/>
 <strong>[SEC \'26]</strong>, IEEE/ACM Symposium on Edge Computing (SEC)<br/>
@@ -38,9 +42,7 @@ Zhelin Zheng, Chenglong Fu, Xiaojiang Du, <strong>Yuede Ji</strong><br/>
 <u>Chaoqun Li</u>, <u>Joe Caldwell</u>, <u>Runbang Hu</u>, Xiaojiang Du, <strong>Yuede Ji</strong><br/>
 <strong>[Cloud Summit \'26]</strong>, 2026 IEEE Cloud Summit<br/>
 
-* TARA: A Two-Step Gradient-Based Reconstruction Attack against Federated Graph Classification.<br/>
-<u>Qianjun Wei</u>, Qiang Li, Binghui Wang, <strong>Yuede Ji</strong><br/>
-<strong>[SRDS \'26]</strong>, IEEE International Symposium on Reliable Distributed Systems (SRDS)<br/>
+
 
 ### 2025
 * HuggingGraph: Understanding the Supply Chain of LLM Ecosystem. [[PDF]](https://arxiv.org/pdf/2507.14240)<br/>
