@@ -41,8 +41,6 @@ News
 
 [Apr. 2026] : Two invited papers are accepted to IEEE Cloud Summit '26! Congrats to Chaoqun, Emmanuel, and other team members!
 
-[Dec. 2025] : Dr. Ji is invited to serve as a PC member for ICS and ICDCS.
-
 [Nov. 2025] : Dr. Ji served as a session chair in CIKM. 
 
 [Oct. 2025] : I am very honored to receive the 2025 <strong>IEEE CS TCHPC Early Career Researchers Award For Excellence in High Performance Computing</strong>. Truly appreciate the recognition from the community! [[Announcement](https://tc.computer.org/tchpc/2025/09/30/2025-ieee-cs-tchpc-ecr-award-winners/)]
