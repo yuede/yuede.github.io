@@ -41,8 +41,6 @@ News
 
 [Apr. 2026] : Two invited papers are accepted to IEEE Cloud Summit '26! Congrats to Chaoqun, Emmanuel, and other team members!
 
-[Nov. 2025] : Dr. Ji served as a session chair in CIKM. 
-
 [Oct. 2025] : I am very honored to receive the 2025 <strong>IEEE CS TCHPC Early Career Researchers Award For Excellence in High Performance Computing</strong>. Truly appreciate the recognition from the community! [[Announcement](https://tc.computer.org/tchpc/2025/09/30/2025-ieee-cs-tchpc-ecr-award-winners/)]
 
 [Aug. 2025] : Our first paper on AI Supply Chain has been accepted to CIKM 2025 ([PDF](https://arxiv.org/pdf/2507.14240)) and a [demonstration website](https://ai-supply-chain.github.io/)! A very exciting area!
