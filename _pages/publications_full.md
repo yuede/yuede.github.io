@@ -38,6 +38,10 @@ Zhelin Zheng, Chenglong Fu, Xiaojiang Du, <strong>Yuede Ji</strong><br/>
 <u>Chaoqun Li</u>, <u>Joe Caldwell</u>, <u>Runbang Hu</u>, Xiaojiang Du, <strong>Yuede Ji</strong><br/>
 <strong>[Cloud Summit \'26]</strong>, 2026 IEEE Cloud Summit<br/>
 
+* TARA: A Two-Step Gradient-Based Reconstruction Attack against Federated Graph Classification.<br/>
+<u>Qianjun Wei</u>, Qiang Li, Binghui Wang, <strong>Yuede Ji</strong><br/>
+<strong>[SRDS \'26]</strong>, IEEE International Symposium on Reliable Distributed Systems (SRDS)<br/>
+
 ### 2025
 * HuggingGraph: Understanding the Supply Chain of LLM Ecosystem. [[PDF]](https://arxiv.org/pdf/2507.14240)<br/>
 <u>Mohammad Shahedur Rahman</u>, Peng Gao, <strong>Yuede Ji</strong><br/>
