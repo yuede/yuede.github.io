@@ -10,6 +10,10 @@ author_profile: true
 
 Here is the [full publication list.](./publications_full.md) The students advised by me are <u>underlined</u>. 
 
+* KSPine: Fast Parallel K Shortest Path Computation via Block-Cut+ Tree Decomposition and Dynamic Caching.<br/>
+<u>Weixi Chen</u>, <u>Runbang Hu</u>, <strong>Yuede Ji</strong><br/>
+<strong>[SC \'26]</strong>, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)<br/>
+
 * VeriHGN: Heterogeneous Graph-based Congestion Prediction for Chip Layout Verification.<br/>
 <u>Runbang Hu</u>, Bo Fang, Bingzhe Li, <strong>Yuede Ji</strong><br/>
 <strong>[KDD \'26]</strong>, The 2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <span style="color:red"><strong>(Oral Presentation)</strong></span><br/>
