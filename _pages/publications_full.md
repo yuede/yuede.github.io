@@ -14,14 +14,6 @@ The students advised by me are <u>underlined</u>.
 <u>Weixi Chen</u>, <u>Runbang Hu</u>, <strong>Yuede Ji</strong><br/>
 <strong>[SC \'26]</strong>, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)<br/>
 
-* On the Design of Hierarchical Warm Pools for Multi-Tenant Serverless Computing.<br/>
-Chu Qiao, Zhenkai Zhang, <strong>Yuede Ji</strong>, Xing Gao<br/>
-<strong>[SEC \'26]</strong>, IEEE/ACM Symposium on Edge Computing (SEC)<br/>
-
-* L2R: Verification-Guided Repair of LLM-Generated Smart-Home Automation Rules.<br/>
-Zhelin Zheng, Chenglong Fu, Xiaojiang Du, <strong>Yuede Ji</strong><br/>
-<strong>[INSCRYPT \'26]</strong>, International Conference on Information Security and Cryptology (Inscrypt)<br/>
-
 * VeriHGN: Heterogeneous Graph-based Congestion Prediction for Chip Layout Verification.<br/>
 <u>Runbang Hu</u>, Bo Fang, Bingzhe Li, <strong>Yuede Ji</strong><br/>
 <strong>[KDD \'26]</strong>, The 2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining<br/>
@@ -29,6 +21,14 @@ Zhelin Zheng, Chenglong Fu, Xiaojiang Du, <strong>Yuede Ji</strong><br/>
 * eMicro: Real-Time Multi-Hop Access Control for Microservices with eBPF.<br/>
 Rizky Ramadhana Putra Kusnaryanto, Osama Bajaber, Saimon Amanuel Tsegai, Teryl Taylor, Frederico Araujo, <strong>Yuede Ji</strong>, Peng Gao<br/>
 <strong>[CCS \'26]</strong>, ACM Conference on Computer and Communications Security (CCS)<br/>
+
+* On the Design of Hierarchical Warm Pools for Multi-Tenant Serverless Computing.<br/>
+Chu Qiao, Zhenkai Zhang, <strong>Yuede Ji</strong>, Xing Gao<br/>
+<strong>[SEC \'26]</strong>, IEEE/ACM Symposium on Edge Computing (SEC)<br/>
+
+* L2R: Verification-Guided Repair of LLM-Generated Smart-Home Automation Rules.<br/>
+Zhelin Zheng, Chenglong Fu, Xiaojiang Du, <strong>Yuede Ji</strong><br/>
+<strong>[INSCRYPT \'26]</strong>, International Conference on Information Security and Cryptology (Inscrypt)<br/>
 
 * Beyond CVSS: Context-Aware Exploitability Assessment of Vulnerabilities in HPC Containers.<br/>
 <u>Emmanuel Oseghale</u>, <u>Mohammad Shahedur Rahman</u>, <u>Ashwani Manoj Kumar Rai</u>, Xing Gao, <strong>Yuede Ji</strong><br/>
