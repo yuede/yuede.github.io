@@ -15,7 +15,7 @@ He works at the intersections of High-Performance Computing (HPC), Security, Gra
 His research has won the <strong>best paper award at NPC 2014</strong>, and the <strong>best poster award at SMCDC 2023</strong>. His research has been supported by multiple grants from National Science Foundation (NSF), Department of Energy (DOE), and Google.
 
 
-Prior to joining UT Arlington, he was an assistant professor at the University of North Texas from 2021 to 2024. He received a Ph.D. degree from the George Washington University in 2021 working with [Dr. Howie Huang](https://www2.seas.gwu.edu/~howie/).
+Prior to joining UT Arlington, he was an assistant professor at the University of North Texas from 2021 to 2024, and a visiting faculty at the Oak Ridge National Laboratory (ORNL) for Summer 2023. He received a Ph.D. degree from the George Washington University in 2021 working with [Dr. Howie Huang](https://www2.seas.gwu.edu/~howie/).
 
 Openings
 ======
