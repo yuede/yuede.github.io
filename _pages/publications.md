@@ -22,6 +22,10 @@ Here is the [full publication list.](./publications_full.md) The students advise
 Rizky Ramadhana Putra Kusnaryanto, Osama Bajaber, Saimon Amanuel Tsegai, Teryl Taylor, Frederico Araujo, <strong>Yuede Ji</strong>, Peng Gao<br/>
 <strong>[CCS \'26]</strong>, ACM Conference on Computer and Communications Security (CCS)<br/>
 
+* TARA: A Two-Step Gradient-Based Reconstruction Attack against Federated Graph Classification.<br/>
+<u>Qianjun Wei</u>, Qiang Li, Binghui Wang, <strong>Yuede Ji</strong><br/>
+<strong>[SRDS \'26]</strong>, IEEE International Symposium on Reliable Distributed Systems (SRDS)<br/>
+
 * HuggingGraph: Understanding the Supply Chain of LLM Ecosystem. [[PDF]](https://arxiv.org/pdf/2507.14240)<br/>
 <u>Mohammad Shahedur Rahman</u>, Peng Gao, <strong>Yuede Ji</strong><br/>
 <strong>[CIKM \'25]</strong>, 34th ACM International Conference on Information and Knowledge Management (CIKM), 2025<br/>
