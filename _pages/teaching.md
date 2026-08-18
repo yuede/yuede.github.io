@@ -4,6 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+* CSCE-4380/5380: Information Security [Fall 2026]
+* CSCE-6392: Special Topics in AI Supply Chains [Spring 2026]
+* CSCE-4380/5380: Information Security [Fall 2025]
 * CSCE-4380: Information Security [Spring 2025]
 * CSCE-4380: Information Security [Fall 2024]
 * CSCE-5565: Secure Software Development [Spring 2024]

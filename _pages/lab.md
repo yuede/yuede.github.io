@@ -95,6 +95,27 @@ author_profile: true
   </div>
 
   <div style="text-align:center;">
+    <img src="../images/Nafid.jpeg" alt="Nafid Enan" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
+    <div><strong>Nafid Enan</strong><br/>
+    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
+      <li style="margin:0;"><small>BS, BUET</small></li>
+      <li style="margin:0;"><small>MS, York University</small></li>
+    </ul>
+    </div>
+  </div>
+
+  <div style="text-align:center;">
+    <img src="../images/SooHyunKIM_photo.jpg" alt="Soo Hyun Kim" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
+    <div><strong>Soo Hyun Kim</strong><br/>
+    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
+      <li style="margin:0;"><small>BS, Myongji University</small></li>
+      <li style="margin:0;"><small>MS, Sungkyunkwan University</small></li>
+    </ul>
+    </div>
+  </div>
+  
+
+  <div style="text-align:center;">
     <img src="../images/jianxu.png" alt="Jian Xu" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
     <div><strong>Jian Xu</strong><br/><small>Co-advise with Prof. Miao Yin</small></div>
     <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
