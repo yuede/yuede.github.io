@@ -5,7 +5,7 @@ permalink: /lab/
 author_profile: true
 ---
 
-<strong>Graph-Centric Security, Learning, and Computing</strong>
+<strong>Scalable and Trustworthy AI Systems, built on graph-centric methods</strong>
 
 ## PhD Students
 
