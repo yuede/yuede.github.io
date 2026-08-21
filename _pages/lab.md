@@ -113,7 +113,16 @@ author_profile: true
     </ul>
     </div>
   </div>
-  
+
+  <div style="text-align:center;">
+    <img src="../images/Gia.jpeg" alt="Gia Dao" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
+    <div><strong>Gia Dao</strong><br/>
+    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
+      <li style="margin:0;"><small>BS, UT Arlington</small></li>
+      <li style="margin:0;"><small>MS, UT Arlington</small></li>
+    </ul>
+    </div>
+  </div>  
 
   <div style="text-align:center;">
     <img src="../images/jianxu.png" alt="Jian Xu" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
