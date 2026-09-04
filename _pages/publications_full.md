@@ -9,6 +9,11 @@ author_profile: true
 {% endif %}
 
 The students advised by me are <u>underlined</u>.
+### 2027
+* FLARE: A Dataflow-Aware and Scalable Hardware Architecture for Neural-Hybrid Scientific Lossy Compression.<br/>
+Wenqi Jia, Zhewen Hu, Baixi Sun, Yafan Huang, Jiannan Tian, Boyuan Zhang, Daoce Wang, Sian Jin, Luanzheng Guo, Sheng Di, <strong>Yuede Ji</strong>, Miao Yin<br/>
+<strong>[ASP-DAC \'27]</strong>, 32nd Asia and South Pacific Design Automation Conference (ASP-DAC)<br/>
+
 ### 2026
 * KSPine: Fast Parallel K Shortest Path Computation via Block-Cut+ Tree Decomposition and Dynamic Caching.<br/>
 <u>Weixi Chen</u>, <u>Runbang Hu</u>, <strong>Yuede Ji</strong><br/>
