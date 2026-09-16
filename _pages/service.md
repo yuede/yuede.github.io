@@ -24,7 +24,7 @@ author_profile: true
 
 
 * **Reviewer**
-    * KDD, 2025, 2026
+    * KDD, 2025, 2026, 2027
     * IEEE Transactions on Parallel and Distributed Systems (TPDS)
     * IEEE Transactions on Computers (TC)
     * ACM Transactions on Architecture and Code Optimization (TACO)
