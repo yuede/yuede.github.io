@@ -27,6 +27,8 @@ According to CS ranking, UT Arlington is ranked <strong>Top-10</strong> among al
 News
 ======
 
+[Sep. 2026] : Two collaborative papers, CC-GS on low-memory 3D Gaussian Splatting training and LEAD on length-efficient adaptive reasoning for LLMs, are accepted to NeurIPS 2026! Congrats to Jian and collaborators!
+
 [Sep. 2026] : Our collaborative paper on a dataflow-aware hardware architecture for neural-hybrid scientific lossy compression, FLARE, is accepted to ASP-DAC '27!
 
 [Aug. 2026] : Our TARA paper on gradient-based reconstruction attacks against federated graph classification is accepted to SRDS '26! Congrats to Qianjun!

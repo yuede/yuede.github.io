@@ -10,6 +10,14 @@ author_profile: true
 
 Here is the [full publication list.](./publications_full.md) The students advised by me are <u>underlined</u>. 
 
+* CC-GS: Low-Memory 3D Gaussian Splatting Training via CPU-GPU Block-Wise Context Compositing.<br/>
+<u>Jian Xu</u>, Siyi Wu, Yi Li, Bingzhe Li, Sian Jin, Wei Niu, Sheng Di, <strong>Yuede Ji</strong>, Miao Yin<br/>
+<strong>[NeurIPS \'26]</strong>, Conference on Neural Information Processing Systems (NeurIPS)<br/>
+
+* LEAD: Length-Efficient Adaptive and Dynamic Reasoning for Large Language Models.<br/>
+Songtao Wei, Yi Li, Zhikai Li, Xu Hu, <strong>Yuede Ji</strong>, Guanpeng Li, Feng Chen, Carl Yang, Zhichun Guo, Bingzhe Li<br/>
+<strong>[NeurIPS \'26]</strong>, Conference on Neural Information Processing Systems (NeurIPS)<br/>
+
 * KSPine: Fast Parallel K Shortest Path Computation via Block-Cut+ Tree Decomposition and Dynamic Caching.<br/>
 <u>Weixi Chen</u>, <u>Runbang Hu</u>, <strong>Yuede Ji</strong><br/>
 <strong>[SC \'26]</strong>, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)<br/>
