@@ -15,8 +15,8 @@ author_profile: true
 * **Technical Program Committee**
     * USENIX Security, 2027
     * ICS, 2026, 2027
-    * ICDCS, 2025, 2026
     * IPDPS, 2025, 2027
+    * ICDCS, 2025, 2026
     * ACM HPDC, 2023
     * ISC, 2023
     * Learning on Graphs Conference (LoG), 2022 - 2027
