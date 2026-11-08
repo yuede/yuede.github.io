@@ -29,14 +29,14 @@ author_profile: true
     * IEEE Transactions on Parallel and Distributed Systems (TPDS)
     * IEEE Transactions on Computers (TC)
     * ACM Transactions on Architecture and Code Optimization (TACO)
+    * ACM Transactions on Algorithms (TALG)
+    * IEEE Transactions on Software Engineering (TSE)
+    * Computer Networks
     * ACM Computing Surveys (CSUR)
     * IEEE Transactions on Dependable and Secure Computing (TDSC)
     * IEEE Transactions on Information Forensics and Security (TIFS)
     * IEEE Transactions on Cloud Computing (TCC)
     * ACM Transactions on Parallel Computing (TOPC)
-    * ACM Transactions on Algorithms (TALG)
-    * ACM Transactions on Software Engineering and Methodology (TOSEM)
-    * Computer Networks
     * Journal of Parallel and Distributed Computing
   
 
