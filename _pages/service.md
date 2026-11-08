@@ -25,6 +25,7 @@ author_profile: true
 
 * **Reviewer**
     * KDD, 2025, 2026, 2027
+    * WWW, 2027
     * IEEE Transactions on Parallel and Distributed Systems (TPDS)
     * IEEE Transactions on Computers (TC)
     * ACM Transactions on Architecture and Code Optimization (TACO)
@@ -33,6 +34,8 @@ author_profile: true
     * IEEE Transactions on Information Forensics and Security (TIFS)
     * IEEE Transactions on Cloud Computing (TCC)
     * ACM Transactions on Parallel Computing (TOPC)
+    * ACM Transactions on Algorithms (TALG)
+    * ACM Transactions on Software Engineering and Methodology (TOSEM)
     * Computer Networks
     * Journal of Parallel and Distributed Computing
   
