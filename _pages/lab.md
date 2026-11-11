@@ -55,6 +55,7 @@ author_profile: true
     </div>
   </div>
 
+  <!--
   <div style="text-align:center;">
     <img src="../images/Shahed.JPG" alt="Mohammad Shahedur Rahman" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
     <div><strong>Mohammad Shahedur Rahman</strong>
@@ -64,6 +65,7 @@ author_profile: true
     </ul>
     </div>
   </div>
+  -->
 
   <div style="text-align:center;">
     <img src="../images/Chaoqun.jpeg" alt="Chaoqun Li" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
@@ -108,8 +110,8 @@ author_profile: true
     <img src="../images/SooHyunKIM_photo.jpg" alt="Soo Hyun Kim" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
     <div><strong>Soo Hyun Kim</strong><br/>
     <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
-      <li style="margin:0;"><small>BS, Myongji University</small></li>
-      <li style="margin:0;"><small>MS, Sungkyunkwan University</small></li>
+      <li style="margin:0;"><small>BA, Myongji University</small></li>
+      <li style="margin:0;"><small>ME, Sungkyunkwan University</small></li>
     </ul>
     </div>
   </div>
