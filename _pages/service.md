@@ -13,6 +13,7 @@ author_profile: true
     * Publication Chair: Annual Workshop on Cyber Security in High Performance Computing (S-HPC), 2023, 2024
 
 * **Technical Program Committee**
+    * SC (Supercomputing), 2027
     * USENIX Security, 2027
     * ICS, 2026, 2027
     * IPDPS, 2025, 2027
@@ -20,7 +21,6 @@ author_profile: true
     * ACM HPDC, 2023
     * ISC, 2023
     * Learning on Graphs Conference (LoG), 2022 - 2027
-    * SC Doctoral Showcase Poster Track, 2023
 
 
 * **Reviewer**
